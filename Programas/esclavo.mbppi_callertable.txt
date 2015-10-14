@@ -1,0 +1,16 @@
+main
+	EEPROM_Read
+	LimpiarLeds
+	UART1_Init
+	Leer_LCD
+		Inicio_LCD
+		Leer_Caracter
+interrupt
+	UART1_Data_Ready
+	UART1_Read
+	CalcularCRC
+	ADC_Init
+	ADC_Read
+		Delay_22us
+	Div_16x16_U
+	UART1_Write

@@ -1,0 +1,751 @@
+%PDF-1.2 %‚„œ”
+ 8 0 obj<</Length 9 0 R>>stream
+0 0 0 rg 25.5 53.25 528.75 27 re fBT25.5 61.5  TD1 1 1 rg /F0 14.25  Tf-0.0433  Tc -0.2754  Tw (    NORITAKE ITRON VFD MODULES) Tj252 0  TD -0.0461  Tc -0.0878  Tw (                          4x20, 5mm Dot Character) Tj79.5 386.25  TD 0 0 0 rg /F0 8.25  Tf-0.265  Tc 0.2215  Tw (CHARACTER FONT) TjET27.75 753 528.75 31.5 re fq 1 0 0 1 -0.35 0.09 cm 18 744 547.5 54 re h W n 1 1 1 rg 0.75 w 1 j 0 0 0 RG 25.5 756 528 30.75 re b*Q BT31.5 762.75  TD/F0 18  Tf0.009  Tc 0.237  Tw (5X7 Dot Character VFD Module) Tj324 0  TD -0.0462  Tc 0  Tw (CU20045SCPB-KT70A) TjETq 357 261.75 96 9 re h W n BT357 264  TD/F0 8.25  Tf-0.1581  Tc 0.1146  Tw (  IDC DATA CONNECTOR) TjETQ 0.8 0.8 0.8 rg 357 251.25 20.25 9.75 re fBT361.5 253.5  TD0 0 0 rg /F0 8.25  Tf-0.029  Tc (Pin) TjET0.8 0.8 0.8 rg 378 251.25 63 9.75 re fBT399 253.5  TD0 0 0 rg -0.0014  Tc (Signal) TjET0.8 0.8 0.8 rg 441.75 251.25 21 9.75 re fBT446.25 253.5  TD0 0 0 rg -0.029  Tc (Pin) TjET0.8 0.8 0.8 rg 463.5 251.25 63 9.75 re fBT483 253.5  TD0 0 0 rg -0.0014  Tc (Signal) TjET356.25 261 0.75 0.75 re f356.25 261 0.75 0.75 re f357 261 20.25 0.75 re f377.25 261 0.75 0.75 re f378 261 63 0.75 re f441 261 0.75 0.75 re f441.75 261 21 0.75 re f462.75 261 0.75 0.75 re f463.5 261 63 0.75 re f526.5 261 0.75 0.75 re f526.5 261 0.75 0.75 re f356.25 252 0.75 9 re f377.25 252 0.75 9 re f441 252 0.75 9 re f462.75 252 0.75 9 re f526.5 252 0.75 9 re fBT365.25 243.75  TD/F1 8.25  Tf-0.087  Tc (1) Tj33.75 0  TD -0.3662  Tc (BUSY) Tj51 0  TD -0.087  Tc (8) Tj40.5 0  TD -0.7718  Tc (D2) TjET356.25 251.25 0.75 0.75 re f357 251.25 20.25 0.75 re f377.25 251.25 0.75 0.75 re f378 251.25 63 0.75 re f441 251.25 0.75 0.75 re f441.75 251.25 21 0.75 re f462.75 251.25 0.75 0.75 re f463.5 251.25 63 0.75 re f526.5 251.25 0.75 0.75 re f356.25 242.25 0.75 9 re f377.25 242.25 0.75 9 re f441 242.25 0.75 9 re f462.75 242.25 0.75 9 re f526.5 242.25 0.75 9 re fBT365.25 234  TD-0.087  Tc (2) Tj21.75 0  TD -0.0729  Tc 0.0294  Tw (Write Strobe) Tj63 0  TD -0.087  Tc 0  Tw (9) Tj40.5 0  TD -0.7718  Tc (D1) TjET356.25 241.5 0.75 0.75 re f357 241.5 20.25 0.75 re f377.25 241.5 0.75 0.75 re f378 241.5 63 0.75 re f441 241.5 0.75 0.75 re f441.75 241.5 21 0.75 re f462.75 241.5 0.75 0.75 re f463.5 241.5 63 0.75 re f526.5 241.5 0.75 0.75 re f356.25 232.5 0.75 9 re f377.25 232.5 0.75 9 re f441 232.5 0.75 9 re f462.75 232.5 0.75 9 re f526.5 232.5 0.75 9 re fBT365.25 224.25  TD-0.087  Tc (3) Tj39.75 0  TD -0.7718  Tc (D7) Tj42.75 0  TD -0.087  Tc (10) Tj42.75 0  TD -0.7718  Tc (D0) TjET356.25 231.75 0.75 0.75 re f357 231.75 20.25 0.75 re f377.25 231.75 0.75 0.75 re f378 231.75 63 0.75 re f441 231.75 0.75 0.75 re f441.75 231.75 21 0.75 re f462.75 231.75 0.75 0.75 re f463.5 231.75 63 0.75 re f526.5 231.75 0.75 0.75 re f356.25 222.75 0.75 9 re f377.25 222.75 0.75 9 re f441 222.75 0.75 9 re f462.75 222.75 0.75 9 re f526.5 222.75 0.75 9 re fBT365.25 214.5  TD-0.087  Tc (4) Tj39.75 0  TD -0.7718  Tc (D6) Tj42.75 0  TD -0.087  Tc (11) Tj32.25 0  TD -0.2527  Tc (V) Tj6 0  TD /F1 5.25  Tf-0.0405  Tc 0.081  Tw (CC ) Tj8.25 0  TD /F1 8.25  Tf0.0414  Tc 0  Tw (\(5V\)) TjET356.25 222 0.75 0.75 re f357 222 20.25 0.75 re f377.25 222 0.75 0.75 re f378 222 63 0.75 re f441 222 0.75 0.75 re f441.75 222 21 0.75 re f462.75 222 0.75 0.75 re f463.5 222 63 0.75 re f526.5 222 0.75 0.75 re f356.25 213 0.75 9 re f377.25 213 0.75 9 re f441 213 0.75 9 re f462.75 213 0.75 9 re f526.5 213 0.75 9 re fBT365.25 204.75  TD-0.087  Tc (5) Tj39.75 0  TD -0.7718  Tc (D5) Tj42.75 0  TD -0.087  Tc (12) Tj32.25 0  TD 0.3315  Tc (G) Tj6 0  TD /F1 5.25  Tf-0.0405  Tc 0.081  Tw (ND ) Tj9 0  TD /F1 8.25  Tf0.0414  Tc 0  Tw (\(0V\)) TjET356.25 212.25 0.75 0.75 re f357 212.25 20.25 0.75 re f377.25 212.25 0.75 0.75 re f378 212.25 63 0.75 re f441 212.25 0.75 0.75 re f441.75 212.25 21 0.75 re f462.75 212.25 0.75 0.75 re f463.5 212.25 63 0.75 re f526.5 212.25 0.75 0.75 re f356.25 203.25 0.75 9 re f377.25 203.25 0.75 9 re f441 203.25 0.75 9 re f462.75 203.25 0.75 9 re f526.5 203.25 0.75 9 re fBT365.25 195  TD-0.087  Tc (6) Tj39.75 0  TD -0.7718  Tc (D4) Tj42.75 0  TD -0.087  Tc (13) Tj42 0  TD -0.7065  Tc (NC) TjET356.25 202.5 0.75 0.75 re f357 202.5 20.25 0.75 re f377.25 202.5 0.75 0.75 re f378 202.5 63 0.75 re f441 202.5 0.75 0.75 re f441.75 202.5 21 0.75 re f462.75 202.5 0.75 0.75 re f463.5 202.5 63 0.75 re f526.5 202.5 0.75 0.75 re f356.25 193.5 0.75 9 re f377.25 193.5 0.75 9 re f441 193.5 0.75 9 re f462.75 193.5 0.75 9 re f526.5 193.5 0.75 9 re fBT365.25 185.25  TD-0.087  Tc (7) Tj39.75 0  TD -0.7718  Tc (D3) Tj42.75 0  TD -0.087  Tc (14) Tj33 0  TD -0.2165  Tc (/RESET) TjET356.25 192.75 0.75 0.75 re f357 192.75 20.25 0.75 re f377.25 192.75 0.75 0.75 re f378 192.75 63 0.75 re f441 192.75 0.75 0.75 re f441.75 192.75 21 0.75 re f462.75 192.75 0.75 0.75 re f463.5 192.75 63 0.75 re f526.5 192.75 0.75 0.75 re f356.25 183.75 0.75 9 re f356.25 183 0.75 0.75 re f356.25 183 0.75 0.75 re f357 183 20.25 0.75 re f377.25 183.75 0.75 9 re f377.25 183 0.75 0.75 re f378 183 63 0.75 re f441 183.75 0.75 9 re f441 183 0.75 0.75 re f441.75 183 21 0.75 re f462.75 183.75 0.75 9 re f462.75 183 0.75 0.75 re f463.5 183 63 0.75 re f526.5 183.75 0.75 9 re f526.5 183 0.75 0.75 re f526.5 183 0.75 0.75 re fBT44.25 738  TD/F2 8.25  Tf0.1493  Tc (q) TjETq 51.75 735.75 10.5 9.75 re h W n BT51.75 738  TD/F1 8.25  Tf0  Tc -0.0435  Tw ( ) TjETQ q 62.25 735.75 149.25 9.75 re h W n BT62.25 738  TD/F0 9  Tf-0.0013  Tc -0.1257  Tw (4 Lines of 20 Characters 5mm High) TjETQ BT44.25 728.25  TD(q) Tj7.5 0  TD /F1 8.25  Tf0  Tc -0.0435  Tw ( ) Tj10.5 0  TD /F0 9  Tf0.0134  Tc -0.0154  Tw (High Speed Parallel/Serial Interface) Tj-18 -11.25  TD /F2 8.25  Tf0.1493  Tc 0  Tw (q) Tj7.5 0  TD /F1 8.25  Tf0  Tc -0.0435  Tw ( ) Tj10.5 0  TD /F0 9  Tf-0.0009  Tc -0.2511  Tw (Operating Temp -30) Tj84 0  TD /F3 9  Tf0.15  Tc 0  Tw (\260) Tj4.5 0  TD /F0 9  Tf-0.043  Tc -0.209  Tw (C to +70) Tj34.5 0  TD /F3 9  Tf0.15  Tc 0  Tw (\260) Tj4.5 0  TD /F0 9  Tf0.252  Tc (C) Tj-145.5 -10.5  TD /F2 8.25  Tf0.1493  Tc (q) Tj7.5 0  TD /F1 8.25  Tf0  Tc -0.0435  Tw ( ) Tj10.5 0  TD /F0 9  Tf-0.0373  Tc -0.2147  Tw (Single 5V Supply) Tj-18 -10.5  TD /F2 8.25  Tf0.1493  Tc 0  Tw (q) Tj7.5 0  TD /F1 8.25  Tf0  Tc -0.0435  Tw ( ) Tj10.5 0  TD /F0 9  Tf-0.0427  Tc 0.3532  Tw (High Brightness Blue Green Display) Tj-18 -9.75  TD /F2 8.25  Tf0.1493  Tc 0  Tw (q) Tj7.5 0  TD /F1 8.25  Tf0  Tc -0.0435  Tw ( ) Tj10.5 0  TD /F0 9  Tf-0.0191  Tc -0.0454  Tw (ASCII & Extended Character Font) TjETq 35.25 445.5 118.5 9 re h W n BT35.25 447.75  TD/F0 8.25  Tf-0.1831  Tc 0.1396  Tw (  ELECTRICAL SPECIFICATION) TjETQ 0.8 0.8 0.8 rg 36.75 435.75 90 9 re fBT40.5 438  TD0 0 0 rg /F0 8.25  Tf-0.1501  Tc 0  Tw (Parameter) TjET0.8 0.8 0.8 rg 127.5 435.75 48.75 9 re fBT131.25 438  TD0 0 0 rg 0.0335  Tc (Symbol) TjET0.8 0.8 0.8 rg 177 435.75 70.5 9 re fBT180.75 438  TD0 0 0 rg -0.2022  Tc (Value) TjET0.8 0.8 0.8 rg 248.25 435.75 69.75 9 re fBT251.25 438  TD0 0 0 rg -0.0272  Tc (Condition) TjET36 444.75 0.75 0.75 re f36 444.75 0.75 0.75 re f36.75 444.75 90 0.75 re f126.75 444.75 0.75 0.75 re f127.5 444.75 48.75 0.75 re f176.25 444.75 0.75 0.75 re f177 444.75 70.5 0.75 re f247.5 444.75 0.75 0.75 re f248.25 444.75 69.75 0.75 re f318 444.75 0.75 0.75 re f318 444.75 0.75 0.75 re f36 435.75 0.75 9 re f126.75 435.75 0.75 9 re f176.25 435.75 0.75 9 re f247.5 435.75 0.75 9 re f318 435.75 0.75 9 re fBT40.5 428.25  TD/F1 8.25  Tf-0.0459  Tc -0.3726  Tw (Power Supply Voltage) Tj90.75 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf0.168  Tc (CC) Tj43.5 0  TD /F1 8.25  Tf-0.1058  Tc 0.0622  Tw (5.0VDC +/- 5%) Tj70.5 0  TD 0.3315  Tc 0  Tw (G) Tj6 0  TD /F1 6  Tf0.168  Tc (ND) Tj9 0  TD /F1 8.25  Tf-0.2192  Tc (=0V) TjET36 435 0.75 0.75 re f36.75 435 90 0.75 re f126.75 435 0.75 0.75 re f127.5 435 48.75 0.75 re f176.25 435 0.75 0.75 re f177 435 70.5 0.75 re f247.5 435 0.75 0.75 re f248.25 435 69.75 0.75 re f318 435 0.75 0.75 re f36 426 0.75 9 re f126.75 426 0.75 9 re f176.25 426 0.75 9 re f247.5 426 0.75 9 re f318 426 0.75 9 re fBT40.5 418.5  TD-0.1031  Tc 0.0596  Tw (Power Supply Current) Tj90.75 0  TD -0.0435  Tc 0  Tw (I) Tj1.5 0  TD /F1 6  Tf0.168  Tc (CC) Tj48 0  TD /F1 8.25  Tf-0.2927  Tc -0.5008  Tw (350mADC ) Tj38.25 0  TD 0.0502  Tc 0  Tw (typ.) Tj32.25 0  TD -0.2767  Tc (Vcc=5V) TjET36 425.25 0.75 0.75 re f36.75 425.25 90 0.75 re f126.75 425.25 0.75 0.75 re f127.5 425.25 48.75 0.75 re f176.25 425.25 0.75 0.75 re f177 425.25 70.5 0.75 re f247.5 425.25 0.75 0.75 re f248.25 425.25 69.75 0.75 re f318 425.25 0.75 0.75 re f36 416.25 0.75 9 re f126.75 416.25 0.75 9 re f176.25 416.25 0.75 9 re f247.5 416.25 0.75 9 re f318 416.25 0.75 9 re fBT40.5 408.75  TD-0.1805  Tc 0.137  Tw (Logic High Input) Tj90.75 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf0  Tc (IH) Tj43.5 0  TD /F1 8.25  Tf-0.1718  Tc 0.1282  Tw (2.0VDC min.) Tj70.5 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf0.168  Tc (CC) Tj9 0  TD /F1 8.25  Tf-0.7192  Tc (=5V) TjET36 415.5 0.75 0.75 re f36.75 415.5 90 0.75 re f126.75 415.5 0.75 0.75 re f127.5 415.5 48.75 0.75 re f176.25 415.5 0.75 0.75 re f177 415.5 70.5 0.75 re f247.5 415.5 0.75 0.75 re f248.25 415.5 69.75 0.75 re f318 415.5 0.75 0.75 re f36 406.5 0.75 9 re f126.75 406.5 0.75 9 re f176.25 406.5 0.75 9 re f247.5 406.5 0.75 9 re f318 406.5 0.75 9 re fBT40.5 399  TD-0.1112  Tc 0.0677  Tw (Logic Low Input) Tj90.75 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf-0.252  Tc (IL) Tj43.5 0  TD /F1 8.25  Tf-0.1011  Tc 0.0576  Tw (0.8VDC max.) Tj70.5 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf0.168  Tc (CC) Tj9 0  TD /F1 8.25  Tf-0.7192  Tc (=5V) TjET36 405.75 0.75 0.75 re f36.75 405.75 90 0.75 re f126.75 405.75 0.75 0.75 re f127.5 405.75 48.75 0.75 re f176.25 405.75 0.75 0.75 re f177 405.75 70.5 0.75 re f247.5 405.75 0.75 0.75 re f248.25 405.75 69.75 0.75 re f318 405.75 0.75 0.75 re f36 396.75 0.75 9 re f126.75 396.75 0.75 9 re f176.25 396.75 0.75 9 re f247.5 396.75 0.75 9 re f318 396.75 0.75 9 re fBT40.5 389.25  TD-0.1464  Tc 0.1029  Tw (Logic High Output) Tj90.75 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf0  Tc (OH) Tj43.5 0  TD /F1 8.25  Tf-0.1718  Tc 0.1282  Tw (2.4VDC min.) Tj70.5 0  TD -0.0435  Tc 0  Tw (I) Tj1.5 0  TD /F1 6  Tf0  Tc -0.168  Tw (OH ) Tj10.5 0  TD /F1 8.25  Tf-0.2011  Tc 0.1576  Tw (= -2.0mA) TjET36 396 0.75 0.75 re f36.75 396 90 0.75 re f126.75 396 0.75 0.75 re f127.5 396 48.75 0.75 re f176.25 396 0.75 0.75 re f177 396 70.5 0.75 re f247.5 396 0.75 0.75 re f248.25 396 69.75 0.75 re f318 396 0.75 0.75 re f36 387 0.75 9 re f126.75 387 0.75 9 re f176.25 387 0.75 9 re f247.5 387 0.75 9 re f318 387 0.75 9 re fBT40.5 379.5  TD-0.0796  Tc 0.0361  Tw (Logic Low Output) Tj90.75 0  TD -0.2527  Tc 0  Tw (V) Tj6 0  TD /F1 6  Tf-0.252  Tc (OL) Tj43.5 0  TD /F1 8.25  Tf-0.1011  Tc 0.0576  Tw (0.5VDC max.) Tj70.5 0  TD -0.0435  Tc 0  Tw (I) Tj1.5 0  TD /F1 6  Tf0.123  Tc -0.291  Tw (OL ) Tj9.75 0  TD /F1 8.25  Tf-0.2768  Tc 0  Tw (=2.0mA) TjET36 386.25 0.75 0.75 re f36.75 386.25 90 0.75 re f126.75 386.25 0.75 0.75 re f127.5 386.25 48.75 0.75 re f176.25 386.25 0.75 0.75 re f177 386.25 70.5 0.75 re f247.5 386.25 0.75 0.75 re f248.25 386.25 69.75 0.75 re f318 386.25 0.75 0.75 re f36 377.25 0.75 9 re f36 376.5 0.75 0.75 re f36 376.5 0.75 0.75 re f36.75 376.5 90 0.75 re f126.75 377.25 0.75 9 re f126.75 376.5 0.75 0.75 re f127.5 376.5 48.75 0.75 re f176.25 377.25 0.75 9 re f176.25 376.5 0.75 0.75 re f177 376.5 70.5 0.75 re f247.5 377.25 0.75 9 re f247.5 376.5 0.75 0.75 re f248.25 376.5 69.75 0.75 re f318 377.25 0.75 9 re f318 376.5 0.75 0.75 re f318 376.5 0.75 0.75 re fBT35.25 371.25  TD/F1 6  Tf-0.029  Tc 0.086  Tw ( The power on rise time should be less than 50ms.The inrush current at power on can be 2 x I) Tj247.5 0  TD /F1 3.75  Tf0.2925  Tc 0  Tw (CC) Tj6 0  TD /F1 6  Tf-0.168  Tc (.) Tj-253.5 -16.5  TD /F0 0.75  Tf0  Tc 0.1665  Tw (        ) Tj3 0  TD /F0 8.25  Tf-0.2244  Tc 0.1809  Tw (OPTICAL and ENVIRONMENTAL SPECIFICATIONS) TjET0.8 0.8 0.8 rg 36.75 342.75 139.5 9 re fBT40.5 345  TD0 0 0 rg -0.1501  Tc 0  Tw (Parameter) TjET0.8 0.8 0.8 rg 177 342.75 141 9 re fBT180.75 345  TD0 0 0 rg -0.2022  Tc (Value) TjET36 351.75 0.75 0.75 re f36 351.75 0.75 0.75 re f36.75 351.75 139.5 0.75 re f176.25 351.75 0.75 0.75 re f177 351.75 141 0.75 re f318 351.75 0.75 0.75 re f318 351.75 0.75 0.75 re f36 342.75 0.75 9 re f176.25 342.75 0.75 9 re f318 342.75 0.75 9 re fBT40.5 335.25  TD/F1 8.25  Tf-0.0697  Tc 0.0262  Tw (Character Size/Pitch \() Tj78.75 0  TD -0.5204  Tc 0.4769  Tw (XxY mm\)) Tj61.5 0  TD -0.0109  Tc -0.2201  Tw (3.0 x 5.0/4.6 x 7.0) TjET36 342 0.75 0.75 re f36.75 342 139.5 0.75 re f176.25 342 0.75 0.75 re f177 342 141 0.75 re f318 342 0.75 0.75 re f36 333 0.75 9 re f176.25 333 0.75 9 re f318 333 0.75 9 re fBT40.5 325.5  TD-0.0903  Tc 0.0468  Tw (Dot Size/Pitch \() Tj55.5 0  TD -0.3954  Tc 0.3519  Tw (XxY mm\)) Tj84.75 0  TD -0.0199  Tc -0.2111  Tw (0.4 x 0.5/0.65 x 0.75) TjET36 332.25 0.75 0.75 re f36.75 332.25 139.5 0.75 re f176.25 332.25 0.75 0.75 re f177 332.25 141 0.75 re f318 332.25 0.75 0.75 re f36 323.25 0.75 9 re f176.25 323.25 0.75 9 re f318 323.25 0.75 9 re fBT40.5 315.75  TD-0.0668  Tc 0  Tw (Luminance) Tj140.25 0  TD -0.0198  Tc -0.0237  Tw (700 cd/m) Tj33 3.75  TD /F1 5.25  Tf0.081  Tc -0.0405  Tw (2 ) Tj4.5 -3.75  TD /F1 8.25  Tf-0.0021  Tc -0.0414  Tw ( \(204 ) Tj20.25 0  TD 0.0407  Tc -0.0842  Tw (fL\) ) Tj12 0  TD -0.0741  Tc 0  Tw (Typ.) TjET36 322.5 0.75 0.75 re f36.75 322.5 139.5 0.75 re f176.25 322.5 0.75 0.75 re f177 322.5 141 0.75 re f318 322.5 0.75 0.75 re f36 313.5 0.75 9 re f176.25 313.5 0.75 9 re f318 313.5 0.75 9 re fBT40.5 306  TD-0.1574  Tc 0.1138  Tw (Colour of Illumination) Tj140.25 0  TD -0.0932  Tc 0.0497  Tw (Blue-Green ) Tj43.5 0  TD /F1 6.75  Tf0.1126  Tc -0.4892  Tw (\(Filter for ) Tj30 0  TD 0.0934  Tc 0  Tw (colours\)) TjET36 312.75 0.75 0.75 re f36.75 312.75 139.5 0.75 re f176.25 312.75 0.75 0.75 re f177 312.75 141 0.75 re f318 312.75 0.75 0.75 re f36 303.75 0.75 9 re f176.25 303.75 0.75 9 re f318 303.75 0.75 9 re fBT40.5 296.25  TD/F1 8.25  Tf-0.1224  Tc 0.0789  Tw (Operating Temperature) Tj140.25 -0.75  TD 0.0262  Tc 0  Tw (-30) Tj12 0  TD /F4 8.25  Tf-0.3  Tc (\260) Tj3 0  TD /F1 8.25  Tf-0.2215  Tc 0.178  Tw (C to +70) Tj30 0  TD /F4 8.25  Tf-0.3  Tc 0  Tw (\260) Tj3 0  TD /F1 8.25  Tf0.0435  Tc (C) TjET36 303 0.75 0.75 re f36.75 303 139.5 0.75 re f176.25 303 0.75 0.75 re f177 303 141 0.75 re f318 303 0.75 0.75 re f36 293.25 0.75 9.75 re f176.25 293.25 0.75 9.75 re f318 293.25 0.75 9.75 re fBT40.5 285.75  TD-0.1036  Tc 0.0601  Tw (Storage Temperature) Tj140.25 -0.75  TD 0.0262  Tc 0  Tw (-40) Tj12 0  TD /F4 8.25  Tf-0.3  Tc (\260) Tj3 0  TD /F1 8.25  Tf-0.2215  Tc 0.178  Tw (C to +85) Tj30 0  TD /F4 8.25  Tf-0.3  Tc 0  Tw (\260) Tj3 0  TD /F1 8.25  Tf0.0435  Tc (C) TjET36 292.5 0.75 0.75 re f36.75 292.5 139.5 0.75 re f176.25 292.5 0.75 0.75 re f177 292.5 141 0.75 re f318 292.5 0.75 0.75 re f36 282.75 0.75 9.75 re f176.25 282.75 0.75 9.75 re f318 282.75 0.75 9.75 re fq 40.5 273 133.5 9.75 re h W n BT40.5 275.25  TD-0.0939  Tc 0.0504  Tw (Operating Humidity \(non condensing\)) TjETQ BT180.75 274.5  TD-0.1686  Tc 0.1251  Tw (20 to 80% RH @ 25) Tj71.25 0  TD /F4 8.25  Tf-0.3  Tc 0  Tw (\260) Tj3 0  TD /F1 8.25  Tf0.0435  Tc (C) TjET36 282 0.75 0.75 re f36.75 282 139.5 0.75 re f176.25 282 0.75 0.75 re f177 282 141 0.75 re f318 282 0.75 0.75 re f36 272.25 0.75 9.75 re f36 271.5 0.75 0.75 re f36 271.5 0.75 0.75 re f36.75 271.5 139.5 0.75 re f176.25 272.25 0.75 9.75 re f176.25 271.5 0.75 0.75 re f177 271.5 141 0.75 re f318 272.25 0.75 9.75 re f318 271.5 0.75 0.75 re f318 271.5 0.75 0.75 re fq 37.5 261.75 97.5 9 re h W n BT37.5 264  TD/F0 8.25  Tf-0.278  Tc 0.2345  Tw ( SOFTWARE COMMANDS) TjETQ 0.8 0.8 0.8 rg 37.5 252 91.5 9 re fBT41.25 254.25  TD0 0 0 rg /F0 8.25  Tf-0.1253  Tc (Instruction) TjET0.8 0.8 0.8 rg 129.75 252 48.75 9 re fBT133.5 254.25  TD0 0 0 rg -0.4169  Tc (D0-D7) TjET0.8 0.8 0.8 rg 179.25 252 91.5 9 re fBT183 254.25  TD0 0 0 rg -0.1253  Tc (Instruction) TjET0.8 0.8 0.8 rg 271.5 252 48.75 9 re fBT275.25 254.25  TD0 0 0 rg -0.4169  Tc (D0-D7) TjET36.75 261 0.75 0.75 re f36.75 261 0.75 0.75 re f37.5 261 91.5 0.75 re f129 261 0.75 0.75 re f129.75 261 48.75 0.75 re f178.5 261 0.75 0.75 re f179.25 261 91.5 0.75 re f270.75 261 0.75 0.75 re f271.5 261 48.75 0.75 re f320.25 261 0.75 0.75 re f320.25 261 0.75 0.75 re f36.75 252 0.75 9 re f129 252 0.75 9 re f178.5 252 0.75 9 re f270.75 252 0.75 9 re f320.25 252 0.75 9 re fBT41.25 244.5  TD/F1 8.25  Tf0.0302  Tc -0.0737  Tw (Back Space) Tj106.5 0  TD -0.0435  Tc 0  Tw (08H) Tj35.25 0  TD -0.1098  Tc (Reset) Tj106.5 0  TD -0.0435  Tc (14H) TjET36.75 251.25 0.75 0.75 re f37.5 251.25 91.5 0.75 re f129 251.25 0.75 0.75 re f129.75 251.25 48.75 0.75 re f178.5 251.25 0.75 0.75 re f179.25 251.25 91.5 0.75 re f270.75 251.25 0.75 0.75 re f271.5 251.25 48.75 0.75 re f320.25 251.25 0.75 0.75 re f36.75 242.25 0.75 9 re f129 242.25 0.75 9 re f178.5 242.25 0.75 9 re f270.75 242.25 0.75 9 re f320.25 242.25 0.75 9 re fBT41.25 234.75  TD-0.1422  Tc 0.0987  Tw (Horizontal Tab) Tj106.5 0  TD -0.0435  Tc 0  Tw (09H) Tj35.25 0  TD -0.1461  Tc 0.1026  Tw (Display Clear) Tj106.5 0  TD -0.0435  Tc 0  Tw (15H) TjET36.75 241.5 0.75 0.75 re f37.5 241.5 91.5 0.75 re f129 241.5 0.75 0.75 re f129.75 241.5 48.75 0.75 re f178.5 241.5 0.75 0.75 re f179.25 241.5 91.5 0.75 re f270.75 241.5 0.75 0.75 re f271.5 241.5 48.75 0.75 re f320.25 241.5 0.75 0.75 re f36.75 232.5 0.75 9 re f129 232.5 0.75 9 re f178.5 232.5 0.75 9 re f270.75 232.5 0.75 9 re f320.25 232.5 0.75 9 re fBT41.25 225  TD-0.1743  Tc 0.1308  Tw (Line Feed) Tj105.75 0  TD 0.4013  Tc 0  Tw (0AH) Tj36 0  TD -0.2503  Tc 0.2068  Tw (Cursor Home) Tj106.5 0  TD -0.0435  Tc 0  Tw (16H) TjET36.75 231.75 0.75 0.75 re f37.5 231.75 91.5 0.75 re f129 231.75 0.75 0.75 re f129.75 231.75 48.75 0.75 re f178.5 231.75 0.75 0.75 re f179.25 231.75 91.5 0.75 re f270.75 231.75 0.75 0.75 re f271.5 231.75 48.75 0.75 re f320.25 231.75 0.75 0.75 re f36.75 222.75 0.75 9 re f129 222.75 0.75 9 re f178.5 222.75 0.75 9 re f270.75 222.75 0.75 9 re f320.25 222.75 0.75 9 re fBT41.25 215.25  TD-0.1171  Tc 0.0736  Tw (Carriage Return) Tj105.75 0  TD -0.5  Tc 0  Tw (0DH) Tj36 0  TD -0.1323  Tc 0.0888  Tw (External Font Load) Tj106.5 0  TD -0.0435  Tc 0  Tw (18H) TjET36.75 222 0.75 0.75 re f37.5 222 91.5 0.75 re f129 222 0.75 0.75 re f129.75 222 48.75 0.75 re f178.5 222 0.75 0.75 re f179.25 222 91.5 0.75 re f270.75 222 0.75 0.75 re f271.5 222 48.75 0.75 re f320.25 222 0.75 0.75 re f36.75 213 0.75 9 re f129 213 0.75 9 re f178.5 213 0.75 9 re f270.75 213 0.75 9 re f320.25 213 0.75 9 re fBT41.25 205.5  TD-0.0985  Tc 0.055  Tw (Block Cursor Invisible) Tj105.75 0  TD -0.0987  Tc 0  Tw (0EH) TjETq 183 203.25 81.75 9.75 re h W n BT183 205.5  TD-0.0784  Tc 0.0349  Tw (Bit 7 High for next byte) TjETQ BT289.5 205.5  TD-0.0435  Tc (19H) TjET36.75 212.25 0.75 0.75 re f37.5 212.25 91.5 0.75 re f129 212.25 0.75 0.75 re f129.75 212.25 48.75 0.75 re f178.5 212.25 0.75 0.75 re f179.25 212.25 91.5 0.75 re f270.75 212.25 0.75 0.75 re f271.5 212.25 48.75 0.75 re f320.25 212.25 0.75 0.75 re f36.75 203.25 0.75 9 re f129 203.25 0.75 9 re f178.5 203.25 0.75 9 re f270.75 203.25 0.75 9 re f320.25 203.25 0.75 9 re fBT41.25 195.75  TD-0.0538  Tc -0.3648  Tw (Block Cursor Visible) Tj106.5 0  TD -0.4448  Tc 0  Tw (0FH) Tj35.25 0  TD -0.1685  Tc 0.125  Tw (Internal Font) Tj95.25 0  TD -0.304  Tc 0.2605  Tw (20H - EFH) TjET36.75 202.5 0.75 0.75 re f37.5 202.5 91.5 0.75 re f129 202.5 0.75 0.75 re f129.75 202.5 48.75 0.75 re f178.5 202.5 0.75 0.75 re f179.25 202.5 91.5 0.75 re f270.75 202.5 0.75 0.75 re f271.5 202.5 48.75 0.75 re f320.25 202.5 0.75 0.75 re f36.75 193.5 0.75 9 re f129 193.5 0.75 9 re f178.5 193.5 0.75 9 re f270.75 193.5 0.75 9 re f320.25 193.5 0.75 9 re fBT41.25 186  TD-0.17  Tc 0.1265  Tw (Increment Write Mode) Tj106.5 0  TD -0.0435  Tc 0  Tw (11H) Tj35.25 0  TD -0.1209  Tc 0.0774  Tw (External User Font) Tj95.25 0  TD -0.3028  Tc 0.2593  Tw (F0H - FFH) TjET36.75 192.75 0.75 0.75 re f37.5 192.75 91.5 0.75 re f129 192.75 0.75 0.75 re f129.75 192.75 48.75 0.75 re f178.5 192.75 0.75 0.75 re f179.25 192.75 91.5 0.75 re f270.75 192.75 0.75 0.75 re f271.5 192.75 48.75 0.75 re f320.25 192.75 0.75 0.75 re f36.75 183.75 0.75 9 re f129 183.75 0.75 9 re f178.5 183.75 0.75 9 re f270.75 183.75 0.75 9 re f320.25 183.75 0.75 9 re fBT41.25 176.25  TD-0.0905  Tc 0.047  Tw (Overwrite Mode) Tj106.5 0  TD -0.0435  Tc 0  Tw (12H) TjET36.75 183 0.75 0.75 re f37.5 183 91.5 0.75 re f129 183 0.75 0.75 re f129.75 183 48.75 0.75 re f178.5 183 0.75 0.75 re f179.25 183 91.5 0.75 re f270.75 183 0.75 0.75 re f271.5 183 48.75 0.75 re f320.25 183 0.75 0.75 re f36.75 174 0.75 9 re f129 174 0.75 9 re f178.5 174 0.75 9 re f270.75 174 0.75 9 re f320.25 174 0.75 9 re fBT41.25 166.5  TD-0.1321  Tc 0.0886  Tw (Horizontal Scroll Mode) Tj106.5 0  TD -0.0435  Tc 0  Tw (13H) TjET36.75 173.25 0.75 0.75 re f37.5 173.25 91.5 0.75 re f129 173.25 0.75 0.75 re f129.75 173.25 48.75 0.75 re f178.5 173.25 0.75 0.75 re f179.25 173.25 91.5 0.75 re f270.75 173.25 0.75 0.75 re f271.5 173.25 48.75 0.75 re f320.25 173.25 0.75 0.75 re f36.75 164.25 0.75 9 re f129 164.25 0.75 9 re f178.5 164.25 0.75 9 re f270.75 164.25 0.75 9 re f320.25 164.25 0.75 9 re fBT41.25 153.75  TD/F0 8.25  Tf-0.1566  Tc 0.1131  Tw (TIMING PARAMETERS \(min\)) TjET36.75 163.5 0.75 0.75 re f36.75 163.5 0.75 0.75 re f37.5 163.5 91.5 0.75 re f129 163.5 0.75 0.75 re f129.75 163.5 48.75 0.75 re f178.5 163.5 0.75 0.75 re f179.25 163.5 91.5 0.75 re f270.75 163.5 0.75 0.75 re f271.5 163.5 48.75 0.75 re f320.25 163.5 0.75 0.75 re f320.25 163.5 0.75 0.75 re fBT41.25 144.75  TD/F1 8.25  Tf-0.2016  Tc 0.3456  Tw (Data Set Up To Write) Tj106.5 0  TD -0.1423  Tc 0  Tw (0nS) TjET36.75 151.5 0.75 0.75 re f36.75 151.5 0.75 0.75 re f37.5 151.5 91.5 0.75 re f129 151.5 0.75 0.75 re f129.75 151.5 48.75 0.75 re f178.5 151.5 0.75 0.75 re f178.5 151.5 0.75 0.75 re f36.75 142.5 0.75 9 re f129 142.5 0.75 9 re f178.5 142.5 0.75 9 re fBT41.25 135  TD-0.1645  Tc 0.121  Tw (Write Pulse Width) Tj102 0  TD -0.1202  Tc 0  Tw (250nS) TjET36.75 141.75 0.75 0.75 re f37.5 141.75 91.5 0.75 re f129 141.75 0.75 0.75 re f129.75 141.75 48.75 0.75 re f178.5 141.75 0.75 0.75 re f36.75 132.75 0.75 9 re f129 132.75 0.75 9 re f178.5 132.75 0.75 9 re fBT41.25 125.25  TD-0.0809  Tc 0.0374  Tw (Hold After Write) Tj104.25 0  TD -0.1284  Tc 0  Tw (10nS) TjET36.75 132 0.75 0.75 re f37.5 132 91.5 0.75 re f129 132 0.75 0.75 re f129.75 132 48.75 0.75 re f178.5 132 0.75 0.75 re f36.75 123 0.75 9 re f129 123 0.75 9 re f178.5 123 0.75 9 re fBT41.25 115.5  TD-0.0934  Tc 0.0499  Tw (Busy Transition) Tj104.25 0  TD -0.1284  Tc 0  Tw (50nS) Tj37.5 29.25  TD -0.0567  Tc -0.1743  Tw (Subject to change without notice.) Tj0 -9.75  TD -0.0688  Tc -0.2247  Tw (Detailed specification on request.) Tj0 -9  TD -0.1173  Tc 0.0738  Tw (IUK Doc Ref:3687 Iss:1 26NOV01) TjET36.75 122.25 0.75 0.75 re f37.5 122.25 91.5 0.75 re f129 122.25 0.75 0.75 re f129.75 122.25 48.75 0.75 re f178.5 122.25 0.75 0.75 re f36.75 113.25 0.75 9 re f36.75 112.5 0.75 0.75 re f36.75 112.5 0.75 0.75 re f37.5 112.5 91.5 0.75 re f129 113.25 0.75 9 re f129 112.5 0.75 0.75 re f129.75 112.5 48.75 0.75 re f178.5 113.25 0.75 9 re f178.5 112.5 0.75 0.75 re f178.5 112.5 0.75 0.75 re fq 265.5 735.75 256.5 9.75 re h W n BT265.5 738  TD/F0 9  Tf0.019  Tc -0.1639  Tw (The module includes the Vacuum Fluorescent Display glass) TjETQ q 522 735.75 2.25 9.75 re h W n BT522 738  TD/F0 9  Tf-0.252  Tc 0  Tw (,) TjETQ BT265.5 728.25  TD/F0 9  Tf0.0471  Tc -0.2991  Tw (driver and micro-controller ICs with refresh RAM, character) Tj0 -10.5  TD 0.0037  Tc 0.0443  Tw (generator and interface logic.  The high speed 8 bit parallel) TjT* 0.0235  Tc -0.2755  Tw (interface is 5V CMOS compatible suitable for connection to a) TjT* 0.0207  Tc -0.0852  Tw (host CPU bus. User defined characters and many control) TjT* 0.0573  Tc -0.3093  Tw (commands are available.) TjETq 296.25 458.25 236.25 9.75 re h W n BT296.25 460.5  TD/F1 8.25  Tf-0.1365  Tc 0.018  Tw (Dimensions in mm & subject to tolerances. Mounting holes 3.5mm ) TjETQ q 532.5 458.25 12.75 9.75 re h W n BT532.5 460.5  TD/F1 8.25  Tf-0.1373  Tc 0  Tw (dia.) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 j 0 0 0 RG 400.5 87 128.25 69.75 re S Q q 415.5 147.75 84.75 6.75 re h W n BT415.5 149.25  TD/F0 6.75  Tf0.101  Tc 0.2725  Tw (Noritake Sales Office Tel ) TjETQ q 500.25 147.75 13.5 6.75 re h W n BT500.25 149.25  TD/F0 6.75  Tf0.4997  Tc 0  Tw (Nos) TjETQ 415.5 147.75 97.5 0.75 re fBT408 141  TD/F0 6.75  Tf0.0979  Tc 0.2756  Tw (Nagoya Japan: +81 \(0) Tj72 0  TD 0.0608  Tc 0  Tw (\)52-561-9867) Tj-57 -8.25  TD 0.0751  Tc 0.2984  Tw (Canada: +1-416-291-2946) Tj-9.75 -7.5  TD 0.0925  Tc 0.281  Tw (Chicago USA: +1-847-439-9020) Tj-0.75 -8.25  TD 0.0818  Tc 0.2917  Tw (Munchen \(D\): +49 \(0) Tj66.75 0  TD 0.0608  Tc 0  Tw (\)89-3214-290) Tj-60 -8.25  TD 0.1006  Tc 0.2729  Tw (Itron UK: +44 \(0) Tj52.5 0  TD -0.0025  Tc 0.376  Tw (\)1493 601144) Tj-63 -8.25  TD 0.1195  Tc 0.254  Tw (Rest Europe: +49) Tj57.75 0  TD /F1 6.75  Tf0  Tc 0.3735  Tw ( ) Tj2.25 0  TD /F0 6.75  Tf-0  Tc 0  Tw (\(0) Tj6 0  TD 0.0559  Tc (\)61-0520-9220) Tj-48.75 -9  TD 0.1869  Tc (www.noritake-itron.com) TjETq 183 0 0 -174 354.75 446.25 cm /im1 Doendstreamendobj9 0 obj26376endobj18 0 obj<</Type /XObject/Subtype /Image/Name /im1/Filter [ /ASCII85Decode /DCTDecode  ]/Width 244/Height 232/BitsPerComponent 8/ColorSpace /DeviceRGB/Length 19 0 R>>stream
+s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
+Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4rP!9aFT!s&u6!YGD7
+&HMjL!7CiI!<iK)!<E3%z!!!!$!!*-("U52;#mq%O!!*3'!s/T,"U5/:#6PED!<<05
+!sBb[0a0j?@1si)JMIEDOeK$H,:""%@P]jWEe6X`-'AO4dI:Xe2&>/FnZmco7$CS\
+7DbgA2A[4Y<T7T\Z\66FFlW'_-^:E\[$ASZjRf:V`RX)C<b?N0QDV+1f&lZb7os>I
+LR4pJa4KMK-oab"BR#?#W49q$kkGH%.60t&BmGQ'WO^.(l1kZ).QU1*C3kc+Wk-@,
+lMCP:!!E9)s4RG]!s&B'!!<3$560;F0ri3hcD@CA3,&9Drai7P@o\F[SP)Y`E7+Qh
+r6&B)`iBlA3gQ1IiM6-[q31Z"er4g]VL[i)XcL^UrB+jb453\!F/N'Zk*5k:25;2Z
+WLu9#X(1`n5M>T,!6$bkd#[mJJ+653oHX=,+8f&%]aD(oU\9E%dUW]"dqJ^CWm%2u
+g)#fAO=@5)U\C@\15\;0?9KW#VQDb;hKo4KhtoT%pniOe(B4Bfnc&U.1],P.rm-Z)
+.A,IM$L+Ok0(`9.LH^-\I\5[&BCJ0hR[V+^7?2&&kLq<Jr]hf[":FCmX=j-Ik(c-K
+U4/`q!b_"#\r:]/8?&&gT:.uh.:#D'WMEM<>gLY:]G.ND*7WCdB!,e/O5:31UE-5@
+)LqkBm:_Lj5$nfiffc]P[+=86!'=Jg&]*YRiSHXD[Z#BughHfoCUKlr4Sa@da(>:u
+fs[=gBHj;jXl_O%gK)S+d+^i$0Z@rb[!(03D5N'A#cWP/H&\T-e1\+/=Coia>i@4W
+Z0uZ&m5f%WTm`*8__-Q#k6YQ+O*cYKC"$G&$ga/0)0?Z23(jNnHe^`q:7D.HD8W+%
+reP)eo.:&M8<+D=LIJWL&BM-==pDR#*%A?,Mei/4O^lVB%<WjS;0E+"j4n1ulp"0&
+9g!r'Fp0__ggo+)5>4"14Fg:P"Z58pAD-<69K,[.J7&?)f!>jemW2md'uXntpIlTL
+4s,[5ZOX&(F(<W5`,#nW9HA4=+,\XU%]f#=A'u+1C^p,4*HXIeMG0n6$>-1"A)"%R
+TEc"i8X.Z^9[qlLHZa#O!9*jt17DGsR[^.7DQOh-*']ht\Es^WCNSqpe2)46T8)eu
+,L$P)m0qW_FR:X/1N`#VL@7;NbmCoI%+o?;m4?aCFR>]Tmlhu@=fWU'pO7sk9R^[R
+d&bcY7f0qgc_`o`IcsgIa.n(?U1_psRQkmIs3om&5!Sh>IsMn1!86oB!6$bkd's##
+O8^T#hLmFrH4E)+eBafFboR-mf^p/0M5d+5^R@7rZ*ELPob17fK7>_&-%7uXKChk6
+D#D]X_(5'>$m23Vdq@g(h?dPM5[aO(5+=bnIdg@N$D.,9=QU/iepu#Jf]1""=Oq!(
+<qIkgm!3*.5s&6P2S3I[*1^SBO!S#WWUI+RNaW(XBFNV^N]_?)NFk;>s4#Q+[8tIf
+'JR$ra)0NjP-llY<O1@J$n`8LgNJTfX\2kuCpq_Y$\_8th4pAeh2>;sQ&sm)e9G[;
+%>K]6%g;=>WufF)Dl`.c1ku:Q7!o5kG@K*`ARmaMoc>#=K41K<"2RFu1"E[jX9.]/
+8SAbHI)`lF72O=k<n9%1$`nV"TM.67)Yf:+?UGi<=N\E3Z/h4%0\=Nai\X67;Ar^&
+LBa3mkCGC)+H8K-5K]1)UboF,%Lk:dcN7Y05oOu9J!DA2882_6*#`TSScm0>Ji)tQ
+rr=PKe^Da?T]\[c78>EC%Fi5bq>?PEFYsCb)mUr5BOG_T&!tW'['Qa13RHTE;i=!F
+FYJ3WIjHY7.2d8Z>=[m03W[I09.#Nc?!p^\q?r=6F"C52U61dE'srFAj.IC8'fK.i
+8u8\Bk0/R0N,\]eJu6]j!(g.tcs57ccgd#;POMQ)?g0&+\dOu_)?)A.npUs3=,U:c
+0<KbCrSIe\Zit]^]&NS=#6+\Zn6db3=,U:c0<KbCrSIe\^]2m3@r$3&Z-9;3>L'AF
+EVFZ\$uKmVeiB"Y.s][ZmQU()6&i"r>/rD(7;k5rh8e@-Brs7iP"@.1SbU]iA%BB4
+Ue]c3d.43bGN2RANopDnOZRgj6cuH$hi10M4.HCV7.'%E%kI\3f*u9qQIUk.Dl?>`
+0EQEi!k#pK6)CtuRbR*@$k*-,VnfERekg't=JiP'KYmll-Y`'"a/].>nLsdor`*IY
+J,#B/mJd/9Z0K+%9E+Yb!0pSrO8YbtoUl%U>"a?jrbAbjJ*dWiV#LGSC=6>`cgt/)
+A,cOB?@=4$!#&CrhqijOZg,='9E+Yb!0p^[?iDAO!.04<XST.#!##;3]t`Z9s3TJs
+k;KV?:'5k9-,7*?f$u]>[?>9D)rIVHrT!%KWO^9TP>d"grCLqr+#O;H(e\Xnf0+dG
+f`7A\,?`N]#KmrWCOXkuKK%QaQcUITe<L9^(e\Xnf0+dGf`7A\,?`N]2d;Fr+dJ3#
+Yi==;4$ieEDRUln6RsE&@E#MTG(]Tih/5cfL/pi+_i&%2m0E3U0nP_C8?)J*;qi[1
+`/clE@g+HeO]1s3Vm]@BM&pVh`X5pU,,adE:McSc&j5-&s3]C]Z""XI^I6Mu#VD7J
+^pgt"rr=7o5-\T7qS,GHdKhFg[D98aG5hOdeip?K)#D!8daACQPI838]QX;T+se!h
+@JpT5S,9\hO.%@15@OKurgWeopQ(ah(-c7+$iZXm\+brP=Z/M2pATd+f^A.rpna0a
+rm,NH?9O>:h[bTI2F$R%re9Cbmd9N=VR_t&3-pt2jd\n[S0-VY$*IiB%N_K%H"Rao
+V[)t/JnpcT6\hY"?<P44l,!>e+M[s)fl_rd")2j7j9R@(dQCRRX<>k/9;/O36#U@t
+ijN-$#(YE5%=&!_HSgct(?='$[X&&cKtBh1YXE?jG5(NunY-D2ltori!X?NtUMe^.
+2Y0"Wps434"h=7aXe((G@;aK%C_7V3S\=r6]P*@+O5G0F?hDB^roirDWlOS?oIp&N
+]74pJUX`lKh>.rd1#9UU4OJRYrr@n*hV[muqQKo!')qsF^Z@oW?iDAO!.04<^]2d:
+`j,ODB<1YX50!>8LW++?=T8B-ebU)S@sb]&ijQ+nJ(a,c$dZ)kgYqZpq]E%kL&V-I
+S_O%Zbq&.0_>4uH2Ks*.%lCJpqZl=lo\&'8]KFPGb8jgQoQO8@>\(9/h']jKGl1BC
+b8jgQoQO8@>\(9/h']jKGl1BCb8jgQoQO8@>\(9/h']jKGl1ERH^e^NViWE:)RoKJ
+BXL"J["2/s'sJ-Or%Bm1T'"`lWT4E=#-Ik@RfCmg`hUncmqj_AVrhd83qB\`W:VWf
+gIpVlq3pj!]WH!b4UW>)dePqQB"W2g.GA!;-G([IJU<=gh-oC>p.j&j.5fdGS."+[
+QKo&/a0KlSfh&?h*8k/`"LhKY5!>'KD,gr/U!3W)0FN6AI!_*J>?+#$k]9"9$j,;S
+T-!)A(=c6a\fB'<_Z70XkJt,$Z.HM_=^s`#+/,R%NHt<_M.<`/p9M\i#X:[N3?%MZ
+d1XK+j6^E;";$$:RW::Kj.cS(eAu^gRo=__8YY/bhW:>E;^'J9D,'Yn-B!P(H^8rZ
+9SYe,[5ZNURP#3>mTJ\&bSsa^h<CPGC&H9&0)g@ljT1`,[Iq/\517pUSXs-brrD6)
+"#+S-lZ]4SV5NoH4M1Fh!7-pGoT-b2V!hm,^Gl'qGknCIUj`-R-[RH$q7kqLa3@fd
+,OaIQ45"N?c2Rb[*^4;7m(n$3-P.-^6#:c:9eU)dg$(JHa(bul^RAk`0OE's`!/;"
+>93Xns46Dc7_1F>8QH>/\<M;K:=f.<%\J\0_:H(.O%`.!hVZ/unV((+f&BQkM*"qr
+pc<jXToSH1b]@`YmkR,-I#%Ol:rd_)Ai[@gpR*,R5"#8FW+3F%ZQ.aDqok,dT-=2^
+fDjIdf1*>/>/0`&rrD\[J)78,X8`0!YQ"SoVu>o">/0`&rrD\[J)78-<L%+rQ*T*`
+a+?U^a$N9,-aEh)A[FIY"G:3EKT7*LA-Q)XBQG4$#0._j*'Bh9s3TW4#1V!Z%]g30
+K&4!AeBg/bX:OcOhREd>co;N:&+>*sK0Tnl[D:uoP(#cjo0&;m)?=b'Xp79=PO]^n
+!1E2Fi6VR_/T<`_,bL1]r6Jmi]#P#E)6r=n-(rJ%h$*5O_5>4gH)A\s1E:U)H`V1#
+Z'ueKZ<@[W*Rl(p+%8R!ehtt`1G8F2b&mQ1$4_3>U7q[()X;tnQ[@KK3ds9s#<KoQ
+;#n"`F[?M[^$YB]59GLWdG:YdAU<T!4A:51oAI)lHWa[d9ofr0_E@TFg0W?3Y*3A6
+a7,-R$"U`HS!l>GFQoII`@R@_drS#&Nh&!FGbpSsRVlg"1"3"P:D>tc=-[4dafOlr
+#p^S=,@<Fj\fU`!b-:_Qeoo5iOq24<YFKUg%t0`)=FDr?4(Z9##IFcgc8b6`[^i-#
+&N<hN4pQ'LLMk6"CRQ]7'6T<Ki-,e.G3kg/\Y>K(2d#$&#B:i@DTi(.ht?=.I6DdL
+hkFRhH&1EtqXs^!T"Cn=d4m@<`,N3aHMq2H?.6:HR$aIS3(gC70E.@=!-nlNr+5m.
+di\$%._gqWqIBKb+sJ3Sj*rDRq@3@YGi-WBre#\E*]NY)J"Y]?^]2d?aSm`?9qUl?
+DrcB`5Gld$TXXJVM]^D\qp8?3gC8=,pg\M1["mr;>YKEde)[Pe[MnM7nAamABb/bT
+\<ujSVo_tTCc0mMiJlX`dN>O3EA?S0:QcrN>5.AkHeVP>dcclImYKb$^&&Wfp=3D)
+\g5J2U,UW+I`;W+[9!eiM)+M_(mj?qqZ3dami/_K2N=Jg++X-Z@UGGelisb"]PcLq
+g,=s:IKSS\M1/[4YStW$n[iccB\GG.p^`8^eCTKQ*7>&Cg3#.Ga%r>c[Gh,*1kE(.
+SP4KPe*$KXG^m!C+DlP);]hNOq>L^tkI9#]%5)d?g)V;QH11?&LHWAXJ8')*DU@VM
+CX7L!PWA.(S-)ET>BYcm)d[mhe?*f$^MtgY$"hOXqg!b7kM*0QV/)X8qh\q39/_B7
+gWU.'52CIK.pVK1ge0PW=gSi+hI(ALp?TYqbDq$3F*=0FklB&m0h,Dhn]RE/qDUqL
+IlWBAj.D?:h5AZ35Vr5[?iS[?f1*>/=k:<rfGMm$I=qSoC+Gl`pd2(J?X)k*B(nL+
+!%'Q<cS0_i<ctUJp'*="T4%^5)N*^F4qOdEgH>q7CE]Ra_i9[4T`!9Zq=pu_2U=_Q
+)TZWpnDe#;kW^oordH?19s`3W`j-LuHoTd=3Y0ItJ"MVG=t<$ks46Dc7_1H])7TR9
+W-^^\Il-qM8QNiJrr?]3*m^M:bs!5t<O&$Cg$4@!kVr*/L\-b;\*p6Oc_c1KrosCp
+<jqu!qq:Vfk+CHo_FiD:^7Ta9RJbP2Vt`fpE^+uEhB2R!0&2NFBD72\Cl>bIpY#N(
+rrANAs4>h0^\3B\p.qGbk+CL[Ratl]p4`M>:SV"RTAG'demQ8dL&UdAUK?TMhLD!#
+[j1Y#rSdbVRk$R@5CK0\+8N4K[j1Y#rSdbVRitV_p)eWFS,WIFrpft#'b.odpTs,!
+o2"fsi?;%Pp)eWFS,WIFrpft#=18'[hTr(Fbs/j*KU(r>@/%"lZh$u]&)eg]DqI5>
+qJ?)Yqnr2%s3TRZ>[ACVaW,Y$&!l=gC:Lo9]okAKQldp'FObAUEI/sNm4^_.OR<p2
+JmQkg2t5;9T>Et*?0V`C8G(fW:E"]h%cMW1-1)r+IgnMSr$7jboIH(4B".l=7\W+/
+[t!R4im0s%+LZ'9)J!S-o=K5GFIk&U/!:9P\,iHrU-C`KJ*0G/J"l=6msF]]ca`b\
+.`MCF[;3JEdr.G1ioI-VqC^=$pV0G8qi?Z%s3]=;\(NDV6Yf49i`po)o=WC":jV#0
+]R:6k+GYenp4LZ^4KUp8I?O-m2RJ&W--+^M43[8s1u@E/]:(Xt]/cML.h+GJmr%9I
+Z*)AbqT?]MmX*^!UMO_PRJsK0FmjH#F%>I72/e"arU2!ele^o%k)[qMC>T$MqqakT
+f=f\)bo`a#e\2(%pUl]9<XbP;m3U34&9bSNN]6`XK\huH-ZM4>FLB%-Xug-QrZ34A
+V-qF#:=<E"E<g9>f].I:LgU21g8VRM]ACl25;`B'rY!qa\*prcc_`o`roj=og8VRM
+]ACl25;`B'rXpj=O5FUEL]2+J[j1Y#rSdbVRj.7@rUt_cJ*+gSc+iW<6eV)Nq5;.,
+86F-Om.Ea!oGdV(_tlo+c+iW<6eV)Nq5;.,8RC0F%spL05;`B/rXr;@rI`tQVU*LO
+]K_(7mD!''Zg"gf:[\hQ0E9MNEuo.=[[-u(E$!E+Op:p@P91*7Nap=oG1,:WD?JTM
+1-jaOP%3H$;9X<jcIuM(NPKm1VFV['E_Lj,(9r(bkcqDWZVo8j]D+q)MnNalNK6f&
+QC]D[_F:P3lT-S5H>M*<nLjeR,=TP^*m"ZClo`)Tn3gs"QUBFKqn7cP*e"BS(D>qY
+,Th67o)m=T=*&6U3A)Jme05gZ%^1n:&"f#fk1fTM>XO:F6oCb\?QAJU5:'U[\*W1c
+LC[4;CIgM#3SZfI9E3Ml%CFP'dM_LhG*\[W^\U?>p\.jb[[KRP6TsgSdaP)Frr>TM
+IfAY42Ub3<88#W<g0/UPrrD9qcemOnp6N4D>01U[@FIg<n3qc%Xs)B%><eKsdX6ES
+?YO;3Ff^nTjrH:N*s<hS4$J6I@@D%c[/TYZd#Y9pq?X?\BsnN#qonXu5-qTZ,/tLt
+fK2mt1X0+XOo+MEnG`L5Q*%S=^<c6Yr7P9.Oo+MEnG`L5QiGUhATp2i$%$6L8G8Wu
+!W1^WCpL[DD1oU.b9VF13ro6J!k)6;cF1Srfk$=0Vk&?epOP[(*-&)j*mkCG['\0:
+\G2bDN]>UpO(a84g0/.XgjDr37iZ;Ha0\2Um4C-gmQN,s^9=>q9E3Sr'RKPAi]u39
+m6p[GUQDoQ*kis\O>_j*;*DZBj=QKaYDJ8b%ABrS:N+B9#ucj=R?(Go"9/?X5T[ht
+nOf<kN6HUa&0L_B!;7JkMH&VpAn0BtJH#Vo&-oH5r)KS->#hX'!*$0%!(j*elGZrA
+oh,5aoU:9dXAu>$!*$0%!(j*elG`eTkgr;81^_mu0ZB&b^&J(%5C^m!LX4n0>9)cB
+Z-;sWkf</fKCJ^7&1_7\_\P8(p\bs-rr=a%+$Y?m.ruTr[FS"(oX=#P*WROm[kXK?
+?"CX@95^?[hu[[EEuFDRek=]g[d!3$!%;'+gFb/OX"rq+9`5f)[gfcN?g1U&dk7'b
+0VNA'Cq.7.XNRJH1\>+*s3TBiKiPFlX_;Q0#]Bg+'sHj/X(?W]d+W:Ih?P)P?d]Zi
+b4`6:[+HP7%Qm]rl?Y=C2!cip,dJAsc1CDX-fe64l?Y=C2!cip,dJAsc1CDX-fe64
+l?Y=C2!cip,dJAsc1CDX-fe9r>h2m;3/2tXl@5U0RU"ECk;\3HpZd7(<LR1D<9H5q
+JG8>YUeh/oI6"L5_<l4f(6Ci\)gjlBnj3>!Dl5Jc\36u?K$johUMkqZr^]9aXn:bi
+[g0=ZOBOpToPO*sJ&r)udFtoIn$V3g[De0tQB4UT&cP5,Ainmca<PJY*To!sNnu#Y
+Me^I[^=SH9f+pHn>!X1A8,3d/At_jk8[[t@r%5tbdUd$a92%pbmP4Vka8+.pAt_jk
+8[[t@r%5tbe?1@2`\F8*[Dk`^F`Ps4+,K9/;Rj$e(rhYDf,5]je]U^lINu,Z9&e$1
+@i@X[>\&FF="QJLpl<C[3kpWgqIBKb.Fn?-rrCLimibH0j"LD!rr@<Ps3g,_7_1E=
+DrfFJ!("A^%ib=%5L=?06cT+":\5V%'$1&'IncR(5qJ)Va7S'aoFf7E/:UBdmm-r5
+Su!XRp6U,W52kcdr`R^jblE`pV'=(UQ[=9IiT`E%=jtF9!0*SH,0KVGH\"B>l8\cG
+e&T^_s3oT7+4XrP"3jMQ-9PSqr6&FEIoVh3%lH)7R.5Beo.>=ZrDm2h4OhB&A&[;3
+bb#skZIcT?<USt@Sfi)1VqcAiO,@(Ug__O8EmN&C3LS@a3[_te/@FmS'mmK(kD1,%
+l1Z24]g#F8[pS/ep;DcmB3d@o!-;-n:XmE:fD*dBYp(`ef1eKbeP"Ba1!=_=1nSST
+M^ESq:\Q_>e+E1JFoF3>F@hrKFOOUkF\C3Un\]MK1`pg2RjN7+?h\\9e+E1JFoF3>
+F@hrKFOOUkF^P0u^QjRkR27tb>TLB]frW`5^:`^6jB(oVmB\#"MMm+r5oV\M[eJCE
+2>i@2<ZSVZ>k([1G3C/_ZW>rZo;99b)O;<4nQJ<m:"gH_k'/+K_d6Y"8:i;&6Q`te
+"DV%SbJe0,75nmipR0sC/'@F_ipTjSY:SRKdRMph0@0+e!+Jr0(ODp[H"QqsOuCYV
+IXckE&urIReLbR[2qt^%[XX5,qu6ZKQ2fCcY-Qh5*U49nO,!O>IDbmXX_R/R_Qhsk
+/_Ki:[KkSPT=WUVZJ6rNl4Vp6LAPA,_tj21Wp70Y8Lfu`Rdm@uh!lt7k<$P.<D&`T
+Ggs:lGa>i1S`)a^V+mi"C0^Kq93_5;n=LHqf%;OR_aBl/K)Y1_r6sY+_.?Xc*7JF7
+pN+C;T+\R?.^7:^RioJXSj,(,P^buj0E1q-j[\q\ir9#Ih>UB'6(Tb/rSQ^:R7fbX
+?7#UO`7=\OrTF!Vbb^r=0,"9bibJDcIe3KfAl?t/(Q!Y321BneH2_R)T[+GS!.OD-
+X$2.u?iBl:b,kFJnUL<$rr=PKf@LbF\F+;o8:.]REM%O*:EL[If+k^'mVk'THaF9&
+T6\m]+!6s''t(R>E&L76Zjq)JH.,P2+.AJ&1t'Dbi0RN=HaNMX2(NEUV2dXR0!@V9
+C$m$W<n,Sk*-[!??A7grgcX'"YZr$^q4DZ`mq@cC4DEt-hcMK>@=6D2mru-/a.>-Z
+Pjb[i"u*c(gipBa,NI)gH-2,s27<PojB#ddDY!Br\u)pO6%"RV5>C!@C,],CfEa-m
+?&.[VbKYP:d+>H>a#/l9^K;aQpr>TFY?j)HCE.8AYXjuJNdaW-]PAM<38XUAOXK0/
+r0,^SR9[8SB#fsHH2Q^\T!hV@ji51r4F9`Ik8sj"ZDL\U2Ard[g0T7gp`S!hG>E:N
+l>Q=:10t2,E@<Z0h:(0BHCOjg9UC=NS4X5:[rh@)hPU;Q9Tpd\ET[soPtRRs\X#@)
+RaO,ScK>5gfc)E-26CpNGkX(kDK25m"37]*<A&&jk#h0ACIm7@4.HP:AcL03ZA+-2
+$_C,\:A95%o356ld-:XQak`rQn(g0CC<@G85V@=D[6*4AVp,F'T4=s9aDoj?&EBt$
+CX7i'U8QZ0)DW:U(^)ham2GTU:hZj%3l[,6*JOS)3r;CZploNlB)AucdiY1Mh&^7[
+:sJ`LrrAo\4l<h5dAin0ma_=;9R_?'FEsVW%.SiAmf*8:0;-W-rr@N:ntPshnUL<$
+rr=PKdb;^7LE<R)oGdVonG',eC)CsUec,V8^Rjm)MV?(DLE<R)oGdVonG&i.$k+&h
+l*L!;qnpZ/k[7fKrr>ccT'tMWBjX40#-[l>r:b[0o2)`Z%#WaiG\d1oG*1+"l5!:V
+O]t88%=`6?dQ-dP6HWOg.ql3HYO/mS7m6aIHYKM'?M?Q>XC3gG'?e#sVgE-Xb?jp*
+26:4?k7c%O%&\GdWln`C4>j3K0]s+m]F;"De(:J@HYe$f4Df0u>k,EkHcM#qVTaC'
+HT+'(F>dCo]0L_`MV"`LHYe$f4Df0u>k,EkHcM"e<7^*^i*RV[*qt-Ro1mGsgj:"K
+j;T?#n(p6Bfi)+9@tB#[A:*/0a3?!]f43Ck?R45epO;W'8bFsnosg@12:&tn]KFVj
+9m/[;-1XcOms"422&CRnb?J7IE++S]\4PF"nM1#^U@1q3CMTop$o'*\#s2[H-9oci
+?0W@\D07kTL*YL3-Z"j^a8*UPeC.o3AnEj4mG1LjDg,hKBsFeH1E#'Cm\]A1]<dm3
+f[e`DN:2+;;g+Ydg!!M\#'do[pOAH5oGQZg!:SbC<HHN"MuNdlGPP'<<D@nrSDZ@#
+HbXYE'Ga\I?ZtTl%K5/Ph$:n&PuQAk\]t;,GJ!T8nQ"<+=\YU*J1Gp$lFKXiq7f/c
+Q!LP8PhI)_!k4`WX/*NQS+HX[3E=er=\YU*J1Gp$lFKXiq7f/cQ2fCuf1*>.P"AZM
+oY2<+k.JT9q2Xt>.^ZpVj&-lKQtq1+hB)o%QdYeH6^mTUDrs.!i00d3*CssP#4qYn
+rR9hkT2Qb$CL.5:q6'\FjHH37*CssP#4qYnrR9iBs46*#g#2l1miDBr^[&5BrrCn;
+r/6'VB7p3a]Qa/dAmE[9(RT^B21B&MH2^FB/naPZbWklk^G4WYrr=?JQS\>hjraLq
+?^U<=J!./(ZbcYAhE1Xmc`YS!rr@<4ngco94<OO^^W;*tljPp>l+cg1qo?ecMqAkg
+J(&o0484f!'c4).kl1X[rrC8emiNkUf@mt4((DAXg%g[,iT.GN]nM)/rAK+7^Nb#U
+X7'J)dJj2@T:#*(*_G7)6as>(T?\ArmN7U:fArLrZo`UQq>B3VhVn8XNIFIVCI>S9
+YFj)Z*UY#4Gh;#OFffe:!;SLbI0Y%C.,AZE?iWAbD]_:%?:m.[f2r"`P?Z)SGF+I=
+G;6M4(;<$9kWA]uQ/'C1cs$5F&"rC^,$/h)>=!&c!'Z%MaM7c%f(B.1!"/i#*b7.f
+20X^L_u,Ese.8JX/-j[MOOo<=h@Vs_nh"cV5+hn[+&V/f?6`Nr7/T9jU.'1QHWhuR
+YjIQ]NB#L<ob&dPS(c8%c%g+n$u*_fpSa3[1u?fA2JbHc=CY)`T=l$bmD4d!DfFL[
+:=j1i#L!&C;0";E(tR:4%F$0cG*(X0^X'k8,434+D/XCKdSAD.%L:2Tr);?s2q+Q$
+RJb*Sl1.Vem,(R!qIfC?qkqP!\$LKD5O"faGOD(Ls3]F.'tsU;A8a4Dl+.i$N]ZMf
+8+Wj%iEP4(ejf6ShOC4Qf]0]@[!t-g%Mc\VSRcXo*U1-Sm>a9n4%JnAeU'72U]-YY
+a+!7C;l]P0]1;fSq2YF$jJQ#Ehfb(WA+L`<UWF>(B7p3a]Qa/`I<Kj"qo=2K(Y<;P
+rrB]Uq%0g7@)o<<r<E72]KQU'f<Ac8U],mq1#<uT/8NlmlI#V36,/fU%tai0g:m7r
+%3P5qq2YF4jL28*KnDno2L]/NG^1mAmpTVOrr>ccR.&lQ89RA(hsZD9*nri^Fjac,
+LW30WLL7gR'%/qOHXQ08`kN%CU"KpjJ%d5)HYiDlf1CsN*uRt'WOBuPp:RfW?ng17
+bIdtW4k/4tXF"8WjtIWfJ`Y_i<1`AlZIV1B/TVa;28JeO!@_!lHCj:(]TQeu?=Q:]
+5KoBda/SKGCWRnk[H9:e1]5?ob^,lD#/$+093u*oj$1c&s3oZ(iTRmeFRO]1EKRcP
+>;b2!(MsYQn)]Qb2]3!8]8*-JU!p^QZ,T8n+Y,/dMg#D$p2J%X)h\?q\9]a^*BVrl
+*$B,1'!gK[[r?HXB+/a1\3N]6gA;l15^A_S4R9F<I)!njQM7f\3KAX]0PYmbCj>c*
+RFNnXC[?*_!Tme>o<-a9o)A\GWY8^]o5V].`A`6U]=FLg:n%)ZRuSZ3.D,0lh9>DP
+K\*NBgi3fY:#D?+mUqKDs4#s!g#2l1miDBr^[&5BrrCn;r/6'VB7p3a]Qa/d@eN"G
+m;W3\1<4D!a7K'*!+f1aA*uP4&1s(sG939(5C`B,@eN"Gm;W3\1<4D!a7K'*!+dm-
+Cr<P\6hWQ9a*prOPqdDt_m3B3p,YshIT&Ir0m.<MZ<0Kf3_m_E;a6OR=-_nIe`bUS
+\i!SnlEM`h&kcCmg<\frX=\QsPST*%XWQqCn_mLa\u\L37$?,^p9XP`UIEMBZou2,
+l?</X4s`[VT6k6uJ-XTkr;q@=N>FePd.[MNWS@7Ppm#]#<nIB&g9:HQ^\oLOpT#([
+J*N=!!9l??!52LCX8`0!YQ"SoVu>o"AQ`&6@.uF3m:eW7W%HKSk'he+=?Xm%qcZb'
+C(#.XH(U_N<Y'7"Ib'^bRY'?YhIl$B9@SBS[rWPAFai=S%egGUTCXLXO0Y)>A"*t3
+ge2)4iPZE/AM6pS;VfQ<@Fb73CcgE3Jq)"Js4?&4BZd9/Z*$,!:V"=PT?m(4Q>IL>
+&GA!%64*BG6.>Z/96/:P.\\!(\EH4Bk6O+u5KPI9?iKo.r]B,*7^)glI9HRM*UucI
+=8r97XT&9\po%*<Eu5m*[>+QAVFZ:FM=?W4ih9"6b[>FFef3uLR3Dn`-c/7nMM3Vu
+0nI=`=DtP"A;D@qT*Z'X.9HVgYTMbH1&L.S7'$CIfFRG_R/QX:U/h85lj*:@b^TBX
+d=;2Cg3,V=pm3n9"uNa-#P;Ns"gmWBEUbYu9FPWNN">-mj9o\So]+q9g6``*f,,UW
+O2r#U_iA%XCi0]f2/N8.`9[?X.QLqX0,V,V#2'p'Il:bYrbiMkYiD(/>8r32NE\W:
+0fo=72i=(n?r=7k;:ES6LJ5a6R8[e#$8unh3dCKtl'Uoq.W#oO7a=.e:EN1L1EGUh
+.[\Cr2SHiu45(*;IaOjMM*:Z,VD?n#YA_+7p4F#cZtNt/:OZ3@N4.2Ng[AXcTZ#IL
+)Ar75hj+5hhlHOqrrAo\hEp,#pri[;VE`p(hlHOqrrAo\hEiD1+s&]6C4Do6aG5cQ
+R\/e&nfd%C-E$\Lr/"s6(-e\BpRmgBnRME3rr@?OA:G@ZVU,"0^]2a5]pNFjZJs."
+h9n^;k5"Vcf"IG`2R;>eo%h_^cfY&p_UcDfB/['Tc19]=7*k#ko>3M-D:Xfsnef\g
+@SX)r+=!3gh.[<O+cQ-',jOh2!]b7;er\>N(scu,:9O+0,hjp-6)r!YjH`/$Go;[`
+jHFDhGm:;l]96;+&`dOg+-K@(h;fKUK'l3@1e3[qr-h5)dd1`f"HmR5rF21S0#k/h
+8LD7qeg[!7lt[LBP&(a/@__rlgj;\6X(`,2X@Mr8gj;\6X(`,2X@Mr8gj;\6X(`,2
+X@Mr8Xd>;oDR$=J0JGJ"lMgk'PMFJKk6eY(<R&+p[_T\oiM3IR!#A@O4T>DO.bT)K
+2X;:9!s8X[Nj&@`4j<NsE/;Q(1NApp>&N8Nq98=rA'LFOc7uF[E'aEaGTnm)bhQhJ
+esj/lrc:1:`Go-is4#fr4ZD-_/hXF0"A'bepERTR_V=`H2r!^P0!YH[8KiWY,K'Gr
+g\!]gg[-UGZ2b#!+b9;3_u.BT:jC!eHhMc(M:o5s)Yj:q9"dON)U\$,l+SNWc]i5*
+q"ZE4#E3Fg^LsG=SXVf?YE.`)Zke8?8L0Z&e^hciJ(a+EBd7+sD0Ld-(:H<rrm+PB
+8K/T^CV2m)[B\V]p3NI%8D)Ra?/b_bXaY`qAt"1:O4(Z7:[f")q>9EFC&2F+9(1S#
+^e35An"sfsl'VE"^NBJU!>BrZrr<X,r&X<BU*fl5rZ\!0Fl2dY:&RHW76g;-^ZL=\
+IWsQ7r=)uE.\qBf,BMmNL^\`Vg[>"L>J2M^HDVp.j'@HLIWsQ7r=)uE.\qBf,BMmN
+MuVA^hpam/;uZh-]DcKP\+L:%'`S0NY5\Kj/Znt=r'`j>lbDS<F[%t9E:dk(c^D2u
+]P$gIl@*rQiTS`0T/18tGgGLqeGSc,_pP>?5%`DqnXn#tfB7HS*fVnbOVYS'KRRB2
+^H9kWoP'</Lpc-Q,P)PUq;.<*UJ,Q97BZUJ+./VEb;Q_r.,I.Kl(.#8"R^G9[A;2>
+naq<)mm#_XF0a&m-AjaCU\\VKrr<(Ls4>f/fuDTq9gWW?r\X/Cn.r./c8N$JC(jgl
+nY_@2J@06;EODIg:n$6*NBCqQ"W"j)ja^?5F#7Sh3"c8C-Fb2=,NPTNjh.f)Wt&a$
+-H?0Q3lKVQ)!$(/>5Yjq!EERPdA5FQ8-`7ci.E#1P)HHd'^^$CJGUAlgDioT-i@-:
+;0BF$SZ\us+(N+@@u6bprr@s@$8/eA;mk.V"717OCiM8@TCHR10Y9?tf/2&#lm00_
+3"R>5.A8H-3S;q?efX6(]#QcA,Q0'b0Y9?tf/2&#lm00_3"R>5.A;7kd*oGYZ$fAi
+<QdZ>gDi\fbZ86C>'AYd0<*6s\S*0+@u/\rMTgMW:>9g.of:Q(/HeFWE>lkP=c^Bo
+b;5(@5)hd"8@@1K:[f(bZT,[_kgT12Md<Nnrr<'pb;5(@5)hd"8@@1K:[ep"Q'Q5>
+D*VkhCq^51hJ/W,kFr?)ZH\*jW"!=_Qbbb1bu;Q.oKd@q=g5TI!N`i;pa:!*Wd'Sr
+Lt+^SIF1bR9ManYqkNoleNZ9Hd7li!:[)0^U\G,F5<jSD9g;<Il!=1]p^@,Lg>CCE
+`)H[9%_M^R[^Yo?nJ)!'_lj">ROtZ?6i9A;nE[jOLj8C7q`ReN,]%9kY42FB*]rum
+cW!h7)]KH+]K`'ENr8nWZdfc<7`NC#mgnV.Hh6q;VOsa3m&p<Gquj3PI_dkio\'2.
+hn21(Q1*&O-CTCQ5I.oqL[YuuIUdCAe?HPMdCo#s^l&-iFRi7Nq2NIN;Sqf'7ea]j
+!\=0@e&ao-ju4J)9+/*9)rC^E#d<^K:F6%hf(F)gFcJ<,+cVns^t%>X>2HDtDR%3M
+6nu#+Ql<U3$X;0+D:U\q8;9$7dfW[$!BY2A%P_9P\Ej!$WK67f-Z.O&`[f)r*Igb*
+1&VUcmCOc+`H^t6YN_(E5G@#.f4Q!DqC7$Nnjp.6dP=";paA#Q`eXPNTJnur/Mm$X
+O.^q/%<c`brrAdl%F6;X9`61\kT>D'/Bp#W.&](G,P8/;i?+GYb;2jDMCK(jaSdX(
+GXpmDZHUcj,)V"s1-\D"h@]RAs3oN*jLG2PRO/P(3,&SH1W!1pV^9CUPgM11\\gro
+q485,D)j45Uo'!$c-@4nT?Qei(V`'!o_sTIhNb<.;\?R(Y/M3l472\>L99<tYWYns
+\Wa28(V`'!o_sTIhNb<.;\?R(Y/Gbe6i9A;nE[jOM#7%(pkjR[f72$Wp[o'e'`S0N
+Y5\Kj+Lga`[E$^q=_?mj:HJRTcSQF9\^n:e<D+n!*i\=1+1^NchmYYu+%iMDS"nLr
+liZuEfDj@Jol?'=NGC"_%!9alGMTJT+'0lM=OsdU!67deGCA3IdIhO?-&l[iE"$j5
+Vg$t$/L@4"P"?s%1<8BN.sB>ZhW0-#X;PO<-l'@.%<$8O2-(-jpll-A["c'#+.BtE
+e_$b"W>)eq9s4.LFE+OF^b(FY\rfX&[+atIQU_u#liPh:X/QfAgJ+jD3HT8FNkd/[
+g:"%`ri'9(P>D)+MR@s!Q2^jK2#dQh=K>O&WF,Xg:]&\"b-J+Ps45lWo2E)WB&.SS
+l1"b1-aE$HG.c>lUKP'38G[^!,"_-J/Y0(&4)!2^f2=f)&."GG*m'l&[]j'JVQFCL
+dc5$g,JT+J[I(%3K;knS1%`!08VlipRB:gO"lSZ\ekCKE2NhN2po3#Wm<$Tj-Wk?D
+"%1CQ]h[CuCSkle3l?^9)BO6Rl?;Rl>r,]Aef6V6d.?#\;fJ7]"8e/WX]'2/L'.=6
+r2in:S;%.CO8Q+es4>r7b\h;PcpM,$l,T<Brr=@OF-tb<@A&@fGLMU4qu06#k:sNW
+_a+`Vn#%4Hp\^9..lB]<IZa,32;EF+C_`D4k!)E31E,[D'fHED;"Gd)Hl7of*X[P&
+hiDguk./@<*R#E6+#s$fK<F*mEua>Q_RCQ0)A+&Npe$1AhiDguk./@<*R#E6+#s$f
+4cLMPi!CP*7!fh82o$%lr.t&'H>e<ZKD?>`d+ffL0^q6?TN:"_0o(>Ir;sG6JW)]%
+Ds.oRaPIseg4))"kM,`)^m,eYhB"-"IlM?/g\4CWPo7["*\#fm3,[p6pIrAe>/-$2
+qIBKb,1ZU&rrCLimi`IMj"LD!rr@<MLkpuhdGMtC9i(C#q%irgnnNZIhoN:s^QVUp
+#6%#r5DpW4BD^%K,P\PB2LiCCZ9O6hdqAR)6b1M\'mi*:^i]A9nGE%JLNB%B.e\3T
+JEcUQiV2rs%d,rb<UBF3!Rp),_sccoGL*=30Nn61HV]&pSb).&$l4;OT$uRu-[bd"
+6Ns*WB=.E`bQ$#CVL<605W#]:rSM;Yrbot1@[Znkr;b9^-hi%aa8*J$XbpcB\+Bbq
+"J=NDO!!N^ZAVhR/06FMa7kXH/RiCtGe23ChED4QM5%iGlTBZApa1B:T"$NXWulD<
+MJ'u_l[p<@Z1g5&VL3f`\2"/e+*33pMrD+ZHXmp*4cXWnB-$#8r/i=*?OaF?gE="g
+luT#83:@d3jG>Xdphd4kf`f<TA">4)a*?0b,Y=:$e(7uSF)cj3Q_SZfIsIV2X`arY
+2]+dDH8eTspR1#5f3irHEJ+7WUNGdNH(H:^MW2.H3VGA_21u&.G0'm-ki]2k_Q;qQ
+gK`;@$gl[o'-F!@`-2QpT4;_Z=?nOKClh>>NdDAn+Yf#S/[+kb280')%f=@3+-XMI
+N-ErlJ$Wjkn,l4*hF[57Sd8#"^<:<jRn[gO)FM70:P\$#?iSX>f1*>.P"AZIV7>$A
+?KQjjJNJ6C$EXah`h^3?1`!G)gYqX%BPD?A-.f]#[@g:P%t[SkF6P9ic5Xie\+`[]
+:MFn7/\TFKaH<t+:QeLfF6P9ic5Xie\+`[]s4-$!TDgkN!-<Y2\,@]S!02QahsrB!
+!(m1jj.H')r/.g2J*dWaWrE(YC=X@$cgk)(>Q4\:?9MBi!#&D;hqijGXNKGt6Lj?U
+pmSUFrq$&QT1T%_j.H')r//grrrDT8qj[RRB@;;)kP`[*!$VkpgZ^]+f+YjOHZf'#
+m"8SeqG&WM`:%l@h0m:i+P0o5PDa9t45HgD?ZD[\s45l.Y'j#`\]<RSq77-q%g0(@
+2Drg[Xqs(pg-7M_*!+u@.qZf3oejVL++$N?kX0k_%`M$4j9Gb@>itc%g%f=h:Tkm#
+(>@q1\G"7l85ak]!Pl.q3PEJAITf'r8#^W+Aj`0<a,oHN+R7i1(6;AYSBQaOV2leE
+g-O9'8hD*\eN'$-HV5DIS$[gKI#u?(XNGO.CPr_Og;<:jgW4k"(rg]d:+n2=@JX21
+?/dqk&*?4rcEet=jfU.!95=pJ7rKRKbQ$2HY8CJK4lsI]ng$'.gjGF,Gf&1nmk+[^
+OWgS3j5dX!`YR/:H#ON]M%)._+!_b<BC,@r_AHQ]T1h""nH6tR#+?G,4k?il(KP1t
+%$!G8o'o#CL47HkX<E;JRInBANt=Fd<L_Y7fDKE?/o+!>+pe@]o2]d>gL'KR+M"Ts
+m"cnsj3:`?O)9Bd\:WkMK<cV]4-)5L;WbQ@/T:a;1iAo6jI44rf2)XR!'1=De(T25
+=\G4K!4BTI5gd/i:Qkb)gB,]$bVqVC_DZE.:Fg5h4]a>mmPbF)a5&k[YUoHP_fN?C
+,A/*?nsZT9^@0N8l&O$edH$arhnJR.5O"3QrR'\pWo(PZdm*)Wc2H&NMs3J(F8k>%
+!0J)GJ,&4*c2Rbf0;SUJn^%*%r^8;PhtDB29_%IfB)$`bZ)`B-lMWNZZ+ZXcn3Y-s
+rr?]4oZnSup2>`&J,dpM^:3GNVLR'-B)_;j>?BDSKCmLdD!^'9*_U8EhlqQtrr>ca
+S,:+F6L+"u0o"N.E<L163Z7GaTgJ&52_g'Cb]*c'gH$5Aqk6@Aml)tUh99jADVI2i
+nGAnR[D2)>rA4G*4#b.88o:^1!,-lHTCa#S^+StTD/];=rr>am!2.W^nTU-=TX;4e
+>RQLX%Fi=@+pn]NLpb%.aai2@7tMkV[()$!$]LG^eAQSbs3fT&Q8XN.>jWP?r86?p
+94kV7g)f3oZuq/qIsCc@Rb;1aH\KbmefW08j5cWY3+K1N*&fm<J/],+$/g'*F\We?
+,0(/<A"X%EQNDCQ.@jCl3s`+/F-u.lYpI2W#E"_)J]';:=gss9Sq\R#`k6`Y8]JR*
+)#Gl=cJMDb'*_rQ54GB.?uZU'Q>Pf'VkJs"0s;[D6+26q;qlS:oI_9`HPUln%C>cN
+T%hGDTlC=lfX&^3D4e79p>0%;$]%"'`L]o@s3oE!r.ffN>pZ00?[%h9!&sLjU=-4B
+LOaeY-(sR2GF&7/2tM*bd]WM'J:1]LT^,s/QN$qDo5gWhF;J(o2E7#U+N&:_8!ecs
+Y(Gsk-H?bR,T(ESB_(X@p!?uUUtF[2A:k?<m2fR;"F?*IYRTu5A)NDDC%t"#oc8ru
+)qrZZ_&f2sn:VD=3u5Uj[@rY54[#_%$UJGX"om*9f1*>/::K69Mb@>k6o9@3n:UO:
+3o>j-/M2+I&CL<k_@Pa-l[CFQ['eJl6V$;M#X=Rslrm[kAZaP#8_cOPKS-ODF[;>&
+>6uZrrR);g`MM)h>2=!?S\t1m<^+olr\^>*"_6p:rrD(^rU<iOd?"8aTAKhPe^e=(
+IaGb(XFj5NmN9+7XNTi+Tm?<6#+DsT5C)QtQdP[soBNUj2/B^No@9J?A,cOgBD95F
+qaNgFepi&^T<r,.!0(Xc_$7QP>>'dWK^X9p*Sc,I)Y0kE/gA:K^$m:kEVpA`b,)JT
+M\o4`^ldHnn54>815:F&#rXZ]gc7"jr.9j/Tp.AQQq=Qc52jV.-fbtID%*,2gqldF
+EVBr9_*9'Ws45`+m!i$Tf*`n]c(o\UhY_Si*e*K\0$!WiD/cddm+Ot:D=>Mjn`T>j
+ZL!'@`n(SEhT_jC7c+&eT,rICMe.#>G$/koRp1Fe_BrLVr/"n9>sfWu>f,XSi(.gD
+QM`rk=LM:-a(:Sk\[Ap[*$St/&'1SJ>sE&/?3#0POW&_9ZB\R7rMI\]!Se;UC&VG]
+<FsYQRjHttE(LY>q0OG)<*NRT<p_f[J%0Ldrch*hW4'/2XkIW@rr@#uh>Hc0>u>HU
+oinfWrVkcr]D:E8s4>i9lA)PY[qi!`52iQ:59e[mlA)PY[qi!`52iQ:59e[mlA)PY
+[qi!`52iQ:59_todcQ'2XI[Ts]>0)8Dl(\Y=]mhTFa&BBf&',h!4&nS2!XN2'Q(pd
+I6XQ@dm'?eFK!rV7f%U,c_c1OId'_=,)u6oQ(LbLE;e4HFtdHTTGR47F(Sl/_iH3:
+3uB_:cjT[,\[+"(iQ%0.*K1jXBEe>&gtA'OnDhY-s3TK#,)u>GQ(La!E;e.lWlUr`
+hkau7+.PQ;/ZQ*)hfn<foZ-,*h$Cc/a8Z,XcgQH=g+iU-`j>R#MtW*ZnZ;`b+_,%Z
+1$StoI0T[in3Y.9TOZI\XSND(iS]ELO[-sc)d2ePq8:$!ngH%2V.\7ik7?DU?]dW^
+r@:($5<+,]9)OPS#O,C`g%iP[K)a6MIFOb\I@uRrYQ8QTFmVC8_/$dM:&DZO7afoh
+[P^,>T9%p<hfU:Ehe46KC]IZXSU4/Qn5F3n+)#rm=nEU-_o9c8aJ8,55-$l"5<*nu
+9t:sdU$'s=ctDMP(FH%*Dg)"nO6I)`S9]THVPb\XG5H'9km\,mH%.rRV^-2(qeM8W
+%1\nRIlsQ67Q@B_f[DKmJ4FetX2r<r3#`cImLTZlig"d+ihllg9YJ:D*Sa`rdb1rO
+*7W=dBSWr\,I<!TZQgI>cn&jcZp>qCK%[IT*7W=dBSWr\,I;u[mb%9&Xeil)j1Y@2
+YTa;b#NDKT[QWcRBlJI0msbRY#_BpFpo(poO*RbZ>TYR[hne%K+E8NQ-rsJD1+I'V
+CSHa*QOZSr'p_bAMON:'kb@Sn_ie,UAX'MFVRG'e.(i,jjH_0:<GntJLRFU,&g0R7
+qnW-"-[&L-Y-s+RR\UQ=6hU>lr1#-X<GntJLRFU,&g0R7qnW-"0E9MNIC-`@obq"N
+42&Om8j=fTIC-`@obq"N42&Om8j=fTIC-`@obq"N42&Om8j=e;],A,E35*&"A&7nh
+T7BVe@lG%@(UqmFGWtTfn-PQMB&ZqPpA0K(#MoB.!GF%gTTVl"s4#b>_OO4)'.mnt
+!,FgC[[V66&qWNp>!L`eo.?ip.E%mA1=hN[Zi%qG]OZ=@![>KGg(`)o1-HES&RcdK
+$>T#I*fGQ)Y`JL3>#pob>/0`&rrD\[J)78,X8`0!YQ"SoVu>o">/0`&rrD\[J)786
+s4->b7_1H_Y;OZtjOdX"Dia']g@JSQN_P5&k4npu?*?-48EAE,5&ZMF;RO,NBULs7
+:HXu)'e<LsQALg=K_*<1nPZd,BkWnrfM=VrNti$1%B^IbdEpcHHq)uiFReP96GgWU
+Kq%^V2q-Xr\%^Z\H1Fe9YhJ&Jr>c@>pV^q;[ne&mQiGXh&$a?\mj!=W@66I9`#n/H
+!VSO=^#X,(CaWj9\:a_F?p;Ud\%I_"NJ-ZY[h+%[-Y,'_:]^HOWtJP(5*-"Vnst0F
+:<7.HTEFp)<[=s.I39$7jZ<3jSWM;p5R6^0X@Zp;qEQ'Nb'!:_D;6WO#O'h25qtF1
+Gkq*+^K!2['o)n`Cj@.jSQn:)qp40"Rs,4WJbh8eOA&EP*^5#8n'snJHF2R;OP`dJ
+"!I+pK?)2.NK3[G^;1u,Rt(]/icPKeR$AU2lI1056[^ln%"lL`%j*MVs4?#ugKm=.
+E-_:7[B;`W6JM1f?:BimH298'Y!8(9g\'<-7?)83qD#C\5E\?-h>//IRpJM/"?JR6
+rr=dj:#5Xdgm_V<cNH9ho)A\E_G/k_*Sd,j7*bus3V*1M0uA`cO%_O%UlF6qNO/8T
+kI]iuLiADK31?Y&hW^$+oV^lajiWBuO%_O%UlF6qNO/8TkI]iu2.+@1rA"<B&ZYgc
+rrD;EpQ1A9nX'7U9Rj^/s3Tu]7_1E=DrfFJ!("A^%ib=%5L=?06cT+":\5V%'$1&'
+IncR(5qJ)Va7S'aoFf7E/:UBdmm0o]CS(LZ^Pj@b=#]`sC&\0W[Yggf>kd[Br*^9(
+\\F__:]%i4<>\p&^NT)+#bP,Ar:AWlh<gs:dFl)!W*JW$c>?80TlfSf_c!p\Hg2D.
+YB-132X"F-]<KeeS"BJ1cE#a_eBPQ@:9Nq@.SjcTopYUqmfD1$SH:u9ER4G[T$p?u
+2=<Q_"1K(-"FP=OTCSsEVO,kLgipC9DD$#:q!#g`j[4Bb.qjN<Cja&DoD\f8*C$0L
+2n?f6LaAq=bS!-)pOUfhpd9Cu.qjN<Cja&DoD\f8*C$0LJK%,hE;*G5EH(n2pH!ek
+*J-P9U^">UX44YhIi*O'5KjVR+@ac]>WpX&>[0LP4jK\^#@P=Hdb2eS-Gh]gC2n.I
+r5%kHIN5J[YjuTTGIFCbmGH,0![lsLfujmQ_DcgVEGjV1_=/Xt*2^h4Rp#7$^[e_I
+2G&k]c\=U_!0s,^Z:nl]Hnk*fXRJnKCDbu81K"!e5=t_95F:pH9L*A1i*A-9qJSSi
+qWU52nd%oSCDbu81K"!e5=t_95F:pH72E2<gg)tU8-GJ#%rWSJ/S/k1\oiI`#s'a]
+hE_iZb272\lMVh<FC78EK)a<LA[Xd\RU%/eIYP=lhn2Mcr;6oOA[Xd\RU%/eIYP=l
+hn2Mcr;6oOA[Xd\RU%/eIYP=lhn2Mcr;6o9YH-n5P-'^Rrm+[0?@@h$h[bUHNFVt6
+=6Nt=NUG[7MQMkJrm+[0?@@h$h[bVEeCq@On#,e2qIdEiFSW&>Cju516N7%_Hai`F
+RbG3jn#,e2qIdEiFSV[-YQ"S8rrBaIj[JiLr[%REH[j1rlG*6irq??lPu_IWrLnN/
+TDVDe97M6dC9oI@m0h79rrD%ndTcUpo2V2grr?_=I4,$p'3::RhLD!#lG*6irq??l
+Q!*cer[%REH[j2>qQKo!')qsF^ZAi&e_.(Dof91K`,BYnh$A!F^LFWeEICStW,Wd3
+IlB\68FP35RbV7KRd(k^pE.Z,LCu]B.9QI99b+;DLUUW/)h`Z\<^+o06`Y2MmFU+4
+i?+STO0hm5lJ+pWFnY@88*;3O[C86HB%$:ac#@AE8H&):',Oj,Sa!IpH/@\n1m=_a
+q!\TJX_lAUfsJE\F'KVTdQ`,("VB!Ue"r;=1fX1!G5.+U&C4/$V3JJH<;(icpl@9D
+cVN#dPdiPLp4.>]O#?sgei-Z?)+-YBBl9*OoGe1dGF-Ee)lp6&TqE4/[n1$)%Ku%.
+bN-'je_%l<cjSQ3Up0e&!d*8[nk46c!rBuJCjBuCfHOV!dd\J4jO=S'+cWbg_:r@S
+G+VFGKX[.A0<Bmda-R$JJgK-!0+no.kAEq^=WYF$#2c6sT6Gs9P.Ban9:K'*_B&p=
+V&Z+OKRArnkAEq^=WYF$#2c6sT6Gs9PFS)@^;BY\T=7/L"/_^(k+(M_:%fC@>lD5M
+0HE"Kmkj2SWc,,U)X$M7\U`qBms2,:f@mOn3ReX>Lb=gjFnVFb[:RX)W$8,N>pED9
+m65<#bFI`l78=u:7]k:rI*rd.)<cr$^I)Y>31,QleiXQ\;An\U+hpBWZ8e5.nCB]7
+(/c%6MBT`%B<jLaM=B(Y&us"@]C[cQA%R54H)4N%hfn9koZ).SkjqEI+273j^ZgdG
+rR'bclG*6irq??lPo%u#pm:sHrr=N%WrE(h0DjN'<WCG"`j,ODB<1YX50!>8LW++?
+=T8B-ebU)S@sb]&ijQ+nJ(a,c$dZ)kgYqZpq]E%kL&V-IS_O%Zbq&.0_>4uH2Ks*.
+%lCJpqZl=lo\&'8]KF_K%KX,c/79dAGUBt_n*+Pfb,\sd2`\j9"Lr@Qf.nBF/N&qr
+CcDX^33e"#%H*];6bfIpZRX4C+'I?4G2H#V"h[L@eXGhgZaS<L^7-;SGaE]V2;!=i
+D5H!82FJ>N0(WHMdFb3:3UR?G#j`PZ5gu?L5KpPaa:<QLB#6V71lsQWh9Y[EMD>:*
+i7Y>p_9F573VRUmatA$HN8\Va2q00Z>8+bCPN&>"[Fib?ejFjPA]:o9oU.lm/pgl_
+iGE*ae0\F)'>I,&ihG1C'F%O]^ceh^$R8aJ#C+CLD6-PO;`=^M\Ekc+?f2sb.P8*6
+5\3XE"5;e>Z8I,^GDr8'O;d>)eKDpcBJB`hma-u,^`m-I)X):n+NQ0K0aCSDd#MbS
+,%$EMk]G>ta=_-\#>sp9Nb?-\s3fE<H]DZY>Cc>u)X['-RafE*Nb*99JFkH4mI=hX
+eAuusATM(+oI_'LnRn:4Wn2')lHZes"!m8ZJb8k^*cpg<oigaBh-&=6TOaUs0Ku+h
+K?eoOI]HbZ];n!D1^oSUjp0B*d!<sR*,g8EhNPX=meku4EVnI1N]4]3mn)BZGCFK*
+\GbeT7iU?*GGO\=]>$<&>^lC:VVYO/p9q9cZ.c['GQ&4ljgZsZCG$PHX*2O5i?mDc
+K(cXYiN_+GCj5jks3p2`7_1F>8QHnAfdQL'g=bN\I/Mr(*k0fNoXW]/j7ds!iDq#/
+fdQL'g=bN\I/Mq_2A8lbdKm(-9PQJVF<rn)'2PRT#dAhQC,VW),rddr:T2\IY^fD^
+2P"q9J,e$^f1*>/>/0`&rrD\[J)78,X8`0!YQ"SoVu>o">/0`&rrD\[J)78-<L%,"
+VhS+4*Wt:`?Li_I_^TYf!UlX6GsSFgPe"hbpWo2=YQ*/0]Rs-R1(3E"5GT(fj;OIQ
+OC)6)r?/SQ+OngJK)4Ddkle'tD2kg3O.tUpjl\Ah9#0TAgDd*f/fn>*Euu[/%W.31
+\rWTEjlPY[njBhOZ6%$k1t?"E#>X+%m<^C>Z,+[B=@7Yg[ra]<b9?4kF%o[Hi,nAB
+62ppu2:J[:WN;F&C3=HZCVk`'ctfO_`D]nl0%B1D.+a.XrLhb;[>Lie>[=>Z^/;'A
+s45j.>^^("Zfe+7a?&AI'7HK9*k"Ad+'>$!q<7H0fBBX8#F>YT]BM_U\08T$7B`XP
+\2PGc8gOAO%JBQLI6lu2\F02j-gh8lRmhs2[Cs6r%-fj7Ih+AOc(`%Tg>:\J#'Cp,
+5DP[bk0[Sem;Ho6"$2HQ+2c>mORUD:bkfm4G;+6]@G+,3nB,t!qUQa40R(QGfg_(m
+b'2)+efT)iGK4.FJ,e-MY)>eF1V;30*8S>Tq0t?FC0*j!V]"=Uq@7E#4ab#6jL$M4
+dF4'BomI'(Dk=[Mc14p#r\FKRl&YS#Xk!>\rrCLimibo9pri[;VE`p(+sJ3P2tC^5
+T\mhGNVo6;kVr&Uj*rDRq@3@\s3TZEr[`OnTC5'ajF7q0VU,"0\+2bA+4Fm"crF32
+f(.EVcqTNDTJd)4:7=rurrAHe=Qe9+f07PUNZk&R#i8=F:E9B7R8mAPf(.EVcqTND
+TJd)4:7=rurrAHbbSF>f8?<iOVEjUn]S`"_ZHD`,@.#m-#C]t><3lao=->'=EN,$]
+o'[d#PI^.X<bH!]I!-H)3Zep2PI^.X<bH!]I!-H)3Zep2PI^.X<bH!]I!-H)3ZepJ
+s3]GCI`B#[[B+eGMdh-tnH\3ahB0#+%P;H<B&_I8UjPK(X`oQeCVu'6a4[u2-g;]a
+IVHX'bhQN0_J@o;-?ndk)FR*kbCa;m\@fA*f=,iqn(3(HLl_.o#0/N>H#j:qDWmMG
+Y5i8K+6PE$XmRhC_5>B2>9q.u$1L1Bfh3[$\@`%NRk&VtP7m(,_#FD,ALs;,ip[p+
+Cou6n9M;%N"9*_51;B++g\#pn!%Sa=^QmF*om?]=.hjbRQ.Od`HiF'r(]Vq1/[aSr
+8_X`WVd0T$+@_l`ccR#SD6FXW:=s]+3p9)5!]8tuISdBZD0Vf'G/L@pf0VVk&Z6mq
+nqCZK=N_a9g0FL_7e6\03?O(SQ'^06/9n@4F6kItbR*q&IO"8]?Y,2$ik;27YdA=&
+-e"4QO1>=lm.;p7L)-68%Lsf*600-%+pD!"kZqU*/N(6^*(u<Eaub&?$ELM[]##:f
+COA*$QQ6<qG5R7eBWW$Le*,CQ\i!\0\,DnsHTm(32#)Pl<lT"V!,&;Qc_01?4s/3Q
+Z($6rlA)_02tKh#oTHVkn#,$gVLLH%l2D;r[f,jqg%<VQTA;`K9%Mn6T6ibir6tP@
+pdi#;5CK0\+8N2pglL?*pP8`aMmjr*g&9n0!1PYAeCJ$Bp4`M>:SV"RTAG'demQ8d
+L&UdAUK?TMhLD!F@))Dhrq9-_=6?.3J"!^Q,PTmiiVrnI.m%c9I@o@<q6I?9,PTmi
+iVrnI.]&IqP?`mdggE"WL\QXR*S"'2T1Q1QjmFf@iPYR\^CKP.A^@1(+nG@E%<1;*
++lA&skNsV#4frL*=;')^%Kj9/j4u`m8ZWG<>1ZdX[-C#/mX'3Q:4CW,"5;>6eU];5
+OPi3lhEBKje^V&Ha4so<*d;sl\Y=9@pM6[^j][u1=Sn#/6dG.?pG>Y%hX,FSr2W`N
+CEIP8BR/G%53@^VgYK$(+-f!+ZE[K.iO-).BQG1VNtWu.D3^!l2[umkqa6b8jER(g
+>AUB@l*tSIDqZ2O:F!g#SQN$*D8F"Maj`CHg78V9lG[^hD@Q^0:8-BZeEC/8<\&gW
+E,Z=CFUllDVaBI3bC))8pA6Cd&B>f%NWIarR*0n3o(Mr3GnA":A<$]BPaKXB0_4r7
+/9qfI*Ft02f9QBef!&KW/piL[nQVI@[.mCb_>(-J"n/2K\@&LT\ZQlIK^#Q[MUo"<
+qC[,Q>4GgciO&ATR_eco=E7Nj6^mCG+>EOEj4P?gP/`(nf4r\6LUiHeaOV>s1_Af]
+<eq/Ib]rhY[C>V&hTr'K2#cb=&rj$.I6R@Q1\msC:[jTcD>WSlZg"+,5Iu>tT70;0
+[r@1\o\C/oj2?0$FQG^aO&KrT',0WA-7?iin&4J5IJFq]h81Kddr\8ZNtL9+e!9sb
+g8VRM]ACl25;`B'rY!qa\*prcc_`o`roj=og8VRM]ACl25;`B'rXpj=O5FUEL]2+J
+[j1Y#rSdbVRj.7@rUt_cJ*+gSc+iW<6eV)Nq5;.,86F-Om.Ea!oGdV(_tlo+c+iW<
+6eV)Nq5;.,8RC0F%spL05;`B/rXr;@rI`tQVU*LO]K_(7mD!''Zg"gf:[\hQ0E9DM
+BA3;W/8H1W4%UQOg.:/6kN91?p:jMK)TKs\dRYR*OuP)iq5n7WYLKktZ*NDsOpIVS
+NXNRMC0RlQ[Q2WNQ*?A$&p\\/<4?2WCic-&.q'U&,kCB=WG]D8f]P9+<l.4+8`ecZ
+9!a^d0S%`u1krQtHL%KR.aCb-_?4!rdMh:ol`Qj:X#W&T#RtUf88FdZY.B#1@e3XI
+>2j@<!&T[&kF)>MGD-mHe[-+%RiF[&,>e3uJ)0'Q0/[SMXsV1#"%^p*H(XhU?iSO+
+ZgDX<hm'oXG5`T(i3k36>F7A9Dn2FRL[k-kMa#_S%Jq+4B5cc,IL3/;2:u48Gmks[
+f5N"R:G_T:EQPB#n,pa?,_ip^-6d`-RVRpXFr,ZM6O>"qg^,\Kbl#sG)gC%OQSe\n
+mM^>9H)P73n$^b!C&J4j2"<-g:rmM2D5pjiq?sfIi`YE:1$rnVmnO"o20k7.4DsbS
+pDj<ca0iXN]f6YWe`K$Un[m(BgiNl**nL1*o\`AP=.&`G`pYoPER6B=db/2U3njsf
+AX5m\Sot/3h?@`$]:Eel]s>g,HVZ^'rU0fr=^B=]_Hto,P!,_6J:@6D6Jl4k[]jqm
++/>ldjX8CPi<t'h)VW$^%"=5=rrA:U5P'O[p)Ij`#Ac-k3k,)dI/a2l(%lu^8L0Z&
+e(SX_lq.:5%;GhBCELj1Rn1.(J4r=6J(hs7XesN!`1RbTet;Z@r95tkA,7`p*hbgc
+8kbqGreh`9W)*:gP:1$-U;l`g'E6L^.a#&t=8o1+rf^.TeV^balBVALkqrD?]i_=:
+ri'9(P>D)+MuV;jf1*>/9T9'l!L%1MM'/8j%tX.5,,Rh[\,aXX(W;D0Jd9*c+-BJH
+5[4;"g'cn2-G]fBH]Q7G[D%HHVAS=h_&s1PG`S)(#AI,jhaB]X$up]'O9V@?8'3[k
+[&NG2U*&WS352Uf"&L$`jVi^(;a#`EhWHoDD2o)0\d@'n+!)b-4bC<&k;ge(NXc6(
+$/,M(*[XfKK"Kn&3R)E$%L'EMg&rK=-<L5tg9lmB(rh<;<F?7<:>M5dXCZ@j1c;#.
+!,*9om'a$+.u#dPXVFq?5h!2R%!U.W:\:fWNM^/s,NMfYhb/A^d^imGR>I;lO\j)H
+/bK&C9'M/cAgUtN77[l-oU*A=QB+oG>^[qPZfRt3JCbl7MsU7QoWh!$iucnoW`^S(
+EKBGreLZjO\B":JC;9f"gWZVL>=^-qk)or\*!nhXOLFa12HJ64p:6uM`!6?>as8RO
+b)M[nJpje9+E7FtPOaP:pD8,YJj&0$4H6LroAr0qmm)t)]R_Gm[EsAMVqbSA&d\5n
+,k<k)&'pKa`S5t;BlD?LS[rPu-i)4I(N'K2V8#:$G3PspTBAnl?+:tgQMgm,gSUa_
+J"74Uj"LD!rr@<MQ%'[$oZ-jM7'$++rrAo\hEq7okgr;81d#^;eGfM7^QB$Gq)(C`
+Dra:*r_62\)u1,fr[`OnTC5&sO5e4Pg&CUVaSm`?9qUl?<H]gkc,$cKkK`["TU/3A
+G.O5,oi5:TC9qkr,WYJ/eYjeB-f(r':H_]Z@[aCR)bCNemknhdFG]a-WRK0ns3TH5
+PCKc5,$eCR,Y7%QVtnogoUGf*M%]++#pMklm6An)Dku:Ve4>p,^e#/!GA7&!.p;1A
+`fM*RYWPII_DrYUR/&17cW\mVJC@MLi^E2HaRI^"a\(-1f!2"TR]I#4-ZG)9L8I.,
+%\R#t4'Lf)mk#&dO/.,:nkaH1g.C#M3Nm^AHXqOLgJ<ubW#!fVf"'%Pb<t#/koSQ+
+P;9#DORUi/`QW$)C]P;rHqBsD1Fd0S%h3;Z>fMlF^_(47`0pMO18_LAnCG"db\7K%
+!>]p-8Y<\Gs3]WDY-K$RfkZu;4R)6L'.\,N]#\l<AZfO1o;B"#9WcO-lQO77QFW#c
+cCWV'152"kY.jo9X5E_TKpDS=^Ae26ht^B.Q2If!rrB+Wq,i2ZXtQW2@nT@e:=1g=
+a$$1nk<Q?)(Xg=.V5-s9BUKCkT$aJ-TNQ&gl!miDdO:<d9S`/aB[ce-QgQdJJj=Is
+30%Lsrr=OSrPmjD8.N.b&^5Q.j]5`ugfb!bf+?q%O%]DOs3fK$]sq*(8<uKpfR1D+
+>.XFd=Qq#3rr?tGo(akPle@,'UkrU[]naelY,eSf8L1:dbZaONF/ir?O3J^YIj1dp
+0l+b)cDd[E5;[UVr/.%]`NL&D3i8<Yr6aINnh:$lf+#^/e6,]pe0*s>FHs!JMfG]$
+VFRRNd!k40>W3GY;.WF^:kPG>dT)@7j8T+:BD8*%q`[7>VLNn,O0dmH!/bF`TiP_=
+IaG`R9S#oAD'-F`=d2e\6Lj:q"Z:#$Ie2*%;+L!]a/$cjeY^akcW5M@O8^T#hM#V/
+q#:?RRJl>MIa=)S.A,INs4#](W`[,4/1oZQ0I2#E*-h61MX%$s,gsQcc]\E#^Z!4o
+K%R6+=Mdc`/_p.U,^]M1Gk`H\QiQ;0N,p!4ClP>er_4E.\c-V6ZN)!.0ofb8c&oBt
+^WE7XG<aACp0[umjtY)$fs3N,2u,:RNp$5[SVLG)9FAQr#.:<rGF%Kn1U-1lM1Jb6
+5h<<`Nq2!`7WoejEA/mCkSi$?&`-`hW"o.F='`\CgUa;pgB;OYa7CETkZqJ<$EJ(0
+T'pJ-aR:4pJR>*nFkeIK];g4kYX]qNIkq&Se>B<?$R5;T`_O<"1C$eLB21\E>*RQo
+@:W]r36BeVAmjmfN9SC[.oMh@/1c_5k8?>]XNV\Td@E8s!+e]$5\h>'YT#0@Ad!oB
+3_2'DOK*i^2q).m>5$/H&6s==B8%L/!N^4:^hgFGQkCOOkoe:Z2GmIj\t[d.I4%*t
+K4J[9!#07DWnDM`Xg%XsG39(NdPq4TfgSoHlAJkToUP<o%?[H*!)I`[)iGY<DV4q?
+XYV]UNBc5pF`eX])d.(2r[k6.1!GVAh+r09)iGY<DV4q?XYV]UNBc6+s45b4=RU)0
+0K\of"M(Y*"16Eu>0O#fm@]1=IZ`QT27&s!RL[MDQ".M7&A[b_4;-ebF:Qbcfg1Us
+fUls5aOjk+gTs2cmB[hrq6Wt.C3CuYp9HRmm.TemEP$&-H2_Xp(ttO;p:[PeL&4$F
+1`UDf1#@DL7!c-%hfn:PoZ-*Th$E[`dD#(s1[0tF+1`'La.n(?U1_psRQkm<rLY20
+;a7r$^LtUe!#3cJ68.$^rrC"oqp<+Xf@n6bT]=Nr9_o4rdGVI<Z041?'2q)IIl)C%
+XDE1m4[dfGT\n!8$"&`Y@/Ua&Rm/`Yn4NV)!se%Xo\'&8pOZK,cknu8c_f%5+1r=t
+lp=&Il`>lS3.f6`iW.NBi]is(<FY;]6OW4]LV,TuaUmG3e\0s,S=NYhlp=&Il`>lS
+3.f6`iW.NBi]is(<:1Uq2X<eS]J?>r\c=d_n>C6GTsn2UXl5O!NR.^UpOt\`4Uo!M
+?#L.NKPl;MVn=\_d+3V&A%oJ_Zda514>]NuTt9a$T1rGVY![$u*Z5It&Z9;[]IddF
+<]fW/gHA&]6c2<+g)I4&0!;'O,*nA)jH'S-j5b=PnkjOP18ttpNUJ-C1l!.tViR"!
+X/V@TV5/$T,QX]#q&MSFP6PO1^H`Gi]4l&&"m:[D_sRWO0P3E$oDpaP[[+Bf??gu_
+52\QP#%P?]5SH#eBkqeokD05XmK:^,0"REdL:*L#F5R7ZJ:(OLrrBl.0"REdL:*L#
+F5R7ZJ:(OLrrBl.0"REdL:*L#F5R7ZJ:(OLrrBlbs3]?;VM=57'sI^-a+;mLa_G?b
+6ZXc8fDqZ+_!G4b[5'2)\Wt-M!)[aoFtE2O/ZkbBT\NWmiIYY2Vmg$N8FC$t[^M'R
+K5k:SL'a3dT&"l*,Is$og=e#;%E3o?(a`T.HZf6CNoj>m?6sL!f\5%<kZe,HJGr+i
+^onB[>\n7o)tY`_E56rKQ!d[M>HTkB[Z1,"!'"@NP"GgN(/o!l:e7_O7frVhj9CYe
+al7j"7?lN^PS,KldD3L^3<>nqnp$fad:G5FAH[nIFDrn[%R=^tr15G=dcf:P\hoRA
+<MIWANC\+1k\EqpERm;\XVOh$C."BO6X"VBNj8(RBX3t7;B3_<)Uk`,FcV,LI20>T
+`YK$H6!K-,T-Ts'.s3"o//uld[h$_I8NHEDl9cCj2k:+i+.@SDs3olug#2l1miDBr
+^[&5BrrCn;r/6'VB7p3a]Qa/dAmE[9(RT^B21B&MH2^FB/naPZbWklk^G4WYrr=?J
+QS\>hjraLq?^U<=J!./(ZbcYAhE1Xmc`YS!rr@<4ngco94<OO^^W<H2lQCLp[sRjB
+?2OX%d64E*poMZ?Ja(J9n(fR>n,EAUp7Ls9ZS&NgV`T+;FLC#@r=dn7c]A+Uf6c/i
+R,>:'_?"/R-1Z2=o!R?J0r?ns2DBY`m0S02A%\pf]o6Zbqb<"l(-=ii-WogcFtbuO
+][U0o_$$51HU-LI5L**l@!1p`W43Xq#rW(_J\Z)OS>"TNle_51E%_>,C_?%:JCsl%
+3CJ;7mV$Z7?>Fd.2:3a4m0E,KIDtVfF%]hTGT\lk-9LT"n3h]DmV$Z7?>Fd.2:3a4
+m0E,V?2$01VP+)YIIeQ;G^l?-p"sgX)JTg?-f6ZWkD/m-:L3]O0rCWH6@JGIhKXOB
+FoU"DA(pBBJF@'X3;["%\9Mf3f43P'8:^/?[Q+.ia1-A0b1C.WmmqutA[XSq?,sI"
+CW]d5BbnE'*g<)c?-h;l9A2h<LI\0&r>0PL-'ItaCZ3\*3PS#<rQ9<mCWfG3YjLEP
+a)HBQ'^cgiQCAh%gVa>Wi:cppgbGua2E&I^L^tNBmI3^@f%3^uHj>,\^NB8sqeKuG
+!'UM"ESn?TP'saGe,UQkhmi.25"kq,g)jsE*f+[&2O;A7bTB#Ld/,n<oL!HJ['hm,
+@/9B%LY:EPU)R^hV6RH"#LAX7]pnH;rr>`AA&!,2,us<hG)uK0o,[_'aXXK+qm:k%
++.2NQ*_=#W4<OO^^W;?!ZbcYAhE1Xk^:QKLrStZ6KoLE`4^()62tJ'Kn3Y..K-%-:
+oGdUdnG"/:?GV\'O89=`a*;tJs4>u=p(e)Zo\'&#rSchGYJ#XB8,Y>pA&!86/Z\>K
+@+"uS9qRgAhB#4*/nM/5@ErO3m;R<0a'E*!-uLYKXaOX'BI)taG`BaL@*^6=/nM/5
+@ErO3m;R<0a'E*!.GXd&IB9]WLK;2UC]%Jn!)pH$>l.Z6?Oj2gJCjS.\,`FJlFHVo
+`kEHt!<KCoGAmR]2E&Fu;2uS*iNtg>IDU))2E&Fu;2uS*iNtg>IDU))2E&Fu;2uS*
+iNtg>IDU)5s3TA+U;hfYfLp%%KJhdqjRudD1g&+2gBh_WE/)#@]Um;PL5QrXgL2\=
+c4JTeGE^]Pb:7'g1d4&l]2lP,n5!UG/?+m7d.m8Pm98pN_*+$aZDLS'6fZ[3[;3<+
+"SPc:dlU4W+p[>fU%.)9f1bQbCks1.G)++l2dJ5H]s8c0NS5Hq'mtpCm+Qt"er,=2
+GB2"U?R"(52P:/[U>b`Mgp>+(aL/1qVuZ3u\:#0;/Fm0JdF*)/c",<kS*>b6c5Ps-
+Dhn-(PF>fn-DDL;9Lq'\f2!?55KL4%ddpU!&E`gu6*l<WGh_3V6s]2&qg`cHh8e7;
+4ZMs&7GcX'\-GB<gjQ?cduP"r?0ue3J93^*a4frE3:QN1]r]%s#]te_o3?ZiOHFlm
+K(]c?%!UjDq"GpUp9Oqh+jq4rc#N:A6Fa0KMuV5hf1*>/=?a`6:hst.>2I3sC9/Le
+0dnogE@l*<Il17;Z'^aogUNQYYs4\@/@NT"ChCO8+:Wg>r&`%pZJ-C&Z'u$'J2R;C
+nF%e]bA;<5`bZj9!8$rU_n<$"b-Je^e(V#(;SW/WTD,B%eUQkLrrD:?rrB`7[]BE.
+<3Q<%8Z2OP`FW1Q<BDSpmL@rW2L@aNDq+^",cZ#`g"[OV\nq(maPWumIS!N*T<l$d
+EHKn$#Ecc"o)+Z96ICb:q@1[&e&_:YajB`%P,MP=RD2%uRp((Yrr<ot*lG9`$Uup2
+kVk;5:F"cW-UZO0?iSX-au?h6e$j!7)I"N4J_t[4jS>p*UO.]s4*H3!V6X@Y*VXgX
+:R]nX2n3&?[qHs(>:%OFhfk.Bq5N'iTQq#kV.@AlGjR`@VeCO1j>l(^P6(dF[/U+e
+SY>lbOQUpj9F(l`e,8JTYt[)>VM7'r#6o\Zgu0OWkP^YX=JhOZ;aVNt"+ri=mVn><
+oDZmgXA_hhWM,=uJ\duZG;r/YH2dkU+!:9arAX`V]bGjDim78Srq'(Xrr@sAdsq8B
+?iS[-`WUC6#S$_GZiVI>nQOS\NfX8B^S5n%6th$">8Rt#!$F5m:='9+&&h<kZ>C(2
+j!5ZnDmN=#Hh4.eSkWbL*-&th4AOdGUVuoi:B`kLag=%fN0&:T^<K0)n'7L338uH]
+C^g8"^<mj6rr<3BE>?hY#(E#uBT4m!JrVgJkSjUg9lIC.R_QZdhbCROGH`d=UK4r9
+UWtubIIu99Q[8fC3]1]Gl9++K-f7Y-8U%Bm_kU8D%\q<3QiGXoX8'm<!2`!;6Jnj=
+bPqR>5Me`aX8'm<!2`!;66[Tt*]NY)J"Y]?LQ25#TBJ6)+le&!Vtpl#M.D)O5Gld$
+TU&+<A,:$A!."r^Ihk8GchF*Is4>bi=PITI`ffLP$OiTP4nhFPr`,pUZ*r2rN?ul)
+()]3*HgZl+r2W_4@r88n)G?V0/2DE3pY?b6q,:k4hdjF45pD3+dKFT;:\1I,CVIo;
+G(N-tNMHj@p7LMBQIgPJp?`!?.iV"kamD=<Vb;#`g58JXmFtSOkjah696#[>MFlXk
+gJeaJnWKeCEJ<,(8_rdg<"S9`P,@BLf]9Pm"ch!tgsb`[5:;&PRb)&4iW'`U8%3P8
+^UX35$>sWbN_>0.=R@0cbs)-enouhfd+,7fG<)@d$)dpFm0&=f3_uC>X]jDeF.*uN
+RXcr,cq(FjV"t#j3n:@%G<)@d$)dpFm0&=f3_uC>V/p87I:#`,g$2YNgTt5a9Z[!h
+ns.IhXn@*%f4V'hmr$BsnM;EL43CV_DR\0gj'A7QHbI$Kn&3G2M!lfH%Mr(a^si"(
+rLaGm9^O;_%Mr(a^si"(rLaGm9^O;_%Mr(a^si"(rLaGm9^O9u77*k3[0,itgd(&P
+,_=nWTCu2AMM4`FC'WQr\:Mu)8HZg95O>7a'ag>je.9-oE<Dh0Op?XQJ(\3/dFr`G
+XnM-jYe%mU&3-h>r#oo<f2hclYh35l!!jQG4oQ#$SSP9S]3&l%Z2b";/"Zb@#Z^.*
+MCt@Qep;7e,B![859Iqb=/]:N\nc@il+RRc]FG)BIifD3TkL1bXj(LUpbFbs3"ti[
+Hrc-P=t(_[s3fW@FoMGSWYj'Thp+D-d9B_u^[1V\)>"mDa2@a(CDkb&Su?-_K7>lU
+ImkknIenJOqIfD\m[rF6CTlVkZ(F_hEW+Aa'WlNTl1QptT?][4ItETj,PN)Sq>UG`
+U@-,$`d`Gek,>nt5B3=QTD>Lg_gh%]rJ[@<YKfAFrr=?JLAq8-(],(6NF/3*H2^FB
+%K?F80D7/L)S\92oDFsTe)/uDqi(OPrrC;Erp5^$BD:TgC:EqJIcEZ-5P%lWQ^i7-
+/$7'=KPKr:n38kN<[HoL_TM1c?""Y`\U4q4nPtEka)J>qgt,XtY3oX!o6aM@h6bF+
+eDJ\3UpTD[?Q-h0AOW`U9[uj3r?GK=:8G;fX>e-u>2?R1<7KgR25IVE94&UTHt?(s
+m^Mh+Tsef&Rd&O9qDoHXMOm2kDs6"ECta@re$R0fF>/1Z4GUN*dCP(c[/Oj=BohKA
+@/_\VeCSi'[ENS)\W3fki;EqDhA3`)Ffo5)Xitp+pBTnMNpsI4A$'el"`@hNJ%.^0
+,^4qLS64ne:ba,SHaFDp!ScL&n^0\$(-.&t$qOmbm0&f,G5'EIFASsUNaXdI&fCAT
+5pd]p^%@@+'XqH6%qkT+r<FD\F7%pZFoIKrIq4&UEUe6:hA!G+kmqG#8,WZ7(N]!&
+$F&gcD.=Hf$Ht6ni("o,rr=g.=ESksZ&I<=Af1:3,EOh`!1?0T3kS[!`bY^_%"%a]
+a;]WQYQ*/,IRVJ(d85,V)WG8eU=t&bb]_B1H0uU1A)j<;IRVJ(d85,V)WG8eU4[kk
+kj>@O#1o4p1F+rPbtr>Y4WUpfT\Au@`aji<q5Ons8#*MiZl<=Z\BL&oIl/pocVrA:
+)^2FjpHSd-;[J0OHCh19faWPr\c<='QqT0>eFd*:aD;YUciApP_BhslIGVtl1&8la
+8+9A*Fo1V#1[0tG5Is(2M,UV8GHmc6IW>>6r"]7_hqaFlN;ibT!6nRDm#Tq7pZMNj
+\+aE^j$1:Co2I8R?hSf>N;="]j5KqN/8&>`HD-;o%K,8Fr=geq?hSf>N;="]j5KqN
+YBB^IZ(Fa_S:>d5"Y8DX_<bg`BBLAn+2LSD?a+kpo\'&\pP86;>RRhCFZ"rFVcS:+
+e:);IIg$Vim"-6P@HV@ThbH$NS$(Yb7DQMXLJq<#g3%VgNCW-s\+!c)f@RJ.."0[[
+N"'W?-f=(T-*M1Z;#@AA(`M,\:VY0294$B>U%_aa0K$8BT7<?CPkWp2g=HOgg'uUM
+-c>0=VnUlVf!mPScu-)(4s*:[4ndD![DAV]K6;nTnG58G")":oeZcO4GNWu73rL,T
+b()Br%c(=sI7Ja1*qQS_mEDL2B;"YBYd`,+kAfrOr>sb:GP[;mTrbG3HOP[N/d?cc
+FRSlA6UP!_de4Ogk$/>n*pMSI2MQsl]qt'N*R)#2qE<I1d+H),<pd(A@<a$laFOK?
+*aGh*mr`O%o#;Jt5E(C09_%5efY7)\mB8'LGU*")JHX:?>bU3tIbA&i1-H#Cgj#,\
+A3>K_gFM(!8"k&%NtTS$LQHBMAUBfcoIcbUi`SF+8#K^lqB4/Uc*HOC438S6ib.D*
+4Z`O+d0>AlD3mM-hFRS%'0e;cl.>2!Lbq6#Cq9_/njhj;RJEmXD6LA826p@siU/hp
+"8@0M[+<t.?K569Q>Rc(cG2Yg^oL1HYI3dUZ<:eumQBh<pO!>JdF/naMe.&-7Mu.*
+BX:S,O#<df#8YJJoSbO(d:T08*c"GU%P<stknmq/U<Q3N4P#,2=pZI;X=AA&PQmKu
+XY]oXr&Ic2::Cjddf_P*J#aZH.^5o'i_UP$L:#;"A+8T0s3fS3DQM>-!1QO\UlYet
+[TQh82$X+.dQhLl!O/\l<pIpq^^7B0)G'pF.ak]+.b4P!W`T3#Uso>9@]a#6V18>9
+5OVW&ec,WL=8r8re,K#LZE1)Ws3oK2S#HSmr?6!DQLee=:Dj(KlVdFoU_j@/KsG#h
+c(duqA,3a=9A-n<?m!f4aa%e_NAU0dk3e]W]p1b85at$#o')'.NtMA=-H<6#:Nk)3
+cm1`b@ajAUJ"I%PX4^G-ZjF)G%ka6Vq!fHh_Qf5g<IW>2"/Z>V&i?1ATB=[+aNCNt
+BXNE?";_@_:E@dQC91rW<F<+:_!-FYKT.@>kP;M^%BF&WT^HHf?tg)tGjhY_D-JN-
+#BN$I"%[Dfa*gnhC=ug)4.5<b)FK@Q46jT\eD.)KONQ2sf00:[K-j'Cmd@P6aJ:T"
+#IVm.h4VlPU&2I(b-EH)Xb#k\i&>=)A8$G[l658S#U,knn6CH"9==Zhq5B(7<$6pJ
+A&30_d4X&>e)mAG=\s\g%?C\5o0g2t^JC:>qO^4%(Uj)7A4oJQ49>9Ud.c&d/o\M5
+^XFB17hOYicfU"sVpTR>mCiLe'%/b#!.KDSG;eSekLS5!Hqri:&`KERF)GQlI;Nco
+`9qUW*Z>`:2We3+f%.T`:?N3$iLsWYe_P4jFW8,3\"*P^oNgMnl\irbh?.&rkR<NH
+mi])E?<p%i)XZ]QA:58>"<ihAD=oeEmfmtT*$jp4UBD)<a-7a.CMi`&2=C`n)]U-j
+O.ugg&''nXO)&V*2Dsq-G8hMIm>n"F%hH^FHG>ERqIBKb,Lu^'rrCLimi`aUj"LD!
+rr@<MLkpuhf&+LH9i(C#q%irgnnNZIhoN:s^QVUp#6%#r5DpW4BD^%K,P\PB2LiCC
+Z9O6hdqAR)<D.;dpRI"nft%GI&YO-uUlKpH2,q$oc[!TVD4@2N@2]@k\k)#So2SG&
+h"R=oL=s-D2A)U%gSBjZ+#MZ_"u]-eZr4skclu8-ft.GH9G+X0a<f1W:NY:%"u]-e
+Zr4skclu8.s4>r4b3cX>NbuC7,W4IH6`H--#>J7D[T@=RCiaIInKG(3)BDM!GWKTJ
+D6gcjX(.W:f80r\d*V&fj2'2Dc=q\\>$TBNqh%J4VkchT.@ei_@'mJ9U\=tV5>Oh2
+5#XJ<oYG6_4\+oL-@VPK*djr(@r[qSf/.f5dF1<UbtDgkN6oSTUXX1ARJMAI>?KZm
+L,I3sUNCV(e+6:N<jq/$N=VKdol1Ok1-?&=k6\8jf%ek3U%;]AXs+CR7tK.eiAJ#H
+gR@7]5&;n&`'O%:n2c&h0E9DNb5PILr0P1hZ"rHN/$JqFht^B^o"UIArr=A6r2`nc
+jtW,[HO4cHoP>k(8q-"%9TI9%*6'b2mpRhq5)k6Aktg+WM36IlA!k88h<ZH6B@3rO
+r@.W=nM30VDKEdnX`/!&]4CpAV9e``DKEdnX`/!&]4CpAV9e``DKEdnX`/!&]4CpA
+V9e`]<nI;-a)@7Z4rQ;>RY>U.fW98l@:S8k=S\mrfDUTIDjD/&)E!SEs3^&^7_1F>
+8QDUOZPo"i4A/oSmdU"O['H!-;I&CACO\M(*u.hB;TrlKSFJ1LkI\XkR'rIn/n:JB
+nhkKDk+<9R[[R^YA"H0\204Q8T+[O"Rggu[Sjr9.F,/nM'#4Ipht.fGrrDNDr`-_s
+1WB@ohn/feJ'_hdrrBfXq,M$)ce91lJ+5CFHbXk*C9o@%m0gkIpmSr\hn8sh2-H0M
+p4_L5r(UOin(rP_Zfj3arrCrgr2S)9cPQT]Idcj.5(bt)rVO@PKhadKXNokpJ*4GM
+O.$eCot%IkO1kPnT'jlfBN4$ClHJZ[p\oNO3;KcXe(VDT[al[BpTsJIh8@KS?&r3*
+&\*2@q<m\0k-hG5XgNu?4m`+@GB!.?[hSe6#m%1i(N(R0O/:-lph5A!.Jl@C"'fq#
+ge>a19:\*4d0eZ-p4+Cm\EI5.R>sIt3cj8SF%<(28M4jU518@97r@//SC-S;&ke]m
+ca:1gOkY*OV_i^("HqosoBe.3A9Qf,l7L%t""eU8_u^mf+)r=q*[b;0(?;rVQF[Rc
+!=dfp\;pHI'<d:OESS@Q>mG?LL@,<%7t&F7f>W7>eCJJ2MVIPBp=RtiS]A88pjfcA
+;e!34Ljc]hdcYW<5!C)@B%5J8^>^5ONHD_dH]O5D$7:Xi(VP@,Rh!jdmrk5ma(Q^'
+M5$b6mpI_Z_mG1\h5<C*g'I&>BW0=*fF(idm30dLC!SnbJibEMXaSN2+1853Ug@Y_
+Xq],]^?;nbg=F<m0/GiE$>->GF5"\%CLcTFR@ieuKl)=6:@N[%2#H+]3);]r+^8=;
+PIqu7bs(lF%MR05864@=,jtufF&0L*K7rjQ(]W%=_e6*2?']@<E0:=Zrr=rAQ#,Ec
+f#Fl92[;<6!UfsfRife]E7sPe=(RkRS0WXZJ'F&9:K7h\G-CaPoA0;=bro#^IG2I#
+O3`%<O#6N+c1buQ!2_tDhmtqtI0Or2qtGT*(XQfQrrBfXq,)PEGea.MJ!CB[L)bNI
+J'`,s]>NW^NC+1=>/08[oA/Bq6H5^S*j&fA)u8pkpoj_Kg:i:G%:Ab\q<n4?k-hIe
+JV.&&2L^"fG^6Elk[7fKrr>ccT'tMWBHO8j=C)N<*8gt3=E+f=jl?(XI]Q[\GWr'I
+J.h6X`&GGtO5,<_Z"8XIqOu179=9NdhYphGEbj@:Mk0rjKe,;YSJ*BZn)mDl2UQT]
+/o[YBBlg"Zp>,Z2Y@cK@GQlA,YjF&b9V1"RSOrg5CoC8flN:Lp\;uI:nPXk0gF<o]
+]"lq_mN^^R]MtNe2Tg_00!I50]866C0,=N=f%I@."jI7lK&Yr)4oQ'S>2(r8+M"/t
+n6B5X#J\,G.pHW.U_bj,*Xdmr5kk%Ej[(oI0.poqOPjA$2@t.RiWo;L#i?c;\Y.M@
+JT0,k606.C+6UQeI"LqOK38Zf_c'tKQQ@9!T+eSKH\V,o',ukc]A#-:LOS)dC3GT?
+E8G@3@rZk)HY.A=n(Z%1:=6K;)pMbaDD-2%CsJ%]qg!I[QL;JR4*KXQju5B.RHOM3
+-+g@WcJ?"XH&^,9k'?t,3XK]il#X=O1gX[5]/cI4cG0D+d5;,SH@k-lp42B.cgfiG
+o'>-JM5W5Ze/&d*Zj0,3Iu`sSQX90g9gPABTX^HhTK5>Zr-*>^](^nj]R%hgcKuYt
+hXB8AC<_"rRk:2b4@d*B\ieN3n`r);41'6nHbXZJWpL=G4e^ChN=:(BoaDq.j6-.d
+m14Y/U");c%!`?U$m1eqkP$In%t6[8eNJm#Gn0KU+-tsMpFR,SZrd:Tkgr;82,^J0
+CrW<TZ%a1Q2gIoNWE#=o@oCq2_[ULQ]VEGFWm"[%WGCj/L:9n6;<!_E'p#D4Xk(?_
+^4.u"jWe@f+'.-#Xb<*irb3Cq7a+msXgY]C#r;>SdQ<\CZt'+9NG&"%+70pF!975\
+n43@F5PWfZHl)h2en+K&d(K4VK2#P;+2%9JbNSnuH1b;ER^Lp8H0\V"dJH9%lEUjV
+CUeibeXs3YrrA$kpVC#07R-\!Is`!'Zt'+9NG&"%<u9KPHS'.(=8.IkVS1#]>[Lj3
+m'XI=?eucKReIhfEIE:kZI\I:Is>tuCYX)(hd<)G[Ca+ZhAgj1G<M*JfB@SKDXU[$
+LE<=`cX`%.qB#N<]@Hl=a/PtXfmj%Nfs<0-F'Z*&';j41!^"NoraiEJ<DqtkAZR7R
+V6C)HPN2SaB$@9Oc$%94:7Fma#k'.]q2g;i$tCB%G!FEZ&dX)2nL-`DL,"b#]-$9>
+#m<OTGa'@]6Q!l"?'"WZ"G.be4A(TN`r`Kfl`&g!Z<?0GE9[+H\t`K7^oT<&l?FLh
+Q?\DE3dooRW7L<S.h&SlSd:f3Sg/FhT6L13hdm:7;H[CEcQj.[4kf0kMKd`@RoG\U
+)fs+([uY^DOlDr*;!-:SQ3Q.85qV-QY,$<Gs4#I4:tfg>)++jDCmO?rT4oOnjKsW*
+2Oh,Z:r?ET-+]K,g.:f1/Kn[7VX8r!0\/_8DPfGfP!$HLT;gM+A*rnn4hF@qTC^tb
+I]$dHO13MUp?aKdJ'WY%qOO#i52SfHgU+S,rr>4a-(!YI:^)dX40]]N8gThaLJS/5
+!'@G(HV,TNj+gG7MuYrE)LG)1Fl6<:>AR\X6#<tMUhW!TTj;mXYZBKq)%^"(LM7Ze
+qC#EO"`+p^`WegHb@0*oUV;Zde_7&JNV@meT1j]QrQr!QaJ41@V.\7!S3M*IWj4&1
+GNi9&a6*uh#et&nrr<t`mt*4H1&h6nZhr[=p5FLkXT%u<@q8Cjl3>gf#6&T26H7*>
+A(1shq@3A]i.[/Q5f]fB=nE[/_ndko-nHI:B@CMV&)IV"O[3CR.mBFe3.C?hr/(je
+kumZ3q8;rYs45c*clNQHDSghgCP3QdSn#F*'s1o;4;M,VK_sER#VpNba*Bj!>/NUM
+/@E(rpT^k4AEnH#npFEM9Li;s*9u=s>6`MDEoerQ&_>UT3k$fo_6f=E\P(GjFga$M
+XirZ,D'VV(9iIuC0"0?B*P$ah"LgWY:;$,LVQ&&](L(Z\%c"ko!aD<=-XM&a;cN#i
+MljCiLMgLHJM#4Z'<aNA.G8hrU$WXRVgHKHL[PrD\sH7eMji,.j;l/4MKW8uW-^tX
+C#8CjiVUTDs4>ipBG?&7DZ/o3-,N1`q!kMF>LfBE$*h,:YW.sU+@"o+\h.i$JOh--
+n(tk>>U4k"!08&^VffD]`Wk9<h00Fh&HlgO1BgP>COM-N]J[:g+i5E/dp?VnS^uBh
+(`R^8Fkf?;6kQ</bS2#_`u.mbO01VRJ,kCg=G)$hj!qLBouEbF!"fi:&9"lpAQIAG
+\F_BR![:3F'\43r>1USrf/mt_2r>mAG+LpBF=F:LQF3iL\ZU,8aD\da*pl(=mc[SO
+D(TO-%<GeA`K8u)P!.NDrS?**d+!F4m'[;&HTb<>E<JS-4FH+&4o"_T"kC;XWSP(9
++OqMsE4$bbHS'j7hTo0hgd)KdNup>Thm-=?A%tFd9-+BYAC&'e"O6fiGa:G`9sh1`
+Og[s]&!0KBZ<)lm^I6gL*XNcrcbT>[TX5Jd8L2(NdFf?4(msFdg`#!BG5S7g[RL1M
+-96U##.IMO^FA(mOaj']NaNmDXjkC0b'44oEP,3?h6D*^M>c8Jq3%o@GbsN6@d=sH
+qn%XT-!eO\9?VLtei"oMG7Wh:Q)/1qYPhA6r?e02WtfCL!7`V"!7GT]!.(nNYPhA6
+r?e02Wu(fakgr;81`H(F/D]rB=[*A7#/-ah2gl^t:W%0<Y@sZTha_gQnD$pJBqi;U
+7s/h@g_-r-U:n<3F`Hp+'!l;H]t['[EU_`t19.JNA!_4B8(&XR>^LLbPuVb7*4qC)
+5*6qUj4fh-WiLR#jkQ2boSEFs*o*t!e(i%@J+'F&j/[5Gl2LatXT&9\Xiuj(rq`u#
+3eI*3p3Lp?JX`[h=D-m,4*UJq+MHBTSt4,6B'Qc>)>\31h>TT/06Q/bVfPrX\ueDU
+I[aiVIufb\e[;X[)_S?8@XaHgmSc0T[ND8UecW!LdQ2g!B3*U$oPD+SFc#rb:UpjG
+V,`eB!>IQpGrnNN]_kU7H<"*N!"hSk#EuN>CX9s-B;JUnO9$%V!-pXrL:mFcs4#WF
+D18<n_U%.qfNB-%M!+]VFfh1frCY=gT>;&BZ8HP4chWUe><0+fQ(&.GJfeE3C>L2-
+o,Z>cg07lCM#AoYC/0P+C/hIl>@':Fr@N\;:5<q+<3b.]?9!c>/VIk6LNI91130j$
+F+6[4A&LFLGkMfLN=X?p<&/L';0.4Vfjhr]aE[ClW/V>6NDqZR[o%3r7bM:i3llR>
+'<$m$c](r)^Por(A,YI=<IYm9oZ-jM<iZ-SrrD;EpQ3/ie`bUS\hlNfjOF206,/Nm
+)u2?Ucu7u4`r8\.oGdT=aSm`?9qUl?/<Af2o\'69'$1&'IncR(5udNI`nOA_JM)$L
+>!p!L0r0$[Wd;s#D5d:rQT>5N+l;CLdQ@/&4_HLXe9rH4SH7<'mrQ]e*W%Mif%52X
+Q.bD_dL'c@k9nAe]\LZroZ-2"28JgIjL*i^ATiB0oR`OiH-,VNd7Z'(fj#TXn19?Y
+%?CsGP;H1\=nYo%\@`1mjMPKF?R3l1ZIXGh_<rrXaE]JlnCPcS^^`*S=rZ`f6_1S+
+I[Z>h4=OA5`]K)GI7HhL[Y+%t;>t3^.f_QLEG09hkmhm`IJR\Cbj^Bd5Ro@J@5WR=
+o&2d5Vc3-bDTHrW!92?`'3GFA/edN]F[$u1m"\M)%P7ck21Sm$iBF<?;t9j)bQ$2F
+cD\G%+c^R7S/VTlF<:[gSPaa(6QG.N3&V'akWTAY3hl@.L,m<&E,6.Md!QMgIk.`%
+9AfPIT.B_CJ+?qG!6W7U?cq^7!0[*U<\!4=ZFjfcD0,&Wf#M_\T:F7!E3#;Ub42!)
+[El+Q>91MbIWI`u_QI*I/&lR@f0736Cj,s&q98j=2[\`Jg7N259<<XK,_cF!b3,eY
+T59*PXFLO$L'.@rkGm7.Ck><]J-R?S"8p@Bd*nu?37`p4St"b3+5_;B!'^Xb;kA!2
+&kbAH`f`R#n,@bD:8^57=sTD[DiH#lIGau#(4sn:#pb\9N9gJh<&("2^RT[9U8qcb
+rrBCU$tmq*k8t5uWn>V3m.E^`oGdVH_tkn`dFu"[n#+gaVLLT)l2D%D[FalFf[$FE
+3<&1A$JMo>n#+gaVLLT)l2D#Bm#Tq7pZMNjMn:5.)?'C2!1KYMaSj,.IXgL[ZOQp7
+ZnM,.I2]j[rq$&QAfLaMBOC+:qDE_ArTEu+bW#OJ^Y$[#CAd,hcgk+\A:EQ'^H_<i
+B6Hf51]-eD!&[f$A:EQ'^H_<is3fT$f6&`a`bOfEdm(KmQH`aJWI&eE='.YSrSutI
+CA$CUgTd3Y_=Z(B+!du]gIiKjRQ@_GcgMAiXnCFA)mPhmZ1QB2%j\:MgIiKjRQ@_G
+cgMAj)r0t+:3^PZdi`RN*=1XL\rH-&\u.YJY%`tV\djC5&`#qN4C(mW)V6ge)r1`c
+3/I""j*A^Vf$C#h!7!b[rX,-Sk96$n5(ik83;BuX.W.28L.uL\&,bJIhr(^<e(/#c
+\24E"K'fZnF9=StK*RGIb?9iPi6WD%$b!FUcj]6o$m%Mm/S6u3K0X4.0&"bJ5VoTW
+0R3*RS\DFthePT5YM+1AA_p`+S\DFthePT5YM+1AA_p`+S\DFthePT5YM+1AA_p`+
+R`8mHMk+6kh<DFEi\Z]%9k,q_7F&+pme#9^E>h?#-F&sjU?>VspNg]j\;_`M&ZkXJ
+(Y)[<!A5a`r=j$18-SZeFT>'kjSo3K)UD:^I8uh''&n1$d9lq'g9BEU8*JSgqKn:k
+TAZiP%H6r.NJ$,d\Gkal$JM`@+%PPI4o0Mdm[rF8DX1II.]pPCaZB.oeEu(-6cE'8
+41Q_Fhn#AjX_;sZ[g.+&leD/4<9s;7lt=chS:>X1"Z9&iIGVtl1&8la8+9GVlhB6%
+B@@rmIrp/D(Nr=:1]-eD!&[4$Oo(+:r;QcA;0QQ"j$1:Co2Yh@g;\:8!,&;Kc_01@
+4s/0V=O+\Jog9Vh)u7OlqC?>!fDV;>@m5Np3;@tl/)>Zjlt=d[k9&P&_+OH/Y^78[
+g%i\_L[\3TfBaQuI5ZOorSdYgO/V+(H?I+sP:'K3Y@N]mj6Cr5_b$%>=T5L7O/V+(
+H?I+sP:'K3Y@O$tc0lg7eVsFdipYg$a51`[$tcSRk8tLi"XZG)HcT\S@m;sJ]D*oV
+f%7o]%XuF%]U<cpHjB.i$XXdi3Vs`3nn#j]n/oLA/UV1BkNlslad4$g^jcUIP@&"D
+G31P=]9a26j89u5ReoQ9[kX#Ygpio!+5lpif@ht8\VuO9ji$Jprr<;C0sU/GX^bM/
+QqS,W5PdPdVD^Tf26:RMEs[FgkPkNP`"^53\u)lpAr^:R8GrJfkkKb-D724>QgG=j
+!'/m@_7Jkl.GJ]uZ).=c!^I6>JadQg:5X5L@k;>Cd/]71S`"l7Y*5U[f@7l#*85sZ
+7+$5A*[RCN;]sk:C'C^Q7GjV[Q?b&UK5o/7(:6dPIW=@MjFeHCkqq#uCOp.OG<>_4
+b!&?^Y<J.EJ;1QLK'.3i`]U$WKGsIH1tW(LJS6Z[48`U25"a"&HgYs`\(PZfVKMT&
+LRPO"hYWi1XnGu2l(*6biT@5L\%_#eCOMN:qIa/GG^6/MZZ'4Q>$J8cmQQ(kO0%+Q
+JC^%QG.Wg-P%3f:"lM87],e'7kN'DXd-0(N\hoRA<XlIhP^6pOf(].RT8Y89[_!05
+9YoH>rrBmanV(('f4%VAQoeO0pc<jXR^Ur-6s2>2G;K&LIi1sbD/Z."RIrY0r51aX
+VQI;9d2#FPS]q(AT>jt4dHK1O\i![+oh,5aoU:9dXAu>$!*$0%!(j*elGZrAoh,5a
+oU:9dXB&>dAIfmXZi)i_!50(/J)\fHhu<7Enc&TI5LY,Zd9lq%hoPdJIncR(6#Yh6
+(-e\BpRo"d5DpW4BD^%QTRN4T8=Kk1f[UlFl#Lm&Y^HD/;4rB)-V0^3ce-cP$)?k>
+m;NLUMnoB]C--12@5ND%*NfF<d<Hc>NCRhcCaP4LA$s*/H7oC%&ZG)sOeqEG\En0W
+Q#55>1d"1PGZ$B3Q'WMO%^N4K8*5S_RI:JPQa3pWZ,,!k[qP]dnIn(EJ,e!LG^1!>
+")u!!>U0b#k-a%e72l6^0=+^d"%W0hGDD;M^c)Yfe\XT!rb:0b`>:;sV>cs?/.a!f
+bk!:=qo'@,mA9fOLb')]4O!CGh##&,1@:q;RtrU,,!=*@.+p3.=:tkQZ`'H8&[GWP
+YTsa-B2LcN,@n9+?q;@8cD#Q&:N,cfIn]kB]Ti-i!#\<!chkg[Dt0'A9`G+*Q2f@_
+`2b)^(sbqCHUJ/loYK;?*AKd9e&8:2WYj&Vm!D,,/bHm6i#OO:MUTME,,uL+:$d3p
+#qbecgYa),5Dm!QnX'7U9Rj^/Ej+LVrg<]cGm`Y?`aA[!rpgX5&J4KIP>hDar^8ke
+jOF206,/Nm)u2?Ucu7uPs4-#Jr[`OnTC5'ajF7q0VU,"0\+2bA+4Fm"crH&@%oJg4
+4.K!O[qE7inMB(Yj4RHi=?T,jYjQKddbUMX'?&4HGE6<;d9uVb[_oYob=d#*S50e]
+rSB]$h2^f:\q.:a/8r%FGs.AINpCJlJ[S9(Dn(.>4d4]^lYF(_[S8;k\9iKaPb5];
+b.t*bdBkm"_>N0:H.>L`nnbB7b<6e3M0pDim0B1]T>)_q^oXliZoFDgr8,eGeURVM
+g'eIeSYaUI4uPmhmlV9YXe<Jp8_RG.A)h*;*qR34MV8IKUn+@-(-XWGiU8lBpo&LV
+CtM#mND52EG*X1?mB2<fS!u;I7cREUn6MlGOumHRLSj4YKFt`DfR+KL@H<I&kbXV?
+Q8jVb!Fm-W]G!%-Q<cCNiYko&N-0U=9ZS\dFP1/[Bj_]2ebd0=+K4CO/$H_Qp\n2A
+jaSea^ZtRm<[d'Z/$H_Qp\n2Hs4>hKCtREZZ8(9&M;PLdL\iT)mB^;6^<"?G![iH1
+rZCL/B=?'EQMVmJ":1Rpp\96DVYAg!*\*/qY_d=\5=Zs.mK/m8CM\6q2a5))_Ee&>
+NoRVVDgeamii(Z0#aYi"oQ!$Ri#l#mgI9[/<7#E*QF7mNjNj1R5cU0ZMl\J/T[rWb
+Cd3KmT.e9:<A/2*=BSQgXl<O:Ifklu?]f$('r&JCd-0(N\i!Ct4nU\,b6HP)9K#(j
+4s"I9+FEBh7@"CbBUEUa&:?Uj9L/@%er)'u>1#%VqB5QYVJrg6dT^M\D`X!9IA`&<
+3*?&l/[bI7SOdY4e&I67/:FmkgARMdUc2Xpj$ZBtN@k^`/__5?ZUs.un(A;u@nVH[
+Mg!,)/CJd648)'`R*spZU><)c9/N4f:ApOZdFMlIrLnK/?i3W%_gct293IOpp4_PW
+J+5C3%K5Jc/S8&`!886M<W<';eZ:_(TB(o7laLf1QbRJbD(IFCJp?fSXnCGXe'$XY
+&iQ$n!5UdBU=T2.gZdhgg^+om%"M`W4Aabo;b;,B7])Xr-,kC0j5LX(k#4io\ONHc
+*[SdU:?1=Fg?)=*Fh'u=RiWlpJ55.a'Wi>?QK1'R@p3A[KK+7#;RCAF>EJ#:NG4B`
+&E2a(9$tA`DF9s125W:q6\h">s3fQ6XDQF/_fJ<9G[uBDl8[=1?WK)L]&C2pGJ#[r
+icQ5U[P+[#FPUokdC\6Q+E9H&2,\R8qa3SArrA_kc1,_8PH02e)>\"E#PN(oI$C1+
+rm9!?5Nk><Hs>[+.)oicMaM?$G23uT:F7oj1862:AaPCCD/jaT(`Z<u1nQOt.)oic
+MaM?$G23uT:F7oj172!CTXsH;N-id]1'b=Ge0Ym\BJ-mR@ik4p%"[gjFU<aZRL?:-
+fZ1YJ_]X;^SO3A*epS97O-%McgU3r#=;W1JmJua1XSOEM+!HnP[qeb$YV8Atg]?@A
+=nG^#5!pg+DUtB'?snVr\-'S[D/E[gQK1>TX_Y@\[ojVmjVHFu$X%@8(M_O5B"N2J
+Vf#@KD.'c;j?[skCUS#f=W2JF7I;`fmVVB5>j2B.Ji95I(UUj8\[T,oF/0DV#hjZj
+?IJG*k2,8YcB(NJ,AH^IIb%!TP1aefSXR(X39<m3=W=Y>A\k*aC?*+iPrJ)@DTOJs
+#)V$6NrtDDs4#c)NXi^kS,d`1g\[bfD-"[^?;8]F4&bPFdH%a:@tUs3k5ZO%pAX:H
+:<,-1D.ZXbJEU]Ud-u;=3ulEa[@'J'"/2QH6c%f9luO_$en#X7%Yg8i%gS+/BPA/W
+%IODEBER"gM:4m3)FY>BH\$6A!;>\eFO<R4O[T9,i*=i`4h@#O1ePTuVR`*)HZuhf
+g.0Qn_(,`dRc\-@mG?58BcfkV"KWR-CRL:I[sLN&UjX@J(]W%=ZDngJkM-(a]8M;%
+"@VM,OUGdDW+g=FE!2Kp/e$eQ';o;-/Xn5`V9XM)&mMlU1QY""SV[oK[D2)>rA4G*
+4#b.88_[JKd/O*p5Njo0HsPg([D2)>rA4G*4#b.88QY-0k.83rmW2&;lm/qYHZ:K9
+kh>11]UeJ39GZt?ZlOL5.9G`ek.83rmW2&;lm/qYHZ:Me@mqZtE=E[Fl"u:7V^'7P
+;/7(!-JO>iZ/82j:Am0o5DkA$d7H7O6Ud%3>@Mg@aRT10s45eC=DK+]aUPYO_7MOI
+iA1S(.p^D.XGX2,2V*Wfm*XR@bRS0cG;Y,\._Lkt=r\Kf7rAto3Kf5/CPT4>N<9K6
+?*ibiOW5QIg>VD),='+Pf51:I,Y&-+2Rn)baNuW-[G*m+M%RT4lS$PVHEM402X:h%
+90A;C=akJqeT6AB[odOB=lb22bO_YRX.12)]#/Y'cQoQl!Ug*%X)iiB)Cq3Y]>K_@
+r[CoL"5X3*<p'Pb1flF=GD@<_r)0]!#J:E3Xj.+NBWbkYmg_XIpoj_LfPP"[a$/K@
+fH?:3$"tA"R>%m!^jV5k`,2_E+hA<54?52*@C:X_*;bQH@"Laf-(oL'AeMM2)#(;%
++(J!OD:1i;,=JYD7Qp*La4Sim)g%3'Ls[_Td>rVlEV;647bo=bU,5p$[;@1P?iSL,
+`Vh,HE$:]T,]_oIn69#0UrTV@1M^N]>[W!gCDZW1otZ<!Cluo"&&Bt:%&(6q4lb!0
+IcI7Z(C["K4[%iS)Lg_C0c(7l\ii4:di*\qV*3I2?"Wgk^k,+5dTa*PmM"E1<Ru)0
+S-UBrN?u24DW*b2<F'523P^5;LsfM7p?iQsrDLE/-D1%5'!M73^\oLOpT"q1rDLE/
+-D1%5(]Vn>AigjpcJj"(1e_ZbM>U!&AigjpcJj"(1e_ZbM>U!&AigjpcJj"(1e_Zb
+M>Tu(/+k?4G8C)5W/:@>7@!_6\\!cJn'jc(,,36Y8mL2k^A$n:IZ[=hRnZ`-82aPq
+`M<6m3i:A*1m/<5oC6MnABq0]eI<dVAUODZ5FG:#"g8ChE/9#hOCi`9[Xi53MqfL!
+#ilkp'^_PsnDa0JL]TR@B8-B6goe*6qC6.*APQp2!OOH$lYS;LVL94Zk)&RH6JS`P
+deYG+d:H'dT)l;EbW;-c3M_Y[%O4LiES2[IeAo,E,]7R@)F5U.aYOF(4jIadF+]:s
+#on+[Q27jJ]8L7he\(,:P:Q<>F*ADChlD%MjX+'od,saJQbQSmUWS/-Y9+D.YaG(+
+5V\o3rrA<Lj&_:uCKO8VAY9me!.W.aEN@-u[B(]<1=-GC!'fRPs3oi:)4*Bh8<L90
+F?f2:>M!@?k=^XE2NSE(rQ`T4lt0MeE?[m#!RUiH\_/d+(hdS.rfEO2a_QcH0JLl#
+8c9efH]ltpc<t(STTf4=AG7CQ.A)RN4mjtI\3U0?%m@P?9`/M5mr<]f_?^_bH0sGi
+BB(kqH]-_J&3u&(cYi4c[=S>XBjouGK-"k9g;*^g['9&_6'!pWm9kFt=Enn[a.#Eq
+eD7#?Ps95/M:\-`&q:(s:,=AKi9(cW1#=2T$[/%P<;jYY-XL;q8c09<W*>=D/o]M]
+kQdK8<,8F:O,ko4g)0#YR#Y-]W*>=D/o]M]kQdK8;KY^2OO-Snf;\Orr5h!sdn"-t
+qs2c05lP;b;e`$a&q0H<INX+q<aep<Nj-TGJHUes+SP:sbURG6eens:+H[\_*o73+
+Kh[jo_]d;.&gOo=gVJC>e_b<9Rm3Rlb2p@pjYhTST9[TJ^WLBlK0LlJWkk^5<oE/N
+Z3]5TU]NF&^m$=QC8oan3USGM2\E"hNHFY9$EP/GF`%\9M]e"tC-X"L4:+ogZ"71&
+(-I0npPA;.;Qd99>`fdaJg:#Gn*s;YZ"71&(-I0npPA;.9_qsn@L56`g*a*7&/.6n
+eQ@E!]!dI^",$g'V6s>HPO>QIHN<"*J,e*T^D=GR\])@DUdSm"A0:EjDI8<-ceRO<
+7a`J;/M[k4kdN4aY354mE$K'/)A\_Gr:Eh<)4cZ$_e?C`nhm@^%*lh"iNubkq&7a@
+#%qDLE7ulFI#Vl7`+(]PhVd5mM":--$;ABJ2LF<=h?/T)o(!,]`+(]PhVd5mM":--
+$(jS*"nfBkO&:q'nd@fUr/%%5EWu-GQB+n'QLYDN8Gn=:6ZNA'\<`1QNgB5D6V.-5
+s4>u1QIV%A%PF%gIV8K-eWdMDHcU2KYk.HNcF0gN[:A&\Mku3$RJq>?=]SEl-3)W~>endstreamendobj19 0 obj48977endobj20 0 obj<</Length 21 0 R>>stream
+Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 381.75 600.75 m 366.75 600.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 381.75 549 m 367.5 549 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 376.5 600.75 m 376.5 580.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 379.5 596.25 m 376.5 600.75 l 374.25 596.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 376.5 549 m 376.5 573 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 373.5 553.5 m 376.5 549 l 378.75 553.5 l S Q q 368.25 571.5 15.75 9.75 re h W n BT368.25 573.75  TD/F1 8.25  Tf-0.0761  Tc (26.0) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 400.5 525.75 m 381.75 525.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 400.5 624.75 m 369 624.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 396.75 624.75 m 396.75 581.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 399.75 620.25 m 396.75 624.75 l 394.5 620.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 396.75 525.75 m 396.75 573 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 393.75 530.25 m 396.75 525.75 l 399 530.25 l S Q q 388.5 571.5 15.75 9.75 re h W n BT388.5 573.75  TD/F1 8.25  Tf-0.0761  Tc (50.2) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 420 636.75 m 368.25 636.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 420.75 513.75 m 368.25 513.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 416.25 636.75 m 416.25 580.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 419.25 632.25 m 416.25 636.75 l 414 632.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 416.25 513.75 m 416.25 572.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 413.25 518.25 m 416.25 513.75 l 418.5 518.25 l S Q q 408 571.5 15.75 9.75 re h W n BT408 573.75  TD/F1 8.25  Tf-0.0761  Tc (62.0) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 136.5 512.25 m 136.5 490.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 323.25 511.5 m 323.25 490.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 136.5 493.5 m 219 493.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 141 496.5 m 136.5 493.5 l 141 491.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 323.25 493.5 m 244.5 493.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 318.75 490.5 m 323.25 493.5 l 318.75 495.75 l S Q q 221.25 489 18 9 re h W n BT221.25 491.25  TD/F1 8.25  Tf-0.0761  Tc 0.0326  Tw ( 90.4) TjETQ BT221.25 481.5  TD/F1 8.25  Tf-0.0783  Tc (132.0) Tj0 -9  TD (140.0) TjETq 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 95.25 512.25 m 95.25 481.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 218.25 483.75 m 96 483.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 100.5 486.75 m 96 483.75 l 100.5 481.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 357.75 511.5 m 357.75 481.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 243.75 483.75 m 357.75 483.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 353.25 480.75 m 357.75 483.75 l 353.25 486 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 87.75 512.25 m 87.75 471.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 365.25 512.25 m 365.25 471.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 218.25 474.75 m 88.5 474.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 93 477.75 m 88.5 474.75 l 93 472.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 243 474.75 m 365.25 474.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 360.75 471.75 m 365.25 474.75 l 360.75 477 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 95.25 493.5 m 105.75 493.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 99.75 496.5 m 95.25 493.5 l 99.75 491.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 136.5 493.5 m 126.75 492.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 132 490.5 m 136.5 493.5 l 132 495.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 376.5 513.75 m 376.5 528.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 373.5 518.25 m 376.5 513.75 l 378.75 518.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 376.5 549 m 376.5 536.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 379.5 544.5 m 376.5 549 l 374.25 544.5 l S Q q 368.25 528 15.75 8.25 re h W n BT368.25 529.5  TD-0.0761  Tc (18.0) TjETQ q 106.5 489 20.25 9 re h W n BT106.5 491.25  TD(20.85) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 374.25 483.75 m 365.25 483.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 369.75 486.75 m 365.25 483.75 l 369.75 481.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 396 504.75 m 396 513.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 399 509.25 m 396 513.75 l 393.75 509.25 l S Q q 400.5 502.5 11.25 8.25 re h W n BT400.5 504  TD-0.0725  Tc (5.9) TjETQ q 375 479.25 11.25 9 re h W n BT375 481.5  TD-0.0725  Tc (4.0) TjETQ q 154.5 498 126.75 9 re h W n BT154.5 500.25  TD-0.0622  Tc -0.4313  Tw (14 way \(Mates with Molex 7720-14\)) TjETQ q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w  [6 2.25 1.5 2.25 1.5 2.25 ] 0   d0 0 0 RG 482.25 528.75 8.25 90 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.7529 0.7529 0.7529 rg 0.75 w 1 j 0 0 0 RG 480.75 513.75 1.5 123 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 460.5 531 m 460.5 478.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 480.75 510.75 m 480.75 478.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 483 510.75 m 483 488.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 504.75 518.25 m 504.75 498 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 483 501 m 504.75 501 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 487.5 504 m 483 501 l 487.5 498.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 500.25 498 m 504.75 501 l 500.25 503.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 460.5 481.5 m 480 481.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 465 484.5 m 460.5 481.5 l 465 479.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 475.5 478.5 m 480 481.5 l 475.5 483.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 480 491.25 m 469.5 491.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 475.5 488.25 m 480 491.25 l 475.5 493.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j  [0 1.5 ] 0   d0 0 0 RG 483 491.25 m 492.75 491.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 487.5 494.25 m 483 491.25 l 487.5 489 l S Q q 486 503.25 15.75 9 re h W n BT486 505.5  TD-0.0761  Tc (10.0) TjETQ q 495 486.75 11.25 9 re h W n BT495 489  TD-0.0725  Tc (1.6) TjETQ q 481.5 477 31.5 9.75 re h W n BT481.5 479.25  TD-0.0663  Tc 0.0228  Tw (9.0 \261 0.5) TjETQ q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 j 0 0 0 RG 87.75 513.75 277.5 123 re S Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 106.5 533.25 237.75 83.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 J 1 j 0 0 0 RG 117.75 610.5 m 115.5 610.5 113.25 608.25 113.25 606  c 113.25 543.75 l 113.25 541.5 115.5 539.25 117.75 539.25  c 332.25 539.25 l 335.25 539.25 337.5 541.5 337.5 543.75  c 337.5 606 l 337.5 608.25 335.25 610.5 332.25 610.5  c h b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 99 525 m 99 527.25 97.5 528.75 96 528.75  c 93.75 528.75 92.25 527.25 92.25 525  c 92.25 523.5 93.75 522 96 522  c 97.5 522 99 523.5 99 525  c h b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 99 624 m 99 626.25 97.5 627.75 96 627.75  c 93.75 627.75 92.25 626.25 92.25 624  c 92.25 622.5 93.75 621 96 621  c 97.5 621 99 622.5 99 624  c h b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 360.75 624 m 360.75 626.25 359.25 627.75 357.75 627.75  c 355.5 627.75 354 626.25 354 624  c 354 622.5 355.5 621 357.75 621  c 359.25 621 360.75 622.5 360.75 624  c h b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 360.75 525 m 360.75 527.25 359.25 528.75 357.75 528.75  c 355.5 528.75 354 527.25 354 525  c 354 523.5 355.5 522 357.75 522  c 359.25 522 360.75 523.5 360.75 525  c h b*Q q 1 0 0 1 -0.35 0.09 cm 0.75 w  [6 2.25 1.5 2.25 1.5 2.25 ] 0   d0 0 0 RG 136.5 549 186.75 51.75 re S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 104.25 613.5 m 104.25 605.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 104.25 613.5 m 106.5 615.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 104.25 605.25 m 106.5 603 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 93.75 613.5 m 91.5 613.5 90.75 612 90.75 610.5  c S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 93.75 605.25 m 91.5 605.25 90.75 606.75 90.75 608.25  c S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 93.75 605.25 m 104.25 605.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 93.75 613.5 m 104.25 613.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 90.75 609.75 m 90.75 609 l S Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 117.75 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 121.5 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 125.25 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 133.5 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 137.25 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 141 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 144.75 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 148.5 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 153 616.5 0.75 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 156.75 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 160.5 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 164.25 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 324 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 327.75 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 331.5 616.5 1.5 3 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 117.75 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 121.5 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 125.25 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 324 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 327.75 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.5882 0.5882 0.5882 rg 0.75 w 1 j 0 0 0 RG 331.5 531 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 136.5 591 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 136.5 549 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 136.5 563.25 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 136.5 577.5 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 146.25 591 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 146.25 549 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 146.25 563.25 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 146.25 577.5 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 307.5 591 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 307.5 549 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 307.5 563.25 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 307.5 577.5 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 317.25 591 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 317.25 549 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 317.25 563.25 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 317.25 577.5 6 9.75 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 176.25 654 m 176.25 659.25 171.75 663.75 167.25 663.75  c 162 663.75 157.5 659.25 157.5 654  c 157.5 648.75 162 644.25 167.25 644.25  c 171.75 644.25 176.25 648.75 176.25 654  c h b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 657.75 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 657.75 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 657.75 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 657.75 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 657.75 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 655.5 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 655.5 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 655.5 2.25 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 655.5 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 655.5 2.25 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 654 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 654 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 654 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 654 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 654 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 652.5 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 652.5 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 652.5 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 652.5 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 652.5 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 651 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 651 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 651 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 651 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 651 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 648.75 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 648.75 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 648.75 2.25 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 648.75 1.5 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 648.75 2.25 2.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 162.75 647.25 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 164.25 647.25 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 165.75 647.25 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 168 647.25 1.5 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 169.5 647.25 2.25 1.5 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 162.75 645 m 141.75 601.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 141.75 606.75 m 141.75 601.5 l 146.25 604.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 200.25 507.75 m 215.25 518.25 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 213 513 m 215.25 518.25 l 210 517.5 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w  [3 2.25 1.5 2.25 ] 0   d0 0 0 RG 186.75 513.75 78.75 12 re S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 j 0 0 0 RG 460.5 534 18.75 83.25 re b*Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 466.5 617.25 m 466.5 534 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 474.75 617.25 m 474.75 534 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 483 525.75 m 485.25 525.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 485.25 525.75 m 485.25 516.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 483 513.75 m 501 513.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 501 513.75 m 501 516.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 501 516.75 m 496.5 519 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 496.5 519 m 496.5 516.75 l S Q q 1 0 0 1 -0.35 0.09 cm 0.75 w 1 J 1 j 0 0 0 RG 496.5 516.75 m 485.25 516.75 l S Q q 1 0 0 1 -0.35 0.09 cm 1 1 1 rg 0.75 w 1 j 0 0 0 RG 485.25 520.5 19.5 1.5 re b*Q endstreamendobj21 0 obj18624endobj4 0 obj<</Type /Page/Parent 5 0 R/Resources <</Font <</F0 6 0 R /F1 10 0 R /F2 12 0 R /F3 14 0 R /F4 16 0 R >>/XObject <</im1 18 0 R >>/ProcSet 2 0 R>>/Contents [ 8 0 R 20 0 R  ]>>endobj6 0 obj<</Type /Font/Subtype /TrueType/Name /F0/BaseFont /Arial,Bold/FirstChar 32/LastChar 255/Widths [ 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 750 556 750 278 556 500 1000 556 556 333 1000 667 333 1000 750 611 750 750 278 278 500 500 350 556 1000 333 1000 556 333 944 750 500 667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 556 ]/Encoding /WinAnsiEncoding/FontDescriptor 7 0 R>>endobj7 0 obj<</Type /FontDescriptor/FontName /Arial,Bold/Flags 16416/FontBBox [ -250 -212 1160 1000 ]/MissingWidth 322/StemV 153/StemH 153/ItalicAngle 0/CapHeight 905/XHeight 453/Ascent 905/Descent -212/Leading 150/MaxWidth 967/AvgWidth 479>>endobj10 0 obj<</Type /Font/Subtype /TrueType/Name /F1/BaseFont /Arial/FirstChar 32/LastChar 255/Widths [ 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 750 556 750 222 556 333 1000 556 556 333 1000 667 333 1000 750 611 750 750 222 222 333 333 350 556 1000 333 1000 500 333 944 750 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500 ]/Encoding /WinAnsiEncoding/FontDescriptor 11 0 R>>endobj11 0 obj<</Type /FontDescriptor/FontName /Arial/Flags 32/FontBBox [ -250 -212 1217 1000 ]/MissingWidth 278/StemV 80/StemH 80/ItalicAngle 0/CapHeight 905/XHeight 453/Ascent 905/Descent -212/Leading 150/MaxWidth 1014/AvgWidth 441>>endobj12 0 obj<</Type /Font/Subtype /TrueType/Name /F2/BaseFont /MIAHJD+Wingdings/FirstChar 30/LastChar 255/Widths [ 500 500 1000 1030 1145 1301 1344 894 1217 458 1084 892 1132 1132 1171 1171 1441 1443 1096 1343 699 699 892 554 602 1072 948 1078 939 891 892 892 891 910 910 587 793 674 674 942 942 549 549 892 843 843 843 1111 660 849 1089 888 880 650 813 747 747 723 693 794 885 892 896 891 1156 1054 964 1090 941 933 946 1025 929 1096 1065 780 1050 1271 747 953 747 891 891 891 891 458 747 986 891 578 1060 1060 891 892 892 530 530 500 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 892 1000 1000 1000 1000 1000 1000 1000 1000 313 458 313 891 891 891 891 891 953 458 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 891 1048 1048 1048 1048 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1253 1253 794 794 891 891 891 891 891 891 979 979 891 891 776 776 776 776 1067 1067 891 891 873 873 873 873 891 891 811 811 1060 811 782 782 782 782 482 385 635 786 892 892 1035 ]/FontDescriptor 13 0 R>>endobj13 0 obj<</Type /FontDescriptor/FontName /MIAHJD+Wingdings/Flags 4/FontBBox [ -250 -211 1746 1000 ]/MissingWidth 899/StemV 162/StemH 162/ItalicAngle 0/CapHeight 899/XHeight 450/Ascent 899/Descent -211/Leading 110/MaxWidth 1455/AvgWidth 890/FontFile2 22 0 R>>endobj22 0 obj<</Filter /FlateDecode /Length 23 0 R/Length1 25 0 R>>stream
+HâƒUiTTG˛™ﬁF≥à"†‚ˆ∞Q÷vC•∑® (‡ªY§DBƒÖ†hT@£çªh‘‡˛5hå1(J‚c¢qãÁ0cNfò1gÃ8fò˚«—9«ﬂSﬂÈÆ∫∑Óªu◊*0 n(ÖÄ¯ââ°˝MóöÀâÛÄ~S“sm˘ëΩ∞˛ ÅÙ¢BıhËÅÄH¥1+vÓ≈Áë`∞oÊl{Ò¨=RF
+Ø–˜G≥2móWé⁄=8ãù◊}åËﬁYπÖ∆å,_MÙm“ø ûónÎíﬁÖt{L£3/Â⁄‰S‰~Äß/…´smπôõ'âtÿôü7ø0’ë¯=úóÁdÊOº‹g&ñN˙í¿îl$≤Ì∫xù8ﬁˇôë!®Æ˙∆[∆¯DUEÃ3ıY´»ˆ¬§òòV˙ﬂmÊò=)(4ò˝dºd“¨sŸõuZ%Yq28ª∏∫µsoﬂ¡££ßówßŒ]|∫vÎﬁ£ßÍ€Àÿ€œøO@ﬂ~ÅA¡!°a¶˛5,zxÃàë±fK‹®—c∆é{g¸ÑâÒ	ì.]˛· ’´*◊Tl)üiµMûíòÑ¥ÙåÃY≥≥≤Á‰ÿsÁÊÂœ+ò_¯^—˚…)©SßMüÒÓÇ‚eã/)˘†¥l≈⁄è÷≠ˇxC’∆Mülﬁ∫m˚éùª™wÔ˘tÔæ˝ü’8xËë£«¥⁄„u'Nû˙º˛Ùô/Œ~yÓ´Û_7\∏ÿxÈr”7ﬂ^πzÌ˙çõ∑æª˝˝ù~º{Ôß˚>z¸Ûê°ëO ≤?íß2DÚñ?+y÷⁄⁄
+PKıŸ–KI§‡ÀP‡ú·W™¡vpG{tÄ:RdΩ‡çNËå.AWtCwÙ@O®E/—~G†/˙!AFB˙c b#QÜhGF`$baÜqÖ—É±áw00ÒH¿$,ƒR,«áXâ’XÖJ¨A∂†3aÖì1â†0#»ƒ,ÃF≤19∞#sëá|ÃCÊ£Ô°Ô#)H≈TL√tÃ¿ªXÄb,√",∆î‡Íª2¨¿Z|ÑuXèè±UÿàM¯õ±€∞;∞ªPç›ÿÉO±˚∞ü°pápGp«†°«Qá8âS¯ı8ç3¯gÒ%Œ·+ú«◊˘∏àF\¬e4·|ã+∏äk∏é∏â[¯∑Ò=Ó‡¸àª∏áüpüÓÅáxÑ«¯C0àƒì∑6Õˇk‹zÎéâêŒR¯R>ïV€(s&ä™â≤g¢ºV°ä◊µ…P≈§SMTO•&™† Â…D5ÛVCU°s¢êF˚z4“M{È43áé*VÈòóPU·7^«xÉcw8È´K¥Å◊IMƒ◊ıïQˆ±Û$≥»ë˚”∏•Eö´(≥/X °Ç˝Åµx‚2˝|“ìC“UdÔ9 “ﬂò'ãfÂÏ,…x•[⁄N+%ôF¬-á„ôùÂ±∂öt6sÅ"≠y|ØÊoR≈h©Iˆê√;i°¶>Ì@Í⁄&PÂßÊΩ“⁄Üõå≥ñƒ≤ÿ&VM64≤¬sÃáS‘ul¨¢´¯ãî#Ì!4…ìïN2È÷˚ﬂá˙Ÿèz5ä∫r,u†ﬁWs®u,zŸ%À^Vˇ™3T≈t&’Â#º†Ë∏tø¬ŸPñLH%∞∂ú‚QÒ÷∞Ì¨éù!˚Æ∞;º'y›;yﬂfeﬂ O+¸*Ãõ˘Ø¸7ÇAò)§	ÛÖ}¬A·ÜpC-Vãª≈‚âIö#R≤ß<CÆ T*%GYÆ¨Wv(ßúCËÊÚ£;)äºJ&Øä…ì≈t£î;≤VK–˚Ù$u·Ø∫Ñ÷óûË Ã,éM&§≤©Ã rŸ|∂‡ïG{Ÿ~V√Nê/wwŸ}ˆÑ˝â˝≈Å\Êﬁ<ïÒ<ë'Ûæâo·€˘!™»:~ñﬂÂè»«f˛;˘Ë"x^B¡"ƒíÑi¬°L8"4˜Ö õ´8Lå'ã3»˜Kb≥¯eíKÇ‰'í"Y“\©D™êvRE∑H-≤´#*rG9R^)ÔíÎ‰{Ú?/≈[ÈEQLJ¢bWäîÉJ≥Ú‘È∞aÑ!€P‡DwY›ZoéìT›¯9>Ï>U√<¡ù§TΩ˜∏´b7dÛ:›:%ëP¶‚Ö`¿8ÒíÖi∞KiÇãÚg‘∞˘‚RvHà£õrüRƒŒ
+V°Eÿ'˘…ëmÒ‰[ÖÉJ±bUûí•œÖRñ¬FH¨Üßé.`	¯;˚ùnÓ0Ú~tw“À¿äË›™r:Ã‹®◊yOV!Ìéã’ÇE*a})É]•&aΩ@^ÙÆ–{%<!≈Ñ	8†ø),4$8(∞_ﬂÄ>˛~ΩçΩ|’û=∫wÎÍ”•s'o/œé⁄ª∑ssuq68)≤$
+ú!»bå≥™öøU˝ç£GÎ¥—F€k´¶+ÓMMµ:ƒ‘7%cHr÷ˇH∆¥I∆ºídÌ’(D©£™]3’z65!Ö÷kÃ∆TUkq¨«;÷¢øÉp#¬◊óæP-ù≥Ã™∆¨™Eã+ *∑XÕ§Ø÷≈9÷õÈÑZgZ∫–Jã3Ê◊≤∏hÊX8KD-áìY•ç5ö-⁄£Y7A¸,∂->!≈bÓÍÎõ§±ÿtcö„HÕ=–!ÇX«1ö´)éc‘l›T®µAÁÀ+Î€#ÕËöaÃ∞MO—[™~Fá@mî—¨çZÿ‹98®ûÌOJ—±ıI)ß1∂µ¥vL©Ÿú™üÊõ≤“!ﬁâƒ;-lÓ*î[:g´:Y^æR’™R^ﬂı’ˇSSIip–∏I)ædµ—R©˛õ˝¢çmÎ™ûÎo'iÏ¨MWöûkíuçc'ÌI≈⁄diª$•(d•MƒèÊŸÔ≈ˆjÁôg;iBnbÌ†!Ñä‰¥µ“ƒ*Mï*!@ì&ê‡«¶?V~Q	6⁄pÓπ˜}ÿq€!ˆâ8ÁΩÛŒ=˜‹Û}ÔÂfÃŒë(îÌJ°íú∆ÕÎÒ£ú≤ºR«üâÁjœ/`∞v◊Í0ªªº{zÏ⁄Ê;0}T©ùúã«Íá{‚ÛÍë«6v@mvı ‘ò2’82êÿàv	OotF$“±ÕçËˆaƒŒ1‘⁄r5„≈ß0EÍJFAMÊ‚uOÔË#PÀå ˛Õ3Ùh˝∑Pã‰Å˜F„JÌ`"ƒoø€HQ%%–ΩÂÈbßé[xΩøøæoœî‡Ü5;Dﬂ√âÂ˙Òx)™‘è£À`f'ÕL°Àc1ÂÛW« çıµœŒâo“=óa,’?_˜,ëÎ÷H˜Á¯»ö5bO_àc:ˇúÛ›ıPü˝âÓ‹~4w∞Œv>`X„X>Gïüø∑63◊ß÷Œ˜Ù-‘.Ãchéa)÷j«‚ ±⁄BMΩ∫πñé+—xm„¯ÒZÈËÇe“’ÕÎÁ{ÍcÊsùZ? ºQﬂ>1ÁÌÒÃÃ”„ù¿Muœ÷kx¥‚—:>	æ≈|o±·˝g¸õﬁkÏ/ ©{∑£∑·ﬂ94x†+÷’Îä≠y·ÓöÓÅˇÊ{#kæõ¸ä≥é'˘*…
+√˛+lÆWŸÙXg»˚UﬂZBæˆ≥´lÚr’pÍÓÌ—Ë›ÆQ8|Âévç2˚DÏQ|∞®ÔÈ˜ﬂ»¯Ω7ﬁª{ÉÌıJsÑúÊYÉçj%r&Ú©;°ûu˝Ø˜◊„ø∏7”ˆvp?;‰Ö
+ü¡°{3 Ì 6€ˆˆñã÷-p?{ ó:”·Ωp±-èp¶É}p1¸¨{
+7BxÄÓÅıpD¬Ì/"\Äı–Xo{÷˝Ø‡º>·M√#Z{0˙! ¸‚11N¿Ògëé‡ªÎÅ9úØ~SÄO¿˘Ø√)BBæI§˝
+◊¯é˜ ¥#Ì)§}ﬂ›p10≠µ¸ˇîpu|È›Rè}Bó BΩÉ(/tﬂh_p·;¯} ﬂK¬÷–◊q˛”¯^Ñ+m˝í}«¡Z˝9›#Úº–‰ãêªÓΩ$l¶uö·∆Á„|vÛ∞®{ÒHKŸ,›D{Ò˛ºBÈ&¿ÀKH‰Ô–É†-Ä˘1ß∏7 ˝ΩçˇNÇ¸7B®&¿øl˙ó‡c¬«ÒÌÔ!„ÌÜLËY< Ù˝ˇ◊Ù;˝?˜„˝ıÎÄ|:q_à"6äç¯]ﬂ∫&ƒÿÀv.âMœ(~	‹É˚—öƒΩHQ‚>ƒ_ë∏{¸O$@˙âqµ7p¯¯µ±˛Exêk¬BÑáëÎ∂K‚ˆâ{†”c—Ω†x˙$ÓC¸òƒ˝∞À≥(Ò “ø,Ò òûÔK<{ΩQâá·êwD‚mÌìﬁeâ∑É÷˘KâwÄŸCx◊9Ú¬€πŒëó	Ô ˙´ÑGπûëüæÒG"ØæÉx~CxÒ¸Å«â˛Wéáv˛wéw–ZQò0J´f>õ´(óî°——˝¯VN‰3¶Q6+ Ñañí x°†ÃrÆ≤2´óusY◊íb¬ ü0§ú\-È sF°Z…KÂÑ2µîi=Îƒ‘¯‰Ùë˛”˘•¨ÜPû’≥’Çj6ìõøOÈf%+˚ì√ÉÕc's∫Çö±RV
+F÷PÚeº‹TLU”ã™yV1õÏ1Lï´ôÑ%0¿Ñ"®PÄÁ†ÇÔ%ÏD*“4ò¿±¨"ûá,‰pTÅKCòa£∞$6å¥»ìAN ãƒ;A≤KêD|Â=kÀ*”óéoπñÒ©ß≥¬†Ω¬“N¢&%‰RPOeUQF±%îê@Íbôˇh≠8g&aé@?Vn%dqDºÀ4#ãÎ»„~ÿ¯)Zª,uV–IÙ‹‡CÁùD∏’bD√Ÿ+dO±,ÇÇt˛≠"Tpytä®	gë∆£Ò‡¯4ÀÚf≤%Ø>_ëÛñPßU8Nô¡◊û§à…√äÃ!.?GZ$˝äáNöØ4ŸÂ∂X¡5π&"n+‰7Œ©ë.câ"à◊‘B˘/ıPh›m–fgù3” æ$y@Ë€Z7CV	ó•R˛qÕ8^î∫~3)É„Ej
+q'w«q∂)#õp≠/*“§µ*k>´à˛/Påu“Ñè	›◊® Ìç[:såkîó˙	ˇY≥ÀR€fOÛıì≤Çã∏û‹vnyñ4Œ√ÌÀì¸¨„wY˙!OŸoıÖFZÁÁ÷ÃÿãQ8O“
+ñ÷¸ÕWiéMâ§-ì7tY"äƒ≈≥Ωäú¬[sãÎ[±Î'o«KÿT¢gYF@ËÁË$¢Tîïn≈Ã Ÿñ~BnI˙◊êy„pW)~&i≤äP°àªÛ⁄ZMo»G∂S´\{!Ω*{†àÉXÅÁDÜ¨qÚ‹î>o∑ıãqf∞Æx,oVàŒ)gqŒ*Êñ!˜ãK¨ù∞˚T9”≤Zvt4äØ¶e…≠Quü•xTl	™‹2îAÂÜ—Õ∑ÏK»º?GÁ„˚D¬ŒΩÚ`¡˛neÌ"’åïc SV+Ô…¥ŒâÄ∞X•9nú˚‰y:AÎ∫;zÇl) ≠‘‰;+ﬁ+§∑)MòHRÓ}
+u~ç"!:y‚>›5O;%ﬂA5Ÿ›ØêÑuCb÷æ‚»V•øÑf≠rV‘Rû<ó!ŒååNô∫TŒÂSJ∂™» ªs='±≤›wT€&ûÈ;=Y≤y ‘ÀTkV‰“2Ú	imüb6ØÅÌüç1kù1Eí©?¿Sy Å¨Ù˜VË¥ÁöºÁX[êªã®"—ä§[¡•YÖzû885ﬂ(MßH‰ë3C≠—>%≤◊§ñ<—‰	À´∑®oQVdúh9µ«ıI=+Âñ(Û vﬂ{áÿõƒé¨Àœí&ËUπÀÁÏN5É‘|CˇuØØI∏GMY¡¸˝î®€+W…+Œâ“⁄ßZı–VùS‰µaœkÃk˜Ve}irøΩüwK[,kÃˇ <;âhRÓ¢Ã.’u⁄∞ÙÕHÔ,“y◊≤[sùù}ÖG»πX>◊®÷Âﬁ!¸™QûÈMûµf|]ïß2œc≤◊.ì.yÍn´QÂ9ßí4´r“§oÅx›u†Àl9€t¢‚+XgßWü∂3∆Úb+œYßlGø≠ÁÑ,ùàäD3)gîÜj≥2Ögü*œ	q~…∫NÖ‚Ïóm∞ÕÒú*œe9⁄˜JpR¯[°_íŒxçÁ©§Ï“)“¨*ΩÀk8Â ôî‹ï‹9ï˙P÷ÿz¶L…Œ†°¸|∆uupï:_Î1ÓO˜ùUÏòçº*EK£{Ó˝§∏q–ﬂÊŒiıwKºòáyôè˘YÄYàÖYkglÎde]Ï∂ùÌ`›l'{îÌbaªY{å=Œ> >∆c{Xú}úı≤>ˆ€Àûd˚X?K∞ñd)6»Üÿ~vÄ=≈ÜŸ'ÿ'Ÿeˇ›gµ∑qTa}∂•=lß!'«MøÂÙá»¬-'mpú6u0•)	≈Åfw5í≠v◊;ªí <B†–¶àñ74i˙ä€&çíÙ·ÜÖ>y?[Ë⁄øÇ_Àùô]≈)tŒùÔªwÓﬁŸ;˜Œ¨∞W„l√á1ÖÌò∆\ãÎ∞◊cªÃ‚£∏√çÿçõqÏ¡^|7„ìò√<ˆ·SÿèO„3∏`¬Çç*8j®£üE.Z‡#¿BDà—FãX¬A|ü«p_ƒóe|áÒU¡◊u‹äo‡õ∏∑„(Ó¿∑–≈∑q'Ó¬w]|ﬂ«C¸?∆Op7é·8Ó¡	‹ã˚p?¿É8âe<ÑáÒN·4≈ÙpÁpè·q<Å'±Çßp?≈”¯~é_‡¸ø¬≥xœ„ºàók¸ø≈Ô{¸ƒüg¸≈ﬂ2^¡ﬂÒºä◊:ﬁ¿?Ò/ºâ∑≤"0mû∏g;.∂#Ñä—îÿq9^}$‰fï∞ÓöBp1dq◊≤|øô≥MØÍÚëàª<h¯æÎT•⁄†	¡#€	Ì˜⁄‹ınôvs8Uj°ÔE#-”q-±Êöıj«^•∆Åû\ÙØÊí:∫Z%Á\Õw´<,h†àﬁpÕqyd∫nƒ£-•’⁄%SE©Ÿ¶Âx< 7¸8Tâ±&_≤|3¨ñZ~,xŸ¢‰}/o—SÅÔx—@`≥MW—4jîC∞4ë‡Yd<‰‹ÕÀƒ;°Ò·>sy- J≠ùì£ﬂ4¢F‹≤‚ Ø∞ÍwºÇú"ÈY‘4tÍçàiNûöP⁄ ‘0›(/ZîEç WÙxÖ¶+yûˆµ„IFjY£¢ªÆ˙BX≤<Crk⁄+œÙ"f:a‡ög"ˆDÉv√®“F“FÂÖÁw»µ…ŸbÀõñ[evÉ€í©@©QÚ‘^R´¯q‰R†¢RD√§‰4∑π9∂vj—Îs¡ã"2CøV5€é|öìèIõ±‰xK¶W[ŸNÉv5kÜπ»å√X‰ÍºÂxéÏ=õáÉ.˜≥m'¨˚Y◊±B”∂é_fΩÓP0'y€BáÏ3be -'ÜÕ’M–ñ:ëkWi#±Ò™Â∫µà≤N’Pje¡£àóTmü∑b:fÕ„}÷Iô∏»¯Hõ6HRã:◊{á⁄πDÔPy÷&Êh´®ﬂ€oµËeŸAÍzka»Kå:Jß˛¢ûîå’®À5q⁄⁄G8ã G6˜„≤ÂîìÁ§ÅÙT1]¡Ò⁄ÖdIìuàñ˙KëRLWS<YP˙'kJˇ˛≤RÈØ,HWÙ}yï∏ºú`%¡…lHSYç5NÂ®oôZ&¨ÛhD;Î~§´dµJg ≤+(∂∆JÇìtÑÀròêCEv{¢‘ÁÚLÜ:k±®§díπ˛AÓ’y%%ìåN¥ÏÌr^…
+t#SQ÷‡ãz÷∑S±ÍWÈíí|¢o≠–U\ß8‘•Í˚™ŒàŸ±‰UòO…∂òºSv!Ê·R!Iùb‰†s»SM}€ıÌfûJ™YQUTÛÇ,hJ©ûâ/ï3ÒU’L∏*f‚,kôNJ‘œ}ÔR‘·npÿCµ°Ú‹RLµê.s≈„@M•oó÷8HÏ°§√};=üD
+/-ƒé%]≠PìÂÂI≥Ì◊Ñy}&xﬂ∆s˙tÁÙ—÷ö6
+^®R~˙“/j™ÆÚ|Éæ°ei-(¶åÜ¢Úzó®>∫>ÍiMıá@Û8HÊ•+}ôBKGTLGTî"*în⁄‚u‰E¢SV+˝0ïãa*IòJ?L%	SI¬Tí0∫ô,"g©«È„ñ’6eNb∆Å4Z^áÑZÇPúU5EcãÜr±„–'≤#\øÓOï2;w“Ãµó±©ô+ìÁf á‡îÜG4<§aY√I˜i8°·∏Ü]f4\ØaZ√îÜmÆ÷!9C5`ÍF¬7H^'yç‰ígIû yú‰…iíS$À$'Iéì#πõ‰ví√$6…-*Ê˙¥Üá5<®·˜k8¶·Z€5\£·*ÜÜ¨Üô©)¬WI^&yâ‰EíHû'yí‰1íÛ$èí‹Cr'…Iu¶º.ø.ewÌ©]F˜Ñ—ΩÀË5∫æ—uçnÕËr£ªﬂËÓ3∫ÛFwŒ¯ {?€¿ﬁ«ﬁ√ﬁÕ∆ÿz∂é≠ekÿ+±c,«Üÿ À∞LÔ]É≥≥{¶1€{∆ŒÃZzˇﬁ≥iÖõˆı≤õ¶—[;õô›;=÷ªjso‡VzˇΩs+x˚,p«ëÒﬁ⁄sOeÄ∑èOp~>≥~Ûˇ∆.—fw/=ùπWf'Œó?gHÎ≤vïµ+≠]e√π›ôÚ¨y€Å˜f˛G‡ã?¸ﬂŸK<Øsd∫ªÁŒ≤ÃÙ¸é˝œîœÅÒçÛ”Î◊€Tr[7éø0î¡r¶∏yæW⁄4›&ëSWløbªú ®©2è&Scá∂nøÄÂdjô/£≠¸Of∆endstreamendobj23 0 obj6686endobj25 0 obj13239endobj24 0 obj0endobj26 0 obj0endobj14 0 obj<</Type /Font/Subtype /TrueType/Name /F3/BaseFont /Symbol,Bold/FirstChar 30/LastChar 255/Widths [ 600 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 600 ]/FontDescriptor 15 0 R>>endobj15 0 obj<</Type /FontDescriptor/FontName /Symbol,Bold/Flags 16390/FontBBox [ -250 -220 1247 1005 ]/MissingWidth 332/StemV 191/StemH 191/ItalicAngle 0/CapHeight 1005/XHeight 503/Ascent 1005/Descent -220/Leading 225/MaxWidth 1039/AvgWidth 600>>endobj16 0 obj<</Type /Font/Subtype /TrueType/Name /F4/BaseFont /Symbol/FirstChar 30/LastChar 255/Widths [ 600 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 600 ]/FontDescriptor 17 0 R>>endobj17 0 obj<</Type /FontDescriptor/FontName /Symbol/Flags 6/FontBBox [ -250 -220 1249 1005 ]/MissingWidth 333/StemV 109/StemH 109/ItalicAngle 0/CapHeight 1005/XHeight 503/Ascent 1005/Descent -220/Leading 225/MaxWidth 1041/AvgWidth 600>>endobj2 0 obj[ /PDF /Text /ImageC  ]endobj5 0 obj<</Kids [4 0 R ]/Count 1/Type /Pages/MediaBox [ 0 0 596 842 ]>>endobj1 0 obj<</Creator <FEFF004D006900630072006F0073006F0066007400200057006F007200640020002D002000430055003200300030003400350053004300500042002D004B0054003700300041002D00300031>/CreationDate (D:20020107104558)/Title <FEFF00430055003200300030003400350053004300500042002D004B0054003700300041002D00300031002E005000440046>/Author <FEFF006B0073>/Producer (Acrobat PDFWriter 4.0 for Windows NT)>>endobj3 0 obj<</Pages 5 0 R/Type /Catalog>>endobjxref0 270000000000 65535 f 0000108327 00000 n 0000108204 00000 n 0000108727 00000 n 0000094372 00000 n 0000108243 00000 n 0000094578 00000 n 0000095667 00000 n 0000000019 00000 n 0000026448 00000 n 0000095929 00000 n 0000097016 00000 n 0000097270 00000 n 0000098399 00000 n 0000105542 00000 n 0000106613 00000 n 0000106880 00000 n 0000107946 00000 n 0000026469 00000 n 0000075649 00000 n 0000075671 00000 n 0000094350 00000 n 0000098683 00000 n 0000105463 00000 n 0000105506 00000 n 0000105484 00000 n 0000105524 00000 n trailer<</Size 27/Root 3 0 R/Info 1 0 R/ID [<238aa276c5f404d17f8d7470fc9080ee><238aa276c5f404d17f8d7470fc9080ee>]>>startxref108776%%EOF
