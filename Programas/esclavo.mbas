@@ -158,12 +158,10 @@ sub procedure interrupt()
                     if Llamada[0]=15 then
                         portc.0=0                ' encender led rojo
                         portc.1=1                ' apagar led verde
-
                     end if
                     if Llamada[0]=6 then
                         portc.0=1                ' apagar el led rojo
                         portc.1=0                ' encender led verde
-
                         clrwdt
                     end if
                     if Llamada[0]=5 then
@@ -212,8 +210,6 @@ sub procedure interrupt()
                         Mensaje[92]=version_h
                         Mensaje[93]=version_l
                         calcularcrc
-
-
                         portc.4=1
                         portc.5=1
                         for Iter=0 to longitud   -1
@@ -221,12 +217,9 @@ sub procedure interrupt()
                         next iter
                         uart1_write(crc_l)
                         uart1_write(crc_h)
-
-
                         delay_ms(3)
                         portc.4=0
                         portc.5=0
-                        
                         porta.5=1                     ' apagar led ambar
                     end if
                 end if
@@ -253,7 +246,7 @@ main:
         LcdStart1=255
         LcdStart2=128
     end if
-    Lect_prom=8
+    Lect_prom=4
     for Iter=0 to 95
         Mensaje[iter]=32
     next iter
@@ -266,7 +259,6 @@ main:
     PEIE_bit = 1                  ' enable peripheral interrupts
     GIE_bit = 1                   ' enable all interrupts
     clrwdt
- 
     while true
         clrwdt
         leer_lcd

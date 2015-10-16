@@ -835,38 +835,38 @@ _interrupt:
 ;esclavo.mbas,160 :: 		portc.1=1                ' apagar led verde
 	BSF        PORTC+0, 1
 L__interrupt161:
-;esclavo.mbas,163 :: 		if Llamada[0]=6 then
+;esclavo.mbas,162 :: 		if Llamada[0]=6 then
 	MOVF       _Llamada+0, 0
 	XORLW      6
 	BTFSS      STATUS+0, 2
 	GOTO       L__interrupt164
-;esclavo.mbas,164 :: 		portc.0=1                ' apagar el led rojo
+;esclavo.mbas,163 :: 		portc.0=1                ' apagar el led rojo
 	BSF        PORTC+0, 0
-;esclavo.mbas,165 :: 		portc.1=0                ' encender led verde
+;esclavo.mbas,164 :: 		portc.1=0                ' encender led verde
 	BCF        PORTC+0, 1
-;esclavo.mbas,167 :: 		clrwdt
+;esclavo.mbas,165 :: 		clrwdt
 	CLRWDT
 L__interrupt164:
-;esclavo.mbas,169 :: 		if Llamada[0]=5 then
+;esclavo.mbas,167 :: 		if Llamada[0]=5 then
 	MOVF       _Llamada+0, 0
 	XORLW      5
 	BTFSS      STATUS+0, 2
 	GOTO       L__interrupt167
-;esclavo.mbas,170 :: 		clrwdt
+;esclavo.mbas,168 :: 		clrwdt
 	CLRWDT
-;esclavo.mbas,171 :: 		CRC_ok=true
+;esclavo.mbas,169 :: 		CRC_ok=true
 	MOVLW      255
 	MOVWF      _CRC_ok+0
-;esclavo.mbas,172 :: 		porta.5=0                ' encender led ambar
+;esclavo.mbas,170 :: 		porta.5=0                ' encender led ambar
 	BCF        PORTA+0, 5
-;esclavo.mbas,173 :: 		portc.0=1                ' apagar el led rojo
+;esclavo.mbas,171 :: 		portc.0=1                ' apagar el led rojo
 	BSF        PORTC+0, 0
-;esclavo.mbas,174 :: 		portc.1=1                ' apagar led verde
+;esclavo.mbas,172 :: 		portc.1=1                ' apagar led verde
 	BSF        PORTC+0, 1
-;esclavo.mbas,175 :: 		Suma=0
+;esclavo.mbas,173 :: 		Suma=0
 	CLRF       _Suma+0
 	CLRF       _Suma+1
-;esclavo.mbas,176 :: 		for Iter=1 to lect_prom
+;esclavo.mbas,174 :: 		for Iter=1 to lect_prom
 	MOVLW      1
 	MOVWF      _Iter+0
 L__interrupt169:
@@ -874,23 +874,23 @@ L__interrupt169:
 	SUBWF      _Lect_prom+0, 0
 	BTFSS      STATUS+0, 0
 	GOTO       L__interrupt173
-;esclavo.mbas,177 :: 		adc_init
+;esclavo.mbas,175 :: 		adc_init
 	CALL       _ADC_Init+0
-;esclavo.mbas,178 :: 		Temp = adc_read(0)
+;esclavo.mbas,176 :: 		Temp = adc_read(0)
 	CLRF       FARG_ADC_Read_channel+0
 	CALL       _ADC_Read+0
 	MOVF       R0+0, 0
 	MOVWF      _Temp+0
 	MOVF       R0+1, 0
 	MOVWF      _Temp+1
-;esclavo.mbas,179 :: 		Suma=suma+temp
+;esclavo.mbas,177 :: 		Suma=suma+temp
 	MOVF       R0+0, 0
 	ADDWF      _Suma+0, 1
 	MOVF       R0+1, 0
 	BTFSC      STATUS+0, 0
 	ADDLW      1
 	ADDWF      _Suma+1, 1
-;esclavo.mbas,180 :: 		next Iter
+;esclavo.mbas,178 :: 		next Iter
 	MOVF       _Iter+0, 0
 	XORWF      _Lect_prom+0, 0
 	BTFSC      STATUS+0, 2
@@ -898,7 +898,7 @@ L__interrupt169:
 	INCF       _Iter+0, 1
 	GOTO       L__interrupt169
 L__interrupt173:
-;esclavo.mbas,181 :: 		Temp=suma/lect_prom
+;esclavo.mbas,179 :: 		Temp=suma/lect_prom
 	MOVF       _Lect_prom+0, 0
 	MOVWF      R4+0
 	CLRF       R4+1
@@ -911,16 +911,16 @@ L__interrupt173:
 	MOVWF      _Temp+0
 	MOVF       R0+1, 0
 	MOVWF      _Temp+1
-;esclavo.mbas,182 :: 		Temp1_H=hi(temp)
+;esclavo.mbas,180 :: 		Temp1_H=hi(temp)
 	MOVF       _Temp+1, 0
 	MOVWF      _Temp1_H+0
-;esclavo.mbas,183 :: 		Temp1_L=lo(temp)
+;esclavo.mbas,181 :: 		Temp1_L=lo(temp)
 	MOVF       _Temp+0, 0
 	MOVWF      _Temp1_L+0
-;esclavo.mbas,184 :: 		Suma=0
+;esclavo.mbas,182 :: 		Suma=0
 	CLRF       _Suma+0
 	CLRF       _Suma+1
-;esclavo.mbas,185 :: 		for Iter=1 to Lect_prom
+;esclavo.mbas,183 :: 		for Iter=1 to Lect_prom
 	MOVLW      1
 	MOVWF      _Iter+0
 L__interrupt174:
@@ -928,9 +928,9 @@ L__interrupt174:
 	SUBWF      _Lect_prom+0, 0
 	BTFSS      STATUS+0, 0
 	GOTO       L__interrupt178
-;esclavo.mbas,186 :: 		adc_init
+;esclavo.mbas,184 :: 		adc_init
 	CALL       _ADC_Init+0
-;esclavo.mbas,187 :: 		Temp=adc_read(1)
+;esclavo.mbas,185 :: 		Temp=adc_read(1)
 	MOVLW      1
 	MOVWF      FARG_ADC_Read_channel+0
 	CALL       _ADC_Read+0
@@ -938,14 +938,14 @@ L__interrupt174:
 	MOVWF      _Temp+0
 	MOVF       R0+1, 0
 	MOVWF      _Temp+1
-;esclavo.mbas,188 :: 		Suma=suma+temp
+;esclavo.mbas,186 :: 		Suma=suma+temp
 	MOVF       R0+0, 0
 	ADDWF      _Suma+0, 1
 	MOVF       R0+1, 0
 	BTFSC      STATUS+0, 0
 	ADDLW      1
 	ADDWF      _Suma+1, 1
-;esclavo.mbas,189 :: 		next Iter
+;esclavo.mbas,187 :: 		next Iter
 	MOVF       _Iter+0, 0
 	XORWF      _Lect_prom+0, 0
 	BTFSC      STATUS+0, 2
@@ -953,7 +953,7 @@ L__interrupt174:
 	INCF       _Iter+0, 1
 	GOTO       L__interrupt174
 L__interrupt178:
-;esclavo.mbas,190 :: 		Temp=suma/lect_prom
+;esclavo.mbas,188 :: 		Temp=suma/lect_prom
 	MOVF       _Lect_prom+0, 0
 	MOVWF      R4+0
 	CLRF       R4+1
@@ -966,77 +966,77 @@ L__interrupt178:
 	MOVWF      _Temp+0
 	MOVF       R0+1, 0
 	MOVWF      _Temp+1
-;esclavo.mbas,191 :: 		Temp2_H=hi(temp)
+;esclavo.mbas,189 :: 		Temp2_H=hi(temp)
 	MOVF       _Temp+1, 0
 	MOVWF      _Temp2_H+0
-;esclavo.mbas,192 :: 		Temp2_L=lo(temp)
+;esclavo.mbas,190 :: 		Temp2_L=lo(temp)
 	MOVF       _Temp+0, 0
 	MOVWF      _Temp2_L+0
-;esclavo.mbas,193 :: 		if portc.2=0 then
+;esclavo.mbas,191 :: 		if portc.2=0 then
 	BTFSC      PORTC+0, 2
 	GOTO       L__interrupt180
-;esclavo.mbas,194 :: 		Entrada1=1
+;esclavo.mbas,192 :: 		Entrada1=1
 	MOVLW      1
 	MOVWF      _Entrada1+0
 	GOTO       L__interrupt181
-;esclavo.mbas,195 :: 		else
+;esclavo.mbas,193 :: 		else
 L__interrupt180:
-;esclavo.mbas,196 :: 		Entrada1=0
+;esclavo.mbas,194 :: 		Entrada1=0
 	CLRF       _Entrada1+0
-;esclavo.mbas,197 :: 		end if
+;esclavo.mbas,195 :: 		end if
 L__interrupt181:
-;esclavo.mbas,198 :: 		if portc.3=0 then
+;esclavo.mbas,196 :: 		if portc.3=0 then
 	BTFSC      PORTC+0, 3
 	GOTO       L__interrupt183
-;esclavo.mbas,199 :: 		Entrada2=1
+;esclavo.mbas,197 :: 		Entrada2=1
 	MOVLW      1
 	MOVWF      _Entrada2+0
 	GOTO       L__interrupt184
-;esclavo.mbas,200 :: 		else
+;esclavo.mbas,198 :: 		else
 L__interrupt183:
-;esclavo.mbas,201 :: 		Entrada2=0
+;esclavo.mbas,199 :: 		Entrada2=0
 	CLRF       _Entrada2+0
-;esclavo.mbas,202 :: 		end if
+;esclavo.mbas,200 :: 		end if
 L__interrupt184:
-;esclavo.mbas,203 :: 		longitud=94
+;esclavo.mbas,201 :: 		longitud=94
 	MOVLW      94
 	MOVWF      _Longitud+0
-;esclavo.mbas,204 :: 		Mensaje[0]=0
+;esclavo.mbas,202 :: 		Mensaje[0]=0
 	CLRF       _Mensaje+0
-;esclavo.mbas,205 :: 		mensaje[1]=esclavo
+;esclavo.mbas,203 :: 		mensaje[1]=esclavo
 	MOVF       _Esclavo+0, 0
 	MOVWF      _Mensaje+1
-;esclavo.mbas,206 :: 		Mensaje[2]=temp1_h
+;esclavo.mbas,204 :: 		Mensaje[2]=temp1_h
 	MOVF       _Temp1_H+0, 0
 	MOVWF      _Mensaje+2
-;esclavo.mbas,207 :: 		Mensaje[3]=temp1_l
+;esclavo.mbas,205 :: 		Mensaje[3]=temp1_l
 	MOVF       _Temp1_L+0, 0
 	MOVWF      _Mensaje+3
-;esclavo.mbas,208 :: 		Mensaje[4]=temp2_h
+;esclavo.mbas,206 :: 		Mensaje[4]=temp2_h
 	MOVF       _Temp2_H+0, 0
 	MOVWF      _Mensaje+4
-;esclavo.mbas,209 :: 		Mensaje[5]=temp2_l
+;esclavo.mbas,207 :: 		Mensaje[5]=temp2_l
 	MOVF       _Temp2_L+0, 0
 	MOVWF      _Mensaje+5
-;esclavo.mbas,210 :: 		Mensaje[6]=entrada1
+;esclavo.mbas,208 :: 		Mensaje[6]=entrada1
 	MOVF       _Entrada1+0, 0
 	MOVWF      _Mensaje+6
-;esclavo.mbas,211 :: 		Mensaje[7]=entrada2
+;esclavo.mbas,209 :: 		Mensaje[7]=entrada2
 	MOVF       _Entrada2+0, 0
 	MOVWF      _Mensaje+7
-;esclavo.mbas,212 :: 		Mensaje[92]=version_h
+;esclavo.mbas,210 :: 		Mensaje[92]=version_h
 	MOVF       _Version_H+0, 0
 	MOVWF      _Mensaje+92
-;esclavo.mbas,213 :: 		Mensaje[93]=version_l
+;esclavo.mbas,211 :: 		Mensaje[93]=version_l
 	MOVF       _Version_L+0, 0
 	MOVWF      _Mensaje+93
-;esclavo.mbas,214 :: 		calcularcrc
+;esclavo.mbas,212 :: 		calcularcrc
 	CALL       _CalcularCRC+0
-;esclavo.mbas,217 :: 		portc.4=1
+;esclavo.mbas,213 :: 		portc.4=1
 	BSF        PORTC+0, 4
-;esclavo.mbas,218 :: 		portc.5=1
+;esclavo.mbas,214 :: 		portc.5=1
 	BSF        PORTC+0, 5
-;esclavo.mbas,219 :: 		for Iter=0 to longitud   -1
+;esclavo.mbas,215 :: 		for Iter=0 to longitud   -1
 	CLRF       _Iter+0
 L__interrupt185:
 	DECF       _Longitud+0, 0
@@ -1045,14 +1045,14 @@ L__interrupt185:
 	SUBWF      FLOC__interrupt+0, 0
 	BTFSS      STATUS+0, 0
 	GOTO       L__interrupt189
-;esclavo.mbas,220 :: 		uart1_write(mensaje[iter])
+;esclavo.mbas,216 :: 		uart1_write(mensaje[iter])
 	MOVF       _Iter+0, 0
 	ADDLW      _Mensaje+0
 	MOVWF      FSR
 	MOVF       INDF+0, 0
 	MOVWF      FARG_UART1_Write_data_+0
 	CALL       _UART1_Write+0
-;esclavo.mbas,221 :: 		next iter
+;esclavo.mbas,217 :: 		next iter
 	MOVF       _Iter+0, 0
 	XORWF      FLOC__interrupt+0, 0
 	BTFSC      STATUS+0, 2
@@ -1060,15 +1060,15 @@ L__interrupt185:
 	INCF       _Iter+0, 1
 	GOTO       L__interrupt185
 L__interrupt189:
-;esclavo.mbas,222 :: 		uart1_write(crc_l)
+;esclavo.mbas,218 :: 		uart1_write(crc_l)
 	MOVF       _CRC_L+0, 0
 	MOVWF      FARG_UART1_Write_data_+0
 	CALL       _UART1_Write+0
-;esclavo.mbas,223 :: 		uart1_write(crc_h)
+;esclavo.mbas,219 :: 		uart1_write(crc_h)
 	MOVF       _CRC_H+0, 0
 	MOVWF      FARG_UART1_Write_data_+0
 	CALL       _UART1_Write+0
-;esclavo.mbas,226 :: 		delay_ms(3)
+;esclavo.mbas,220 :: 		delay_ms(3)
 	MOVLW      4
 	MOVWF      R12+0
 	MOVLW      228
@@ -1079,24 +1079,24 @@ L__interrupt190:
 	DECFSZ     R12+0, 1
 	GOTO       L__interrupt190
 	NOP
-;esclavo.mbas,227 :: 		portc.4=0
+;esclavo.mbas,221 :: 		portc.4=0
 	BCF        PORTC+0, 4
-;esclavo.mbas,228 :: 		portc.5=0
+;esclavo.mbas,222 :: 		portc.5=0
 	BCF        PORTC+0, 5
-;esclavo.mbas,230 :: 		porta.5=1                     ' apagar led ambar
+;esclavo.mbas,223 :: 		porta.5=1                     ' apagar led ambar
 	BSF        PORTA+0, 5
 L__interrupt167:
-;esclavo.mbas,231 :: 		end if
+;esclavo.mbas,224 :: 		end if
 L__interrupt158:
-;esclavo.mbas,232 :: 		end if
+;esclavo.mbas,225 :: 		end if
 L__interrupt155:
-;esclavo.mbas,233 :: 		end if
+;esclavo.mbas,226 :: 		end if
 L__interrupt152:
-;esclavo.mbas,235 :: 		end if
+;esclavo.mbas,228 :: 		end if
 L__interrupt149:
-;esclavo.mbas,237 :: 		GIE_bit = 1                   ' enable all interrupts
+;esclavo.mbas,230 :: 		GIE_bit = 1                   ' enable all interrupts
 	BSF        GIE_bit+0, 7
-;esclavo.mbas,238 :: 		end sub
+;esclavo.mbas,231 :: 		end sub
 L__interrupt205:
 	MOVF       ___savePCLATH+0, 0
 	MOVWF      PCLATH+0
@@ -1109,70 +1109,70 @@ L__interrupt205:
 
 _main:
 
-;esclavo.mbas,240 :: 		main:
-;esclavo.mbas,242 :: 		option_reg=%11111111
+;esclavo.mbas,233 :: 		main:
+;esclavo.mbas,235 :: 		option_reg=%11111111
 	MOVLW      255
 	MOVWF      OPTION_REG+0
-;esclavo.mbas,243 :: 		trisa=%00001111
+;esclavo.mbas,236 :: 		trisa=%00001111
 	MOVLW      15
 	MOVWF      TRISA+0
-;esclavo.mbas,244 :: 		trisb=%11111111
+;esclavo.mbas,237 :: 		trisb=%11111111
 	MOVLW      255
 	MOVWF      TRISB+0
-;esclavo.mbas,245 :: 		trisc=%10001100
+;esclavo.mbas,238 :: 		trisc=%10001100
 	MOVLW      140
 	MOVWF      TRISC+0
-;esclavo.mbas,246 :: 		adcon1=%1101
+;esclavo.mbas,239 :: 		adcon1=%1101
 	MOVLW      13
 	MOVWF      ADCON1+0
-;esclavo.mbas,247 :: 		Version_H=1
+;esclavo.mbas,240 :: 		Version_H=1
 	MOVLW      1
 	MOVWF      _Version_H+0
-;esclavo.mbas,248 :: 		Version_L=26
+;esclavo.mbas,241 :: 		Version_L=26
 	MOVLW      26
 	MOVWF      _Version_L+0
-;esclavo.mbas,249 :: 		Esclavo = eeprom_read(0)
+;esclavo.mbas,242 :: 		Esclavo = eeprom_read(0)
 	CLRF       FARG_EEPROM_Read_address+0
 	CALL       _EEPROM_Read+0
 	MOVF       R0+0, 0
 	MOVWF      _Esclavo+0
-;esclavo.mbas,250 :: 		LcdStart1 = eeprom_read(1)
+;esclavo.mbas,243 :: 		LcdStart1 = eeprom_read(1)
 	MOVLW      1
 	MOVWF      FARG_EEPROM_Read_address+0
 	CALL       _EEPROM_Read+0
 	MOVF       R0+0, 0
 	MOVWF      _LcdStart1+0
-;esclavo.mbas,251 :: 		LcdStart2 = eeprom_read(2)
+;esclavo.mbas,244 :: 		LcdStart2 = eeprom_read(2)
 	MOVLW      2
 	MOVWF      FARG_EEPROM_Read_address+0
 	CALL       _EEPROM_Read+0
 	MOVF       R0+0, 0
 	MOVWF      _LcdStart2+0
-;esclavo.mbas,252 :: 		if LcdStart1 = LcdStart2 then
+;esclavo.mbas,245 :: 		if LcdStart1 = LcdStart2 then
 	MOVF       _LcdStart1+0, 0
 	XORWF      R0+0, 0
 	BTFSS      STATUS+0, 2
 	GOTO       L__main193
-;esclavo.mbas,253 :: 		LcdStart1=255
+;esclavo.mbas,246 :: 		LcdStart1=255
 	MOVLW      255
 	MOVWF      _LcdStart1+0
-;esclavo.mbas,254 :: 		LcdStart2=128
+;esclavo.mbas,247 :: 		LcdStart2=128
 	MOVLW      128
 	MOVWF      _LcdStart2+0
 L__main193:
-;esclavo.mbas,256 :: 		Lect_prom=8
-	MOVLW      8
+;esclavo.mbas,249 :: 		Lect_prom=4
+	MOVLW      4
 	MOVWF      _Lect_prom+0
-;esclavo.mbas,257 :: 		for Iter=0 to 95
+;esclavo.mbas,250 :: 		for Iter=0 to 95
 	CLRF       _Iter+0
 L__main196:
-;esclavo.mbas,258 :: 		Mensaje[iter]=32
+;esclavo.mbas,251 :: 		Mensaje[iter]=32
 	MOVF       _Iter+0, 0
 	ADDLW      _Mensaje+0
 	MOVWF      FSR
 	MOVLW      32
 	MOVWF      INDF+0
-;esclavo.mbas,259 :: 		next iter
+;esclavo.mbas,252 :: 		next iter
 	MOVF       _Iter+0, 0
 	XORLW      95
 	BTFSC      STATUS+0, 2
@@ -1180,34 +1180,34 @@ L__main196:
 	INCF       _Iter+0, 1
 	GOTO       L__main196
 L__main199:
-;esclavo.mbas,260 :: 		portc.4=0
+;esclavo.mbas,253 :: 		portc.4=0
 	BCF        PORTC+0, 4
-;esclavo.mbas,261 :: 		portc.5=0
+;esclavo.mbas,254 :: 		portc.5=0
 	BCF        PORTC+0, 5
-;esclavo.mbas,262 :: 		limpiarleds
+;esclavo.mbas,255 :: 		limpiarleds
 	CALL       _LimpiarLeds+0
-;esclavo.mbas,263 :: 		uart1_init(9600)
+;esclavo.mbas,256 :: 		uart1_init(9600)
 	MOVLW      25
 	MOVWF      SPBRG+0
 	BSF        TXSTA+0, 2
 	CALL       _UART1_Init+0
-;esclavo.mbas,264 :: 		RCIE_bit = 1                  ' enable interrupt on UART1 receive
+;esclavo.mbas,257 :: 		RCIE_bit = 1                  ' enable interrupt on UART1 receive
 	BSF        RCIE_bit+0, 5
-;esclavo.mbas,265 :: 		TXIE_bit = 0                  ' disable interrupt on UART1 transmit
+;esclavo.mbas,258 :: 		TXIE_bit = 0                  ' disable interrupt on UART1 transmit
 	BCF        TXIE_bit+0, 4
-;esclavo.mbas,266 :: 		PEIE_bit = 1                  ' enable peripheral interrupts
+;esclavo.mbas,259 :: 		PEIE_bit = 1                  ' enable peripheral interrupts
 	BSF        PEIE_bit+0, 6
-;esclavo.mbas,267 :: 		GIE_bit = 1                   ' enable all interrupts
+;esclavo.mbas,260 :: 		GIE_bit = 1                   ' enable all interrupts
 	BSF        GIE_bit+0, 7
-;esclavo.mbas,268 :: 		clrwdt
+;esclavo.mbas,261 :: 		clrwdt
 	CLRWDT
-;esclavo.mbas,270 :: 		while true
+;esclavo.mbas,262 :: 		while true
 L__main201:
-;esclavo.mbas,271 :: 		clrwdt
+;esclavo.mbas,263 :: 		clrwdt
 	CLRWDT
-;esclavo.mbas,272 :: 		leer_lcd
+;esclavo.mbas,264 :: 		leer_lcd
 	CALL       _Leer_LCD+0
-;esclavo.mbas,273 :: 		wend
+;esclavo.mbas,265 :: 		wend
 	GOTO       L__main201
 	GOTO       $+0
 ; end of _main
