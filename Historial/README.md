@@ -13,3 +13,7 @@
 * Manuales de usuario de componentes
 
 * Documentacion de funciones, herramientas
+
+![diagrama_niple_rs485](/Historial/diagrama_niple_rs485.jpg)
+![Pantallazo](/Historial/Pantallazo.png)
+![rs-485 2 pics](/Historial/rs-485 2 pics.JPG)

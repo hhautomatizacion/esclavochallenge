@@ -1,7 +1,7 @@
 En la memoria eeprom del pic
 
-00 Nombre del esclavo
-01 Segunda parte del inicio de pantalla (Default 255)
+00 Numero de esclavo
+01 Segunda parte del inicio de pantalla (Default 0xFF)
 	En secadoras nuevas poner a 0x80
-02 Primera parte del inicio de pantalla (Default 128)
+02 Primera parte del inicio de pantalla (Default 0x80)
 	En secadoras nuevas poner a 0x02
