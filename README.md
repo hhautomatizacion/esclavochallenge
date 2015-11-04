@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://github.com/hhautomatizacion/lav-tupesa/blob/master/Programas/iconos%20v3/LOGO2.png">
+  <img src="https://avatars2.githubusercontent.com/u/15052789?v=3&s=200">
 </p>
 <br/>
 
