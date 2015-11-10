@@ -7,8 +7,6 @@ program esclavo_sec
 '' portc.4  salida      control transmitir/recibir (poner a uno (junto con portc.5) para transmitir)
 '' portc.5  salida      control transmitir/recibir (poner a uno (junto con portc.4) para transmitir)
 
-
-' Declarations section
 dim CRC_ok as boolean
 dim Esclavo as byte
 dim Temp as word
@@ -39,11 +37,19 @@ dim TimeOut4 as byte
 dim LcdStart1 as byte
 dim LcdStart2 as byte
 dim Contador as byte
+dim LimpiaPerro as byte
 sub procedure LimpiarLeds
-    porta.4=1
-    porta.5=1
-    portc.0=1
-    portc.1=1
+    LimpiaPerro=0
+    if testbit(STATUS,4) then
+        porta.4=0
+    else
+        clrwdt
+        porta.4=1
+        porta.5=1
+        portc.0=1
+        portc.1=1
+    end if
+
 end sub
 sub procedure Leer_Caracter
     TimeOut4=0
@@ -72,12 +78,11 @@ sub procedure Leer_Caracter
         loop until Caracter <> 255
     loop until Caracter <> ant_caracter
     Ant_Caracter=caracter
-
 end sub
 sub procedure Inicio_LCD
     timeout4=0
     TimeOut3=0
-
+    InicioLCD=false
     do
         Ant_Caracter=caracter
         delay_us(300)
@@ -91,16 +96,18 @@ sub procedure Inicio_LCD
             end if
         end if
     loop until (Caracter=lcdstart1) and (Ant_Caracter = LcdStart2)
-    InicioLCD=true
-    Ant_Caracter=128
+    if (Caracter=lcdstart1) and (Ant_Caracter = LcdStart2) then
+        InicioLCD=true
+        Ant_Caracter=128
+    end if
 end sub
 sub procedure Leer_LCD
 
-    InicioLCD=false
+
     Inicio_LCD
     
     if InicioLCD then
-        porta.4=0 'encender led azul
+        'porta.4=0 'encender led azul
         contador=7
         do
             Leer_Caracter
@@ -121,7 +128,7 @@ sub procedure Leer_LCD
 
         loop until contador > 91
     end if
-    porta.4=1 'apagar led azul
+    'porta.4=1 'apagar led azul
 end sub
 sub procedure CalcularCRC()
     crc=65535
@@ -162,7 +169,10 @@ sub procedure interrupt()
                     if Llamada[0]=6 then
                         portc.0=1                ' apagar el led rojo
                         portc.1=0                ' encender led verde
-                        clrwdt
+                        if InicioLCD then
+                            LimpiaPerro=0
+                        end if
+                        porta.4=1
                     end if
                     if Llamada[0]=5 then
                         clrwdt
@@ -218,6 +228,11 @@ sub procedure interrupt()
                         uart1_write(crc_l)
                         uart1_write(crc_h)
                         delay_ms(3)
+                        if InicioLCD=false then
+                            for Iter=0 to 95
+                                Mensaje[iter]=32
+                            next Iter
+                        end if
                         portc.4=0
                         portc.5=0
                         porta.5=1                     ' apagar led ambar
@@ -231,14 +246,13 @@ sub procedure interrupt()
 end sub
 
 main:
-'   Main program
-    option_reg=%11111111
+    option_reg=%11011111
     trisa=%00001111
     trisb=%11111111
     trisc=%10001100
     adcon1=%1101
     Version_H=1
-    Version_L=26
+    Version_L=27
     Esclavo = eeprom_read(0)
     LcdStart1 = eeprom_read(1)
     LcdStart2 = eeprom_read(2)
@@ -247,9 +261,7 @@ main:
         LcdStart2=128
     end if
     Lect_prom=4
-    for Iter=0 to 95
-        Mensaje[iter]=32
-    next iter
+
     portc.4=0
     portc.5=0
     limpiarleds
@@ -260,7 +272,10 @@ main:
     GIE_bit = 1                   ' enable all interrupts
     clrwdt
     while true
-        clrwdt
-        leer_lcd
+        Leer_LCD
+        inc(LimpiaPerro)
+        if LimpiaPerro < 40 then
+            clrwdt
+        end if
     wend
 end.

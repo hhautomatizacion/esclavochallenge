@@ -3,14 +3,14 @@ warning: 0	1501	Specified search path does not exist: '\\128.128.5.49\emmanuel\M
 diagnostics: 0	155	Available RAM: 176 [bytes], Available ROM: 4096 [bytes]	 
 diagnostics: 0	133	Compilation Started	C:\HH\esclavochallenge\trunk\Programas\esclavo.mbas
 hint: 1	1015	Hint: Compiling unit "C:\HH\esclavochallenge\trunk\Programas\esclavo.mbas"	esclavo.mbas
-hint: 142	1021	Hint: interrupt handler (interrupt at 0x0004)	esclavo.mbas
-hint: 256	1006	Warning: Generated baud rate is 9615 bps (error = 0.16 percent)	esclavo.mbas
-hint: 266	1010	Hint: Unit "esclavo.mbas" has been recompiled	esclavo.mbas
+hint: 149	1021	Hint: interrupt handler (interrupt at 0x0004)	esclavo.mbas
+hint: 268	1006	Warning: Generated baud rate is 9615 bps (error = 0.16 percent)	esclavo.mbas
+hint: 281	1010	Hint: Unit "esclavo.mbas" has been recompiled	esclavo.mbas
 diagnostics: 0	134	Compiled Successfully	C:\HH\esclavochallenge\trunk\Programas\esclavo.mbas
-diagnostics: 0	139	All files Compiled in 313 ms	 
-hint: 0	1144	Used RAM (bytes): 143 (81%)  Free RAM (bytes): 33 (19%)	Used RAM (bytes): 143 (81%)  Free RAM (bytes): 33 (19%)
-hint: 0	1144	Used ROM (program words): 1069 (26%)  Free ROM (program words): 3027 (74%)	Used ROM (program words): 1069 (26%)  Free ROM (program words): 3027 (74%)
+diagnostics: 0	139	All files Compiled in 250 ms	 
+hint: 0	1144	Used RAM (bytes): 144 (82%)  Free RAM (bytes): 32 (18%)	Used RAM (bytes): 144 (82%)  Free RAM (bytes): 32 (18%)
+hint: 0	1144	Used ROM (program words): 1106 (27%)  Free ROM (program words): 2990 (73%)	Used ROM (program words): 1106 (27%)  Free ROM (program words): 2990 (73%)
 diagnostics: 0	145	Project Linked Successfully	esclavo.mbppi
-diagnostics: 0	140	Linked in 953 ms	 
-diagnostics: 0	141	Project 'esclavo.mbppi' completed: 1578 ms	 
-diagnostics: 0	103	Finished successfully: 16 Oct 2015, 11:55:56	esclavo.mbppi
+diagnostics: 0	140	Linked in 859 ms	 
+diagnostics: 0	141	Project 'esclavo.mbppi' completed: 1343 ms	 
+diagnostics: 0	103	Finished successfully: 09 Nov 2015, 11:00:22	esclavo.mbppi

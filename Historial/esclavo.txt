@@ -5,3 +5,8 @@ En la memoria eeprom del pic
 	En secadoras nuevas poner a 0x80
 02 Primera parte del inicio de pantalla (Default 0x80)
 	En secadoras nuevas poner a 0x02
+
+	
+Version 1.27
+
+Se corrige error de asignacion de TMR0 en registro STATUS para mejorar funcionamiento de WDT.
