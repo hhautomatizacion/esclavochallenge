@@ -15,9 +15,10 @@
 ## Herramientas utilizadas
 * MikroBasic version 4.6
 * PicKit2 version 2.61.00
+* PCB Wizard Professional Edition version 3.50
 	
 ## Modelos de PLC, etc.
-* PIC 16F873A
+* Tarjeta para secadora challenge H&H
 
 ## Autores
 * emmanuel156
