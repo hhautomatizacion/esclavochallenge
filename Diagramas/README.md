@@ -14,4 +14,6 @@
 
 * Dibujos
 
-![Cableado RS-485.bmp](/Diagramas/Cableado RS-485.bmp.jpg)
+---
+![Cableado RS-485.bmp.jpg](/Diagramas/Cableado RS-485.bmp.jpg)
+---
