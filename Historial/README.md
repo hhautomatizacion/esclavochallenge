@@ -15,9 +15,9 @@
 * Documentacion de funciones, herramientas
 
 ---
-![diagrama_niple_rs485.jpg](/Historial/diagrama_niple_rs485.jpg)
----
 ![Pantallazo.png](/Historial/Pantallazo.png)
+---
+![diagrama_niple_rs485.jpg](/Historial/diagrama_niple_rs485.jpg)
 ---
 ![rs-485 2 pics.JPG](/Historial/rs-485 2 pics.JPG)
 ---

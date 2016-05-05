@@ -58,9 +58,9 @@
 ---
 ![2014-04-02 16.05.04.jpg](/Fotos/2014-04-02 16.05.04.jpg)
 ---
-![diagrama_niple_rs485.jpg](/Historial/diagrama_niple_rs485.jpg)
----
 ![Pantallazo.png](/Historial/Pantallazo.png)
+---
+![diagrama_niple_rs485.jpg](/Historial/diagrama_niple_rs485.jpg)
 ---
 ![rs-485 2 pics.JPG](/Historial/rs-485 2 pics.JPG)
 ---
