@@ -62,6 +62,8 @@
 ---
 ![Cableado RS-485.bmp.jpg](/Diagramas/Cableado RS-485.bmp.jpg)
 ---
+![diagrama_niple_rs485.jpg](/Diagramas/diagrama_niple_rs485.jpg)
+---
 ![2014-04-02 16.03.06.jpg](/Fotos/2014-04-02 16.03.06.jpg)
 ---
 ![2014-04-02 16.03.07.jpg](/Fotos/2014-04-02 16.03.07.jpg)
@@ -90,9 +92,7 @@
 ---
 ![2014-04-02 16.05.04.jpg](/Fotos/2014-04-02 16.05.04.jpg)
 ---
-![Pantallazo.png](/Historial/Pantallazo.png)
----
-![diagrama_niple_rs485.jpg](/Historial/diagrama_niple_rs485.jpg)
+![Pantallazo.png](/Fotos/Pantallazo.png)
 ---
 ![rs-485 2 pics.JPG](/Historial/rs-485 2 pics.JPG)
 ---

@@ -17,3 +17,5 @@
 ---
 ![Cableado RS-485.bmp.jpg](/Diagramas/Cableado RS-485.bmp.jpg)
 ---
+![diagrama_niple_rs485.jpg](/Diagramas/diagrama_niple_rs485.jpg)
+---
