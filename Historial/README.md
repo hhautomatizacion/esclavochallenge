@@ -15,5 +15,5 @@
 * Documentacion de funciones, herramientas
 
 ---
-![rs-485 2 pics.JPG](/Historial/rs-485 2 pics.JPG)
+![rs-485 2 pics.JPG](/Historial/rs-485%202%20pics.JPG)
 ---
